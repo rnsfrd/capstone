@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>17G65</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.Default-okbebkaplcjomdalclaolhcbcaaklhck</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Renewable internal freshwater resources per capita (cubic meters) | Data</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2020.2.19.37756</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3945.130</string>
+	<key>CrAppModeProfileDir</key>
+	<string>Default</string>
+	<key>CrAppModeProfileName</key>
+	<string>Person 1</string>
+	<key>CrAppModeShortcutID</key>
+	<string>okbebkaplcjomdalclaolhcbcaaklhck</string>
+	<key>CrAppModeShortcutName</key>
+	<string>Renewable internal freshwater resources per capita (cubic meters) | Data</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://data.worldbank.org/indicator/ER.H2O.INTR.PC?name_desc=false</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/rdk/Library/Application Support/Google/Chrome/Default/Web Applications/_crx_okbebkaplcjomdalclaolhcbcaaklhck</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>79.0.3945.130</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>10.14</string>
+	<key>DTSDKName</key>
+	<string>macosx10.14</string>
+	<key>DTXcode</key>
+	<string>1021</string>
+	<key>DTXcodeBuild</key>
+	<string>10E1001</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.10.0</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
