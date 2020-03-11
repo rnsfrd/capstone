@@ -63,7 +63,7 @@ Additionally I aimed to find relations between inputs that provide insight into 
 
 Because I wanted to see how the inputs of infrastructure might affect the spread of disease it was critical to choose a country whose infrastructure had significant change over time as well as had diseases that were random in magnitude year to year. The problem addressed here concerns itself primarily with developing countries that are politically unstable which leads to infrastructure instability. To measure this we took the Coeffecient of Variation (COV) for infrastructure data and compared countries to see which ones were most volatile. As shown in the chart below most of these countries were developing countries that might not have stable governments. L
 
-<img src="../Images/infrastructure_cov.png"  width="600" height="600">
+<img src="./Images/infrastructure_cov.png"  width="600" height="600">
 
 Next, we wanted to take countries that had a high number of cases with a large Coeffecient of Variation for that disease. The image below showing the relation between COV and # of measles cases shows that while most countries have around the same 20 year totals the variation year over year is very different, which means some countries have contained it, while others still have spikes and outbreaks. This was consistent for all diseases.
 
