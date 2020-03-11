@@ -17,14 +17,14 @@ The goal of this project is to try and forecast transmission rates of viral dise
 ## Executive Summary<a id='models'></a>
 
 
-This project specifically focused on countries that show a significant amount of variation within the data using the coeffecient of variation (COV) for the number of reported cases for several diseases as well as countries that have instability in infrastructure also guaged using the COV. The reason for this is to discover possible novel relationships in developing countries between infrastructure and their transmission rates. We cannot see the effect of infrastructure inputs on transmission rates if the country has very stable infrastructure and number of cases. Countries that are extremely underdeveloped or extremely developed will generally produce overgeneralized results as their infrastructure and transmission rates are relatively stable. I.e., there is nothing novel about saying rich countries have a consistently low number of cases for a disease and poor countries have a consistently high number of cases for a disease. 
+This project specifically focused on countries that show a significant amount of variation within the data using the coeffecient of variation (COV) for the number of reported cases for several diseases from 1999-2019. COV was also used to compare volatility of infrastructure between countries from 1999-2019. The reason for this is to discover possible novel relationships in developing countries between infrastructure and their transmission rates. We cannot see the effect of infrastructure inputs on transmission rates if the country has very stable infrastructure and number of cases. Countries that are extremely underdeveloped or extremely developed will generally produce overgeneralized results as their infrastructure and transmission rates are relatively stable. I.e., there is nothing novel about saying rich countries have a consistently low number of cases for a disease and poor countries have a consistently high number of cases for a disease. 
 
 For this problem I built a time series model as we are studying the effects on spread of a disease over time given changing inputs or exogenous factors. For this reason I used an ARIMAX time series model. I gathered infrastructure data as well as transmission rate data for several diseases over time and selected features intuitively and by studying interactions and relations between variables.
 
 
 ## Success Criteria<a id='criteria'></a>
 
-The success of our model will be based on how well the model predicts the number of cases for future years. We can guage how well the model predicts by looking at the RMSE compared to that of our baseline which is the mean of Total Cases. We will run our model on our test data to see how well our predictions match the actual number of cases. 
+The success of our model will be based on how well the model predicts the number of cases for a given year. We can guage how well the model predicts by looking at the RMSE compared to that of our baseline which is the mean of Total Cases. We will run our model on our test data to see how well our predictions match the actual number of cases. 
 
 Additionally I aimed to find relations between inputs that provide insight into which infrastructure inputs affect disease transmission rates versus which inputs do not to assess the validity of our hypothesis and direct future projects. It could be that infrastructure does not have an effect on the spread of communicable diseases.
 
@@ -96,7 +96,7 @@ Given the time series data and presence of exogenous variables, I fit an Arimax 
 
 For every unit change in the feature the number of cases goes up or down the associated coeffecient.
 
-|  Feature	| Coeffecient (Rounded to Whole Number)	|
+|  Feature	| Coeffecient (Rounded to Whole Number)|
 |---	|---	|
 |  ICT Goods exports (% of total goods exports)	| -1249|
 |  Individuals Using the Internet (% of population)	| 1362|
