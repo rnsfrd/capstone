@@ -19,14 +19,14 @@ The goal of this project is to try and forecast transmission rates of viral dise
 
 This project specifically focused on countries that show a significant amount of variation within the data using the coeffecient of variation (COV) for the number of reported cases for several diseases from 1999-2019. COV was also used to compare volatility of infrastructure between countries from 1999-2019. The reason for this is to discover possible novel relationships in developing countries between infrastructure and their transmission rates. We cannot see the effect of infrastructure inputs on transmission rates if the country has very stable infrastructure and number of cases. Countries that are extremely underdeveloped or extremely developed will generally produce overgeneralized results as their infrastructure and transmission rates are relatively stable. I.e., there is nothing novel about saying rich countries have a consistently low number of cases for a disease and poor countries have a consistently high number of cases for a disease. 
 
-For this problem I built a time series model as we are studying the effects on spread of a disease over time given changing inputs or exogenous factors. For this reason I used an ARIMAX time series model. I gathered infrastructure data as well as transmission rate data for several diseases over time and selected features intuitively and by studying interactions and relations between variables.
+For this problem we built a time series model as we are studying the effects on spread of a disease over time given changing inputs or exogenous factors. For this reason we used an ARIMAX time series model. We gathered infrastructure data as well as transmission rate data for several diseases over time and selected features intuitively and by studying interactions and relations between variables.
 
 
 ## Success Criteria<a id='criteria'></a>
 
 The success of our model will be based on how well the model predicts the number of cases for a given year. We can guage how well the model predicts by looking at the RMSE compared to that of our baseline which is the mean of Total Cases. We will run our model on our test data to see how well our predictions match the actual number of cases. 
 
-Additionally I aimed to find relations between inputs that provide insight into which infrastructure inputs affect disease transmission rates versus which inputs do not to assess the validity of our hypothesis and direct future projects. It could be that infrastructure does not have an effect on the spread of communicable diseases.
+Additionally we aimed to find relations between inputs that provide insight into which infrastructure inputs affect disease transmission rates versus which inputs do not to assess the validity of our hypothesis and direct future projects. It could be that infrastructure does not have an effect on the spread of communicable diseases.
 
 ## Data Sources<a id='sources'></a>
 
@@ -61,7 +61,7 @@ Additionally I aimed to find relations between inputs that provide insight into 
 
 # Criteria for Selecting a Country<a id='country'></a>
 
-Because I wanted to see how the inputs of infrastructure might affect the spread of disease it was critical to choose a country whose infrastructure had significant change over time as well as had diseases that were random in magnitude year to year. The problem addressed here concerns itself primarily with developing countries that are politically unstable which leads to infrastructure instability. To measure this we took the Coeffecient of Variation (COV) for infrastructure data and compared countries to see which ones were most volatile. As shown in the chart below most of these countries were developing countries that might not have stable governments. L
+Because we wanted to see how the inputs of infrastructure might affect the spread of disease it was critical to choose a country whose infrastructure had significant change over time as well as had diseases that were random in magnitude year to year. The problem addressed here concerns itself primarily with developing countries that are politically unstable which leads to infrastructure instability. To measure this we took the Coeffecient of Variation (COV) for infrastructure data and compared countries to see which ones were most volatile. As shown in the chart below most of these countries were developing countries that might not have stable governments. L
 
 <img src="./Images/infrastructure_cov.png"  width="600" height="400">
 
@@ -69,7 +69,7 @@ Next, we wanted to take countries that had a high number of cases with a large C
 
 <img src="./Images/measles_cov.png"  width="600" height="400">
 
-The country I selected for modelling was **Mexico** because of the following disease and infrastructure metrics:
+The country we selected for modelling was **Mexico** because of the following disease and infrastructure metrics:
 
 - Infrastructure COV of 26 which was relatively high considering the worldwide range of 2 to 33.
 - Medical Technology COV which was the highest worlwide.
@@ -83,7 +83,7 @@ We are choosing to study transmission cases for the following diseases because M
 
 # Modeling<a id='model'></a>
 
-Given the time series data and presence of exogenous variables, I fit an Arimax model with an order of (3,3,2). This model uses the variables listed below to predict the number of Pertussis and Mumps cases within Mexico.
+Given the time series data and presence of exogenous variables, we fit an Arimax model with an order of (3,3,2). This model uses the variables listed below to predict the number of Pertussis and Mumps cases within Mexico.
 
 ### Predictions
 
@@ -125,11 +125,11 @@ The first interesting relationship is that while developing and third world coun
 
 <img src="./Images/hosp.png"  width="600" height="400">
 
-Diving into relationships observed within Mexico, interestingly as the number of hospitals increases the number of cases increases. This observation has led me to rethink how I tackle public health policies moving forward. I cannot assume causal relationships because the collection of data is something to take into consideration. With more hospitals the more cases will be reported which is one aspect I did not consider. Also, it is possible that in developing countries, infrastructure is more reactionary than preparatory. Meaning, because of limited resources they do not increase spending on healthcare unless they have to. So as disease increases so does the number of hospitals, doctors, medical tech, etc which was something also observed by looking at the coeffecients above. 
+Diving into relationships observed within Mexico, interestingly as the number of hospitals increases the number of cases increases. This observation has led me to rethink how we tackle public health policies moving forward. I cannot assume causal relationships because the collection of data is something to take into consideration. With more hospitals the more cases will be reported which is one aspect we did not consider. Also, it is possible that in developing countries, infrastructure is more reactionary than preparatory. Meaning, because of limited resources they do not increase spending on healthcare unless they have to. So as disease increases so does the number of hospitals, doctors, medical tech, etc which was something also observed by looking at the coeffecients above. 
 
 <img src="./Images/internet.png"  width="600" height="400">
 
-Another interesting observation was that as the number of people on the internet increased so did the number of cases. While I thought better access to information might limit the spread of disease because people could be better informed, have more knowledge on prevention and how to treat things, the opposite proved true. While this relationship might just be coincidental, it does raise an interesting question that I could examine further, how by having a more 'social' society can affect the spread of disease compared to rural settings.
+Another interesting observation was that as the number of people on the internet increased so did the number of cases. While I thought better access to information might limit the spread of disease because people could be better informed, have more knowledge on prevention and how to treat things, the opposite proved true. While this relationship might just be coincidental, it does raise an interesting question that we could examine further, how by having a more 'social' society can affect the spread of disease compared to rural settings.
 
 <img src="./Images/san_tran.png"  width="1200" height="800">
 
@@ -142,4 +142,4 @@ The risk and pitfall of this model is that infrastructure data is only available
 # Conclusions & Next Steps<a id='next'></a>
 Differencing at an order of 3 is not ideal however was required based on our AD Fuller test. For the next step we will most likely use a Vector Autoregression Model (VAR) for this data. 
 
-Additionally the hypothesis likely needs to be modified based on observed relations between infrastrcture and viral cases and through observing the coeffecients on our model. Our original hypothesis was based on the theory that countries with increasing levels of infrastructure are able to handle the spread of disease better through access to more to information, better sanitation, more medicine, more hospitals, and more doctors. This theory appears to be false but can lead to further studies on each individual aspects of infrastructure within Mexico. The next best route would be to focus on one area of infrastructure such as transportation, communication, healthcare, etc. The reason being is that as shown above these different pieces of infrastructure do not always have the same relationship with the number of viral cases as expected. Some things that one would consider 'good' for infrastructure are actually bad in terms of contributing to the spread of diseases. Additionally I would have to look at causal relationships between infrastructure and disease spread by taking a closer look at how a country designates a budget. For example, as discussed before, in first world countries it may be a natural course of action to increase spending on medical services regardless of outbreaks, however in developing countries with limited resources they may not be able to, thus funding medical services actually follows an outbreak. Tackling a problem like this requires more than just data but really learning the ins and outs of a country, how it operates, how government leaders make decisions, how the country reports statistics, etc. While the results of the model may not have provided much predictive power it does offer direction of which areas to focus on in the future.
+Additionally the hypothesis likely needs to be modified based on observed relations between infrastrcture and viral cases and through observing the coeffecients on our model. Our original hypothesis was based on the theory that countries with increasing levels of infrastructure are able to handle the spread of disease better through access to more to information, better sanitation, more medicine, more hospitals, and more doctors. This theory appears to be false but can lead to further studies on each individual aspects of infrastructure within Mexico. The next best route would be to focus on one area of infrastructure such as transportation, communication, healthcare, etc. The reason being is that as shown above these different pieces of infrastructure do not always have the same relationship with the number of viral cases as expected. Some things that one would consider 'good' for infrastructure are actually bad in terms of contributing to the spread of diseases. Additionally we would have to look at causal relationships between infrastructure and disease spread by taking a closer look at how a country designates a budget. For example, as discussed before, in first world countries it may be a natural course of action to increase spending on medical services regardless of outbreaks, however in developing countries with limited resources they may not be able to, thus funding medical services actually follows an outbreak. Tackling a problem like this requires more than just data but really learning the ins and outs of a country, how it operates, how government leaders make decisions, how the country reports statistics, etc. While the results of the model may not have provided much predictive power it does offer direction of which areas to focus on in the future.
