@@ -98,22 +98,22 @@ For every unit change in the feature the number of cases goes up or down the ass
 
 |  Feature	| Coeffecient (Rounded to Whole Number)	|
 |---	|---	|
-|  ICT Goods exports (% of total goods exports)	| -1249 	|
-|  Individuals Using the Internet (% of population)	| 1362 	|
-| Fixed telephone subscriptions (per 100 people) 	|2839 	|
-| Air transport, freign (million ton-km) 	| -20  	|
-| Industrial design applications, nonresident, by count 	| -25  	|
-|  Public private partnerships investment in water and sanitation (1 Million US Dollars) 	| 6  	|
-|  Public private partnerships investment in transport (1 Million US Dollars)	| .03 	|
-|  Electricity production from natural gas sources (% of total)	| -15 	|
-|  ICT service exports (% of service exports, BoP)	| 4341  	|
-|  Healthcare Expenditure Percent GDP	| 2566 	|
-| Pharmaceutical Spending US $ / Capita 	| -65  	|
-| CT Scan Device Counts  	| -68 	|
-| PET Scan Device Counts  	| -1143  	|
-| Doctors per 1000 People  	| 256  	|
-| Nurses per 1000 People 	| -19  	|
-| Hospital Count  	| 22  	|
+|  ICT Goods exports (% of total goods exports)	| -1249|
+|  Individuals Using the Internet (% of population)	| 1362|
+| Fixed telephone subscriptions (per 100 people) 	| 2839|
+| Air transport, freign (million ton-km) 	| -20|
+| Industrial design applications, nonresident, by count 	| -25|
+|  Public private partnerships investment in water and sanitation (1 Million US Dollars) 	| 6|
+|  Public private partnerships investment in transport (1 Million US Dollars)	| .03|
+|  Electricity production from natural gas sources (% of total)	| -15|
+|  ICT service exports (% of service exports, BoP)	| 4341|
+|  Healthcare Expenditure Percent GDP	| 2566|
+| Pharmaceutical Spending US $ / Capita 	| -65|
+| CT Scan Device Counts  	| -68|
+| PET Scan Device Counts  	| -1143|
+| Doctors per 1000 People  	| 256|
+| Nurses per 1000 People 	| -19|
+| Hospital Count  	| 22|
 
 # Analysis & Findings<a id='find'></a>
 
