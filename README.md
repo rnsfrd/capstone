@@ -96,11 +96,11 @@ Given the time series data and presence of exogenous variables, I fit an Arimax 
 
 For every unit change in the feature the number of cases goes up or down the associated coeffecient.
 
-|  Feature	| Coef (Rouned to Whole Number)	|
+|  Feature	| Coeffecient (Rounded to Whole Number)	|
 |---	|---	|
 |  ICT Goods exports (% of total goods exports)	| -1249 	|
 |  Individuals Using the Internet (% of population)	| 1362 	|
-| Fixed telephone subscriptions (per 100 people) 	| 2839 	|
+| Fixed telephone subscriptions (per 100 people) 	|2839 	|
 | Air transport, freign (million ton-km) 	| -20  	|
 | Industrial design applications, nonresident, by count 	| -25  	|
 |  Public private partnerships investment in water and sanitation (1 Million US Dollars) 	| 6  	|
@@ -131,7 +131,7 @@ Diving into relationships observed within Mexico, interestingly as the number of
 
 Another interesting observation was that as the number of people on the internet increased so did the number of cases. While I thought better access to information might limit the spread of disease because people could be better informed, have more knowledge on prevention and how to treat things, the opposite proved true. While this relationship might just be coincidental, it does raise an interesting question that I could examine further, how by having a more 'social' society can affect the spread of disease compared to rural settings.
 
-<img src="./Images/san_tran.png"  width="600" height="400">
+<img src="./Images/san_tran.png"  width="1200" height="800">
 
 The last thing that was very interesting was that the more money spent on sanitation and transportation the more disease there was. Transportation might be obvious because as more people commute the easier a disease spreads compared to areas with no rail lines, buses, or available walkways. Sanitation however offers an unusual relationship as one would expect there to be an inverse relationship. Again, this might offer insight as to how developing countries operate; they do not increase funding for prevention, but as a reaction to something bad happening. So it could be in fact that spending in sanitation increases after the nubmer of diseases spikes.
 
