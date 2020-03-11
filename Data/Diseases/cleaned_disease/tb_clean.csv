@@ -1,3653 +1,3653 @@
-Country,Year,tuberculosis_incidence
-Afghanistan,2018,70000
-Afghanistan,2017,69000
-Afghanistan,2016,67000
-Afghanistan,2015,65000
-Afghanistan,2014,63000
-Afghanistan,2013,61000
-Afghanistan,2012,59000
-Afghanistan,2011,57000
-Afghanistan,2010,55000
-Afghanistan,2009,54000
-Afghanistan,2008,52000
-Afghanistan,2007,51000
-Afghanistan,2006,50000
-Afghanistan,2005,48000
-Afghanistan,2004,47000
-Afghanistan,2003,45000
-Afghanistan,2002,43000
-Afghanistan,2001,41000
-Afghanistan,2000,39000
-Albania,2018,510
-Albania,2017,580
-Albania,2016,480
-Albania,2015,480
-Albania,2014,470
-Albania,2013,550
-Albania,2012,470
-Albania,2011,490
-Albania,2010,500
-Albania,2009,510
-Albania,2008,490
-Albania,2007,500
-Albania,2006,540
-Albania,2005,580
-Albania,2004,630
-Albania,2003,640
-Albania,2002,680
-Albania,2001,640
-Albania,2000,690
-Algeria,2018,29000
-Algeria,2017,29000
-Algeria,2016,29000
-Algeria,2015,30000
-Algeria,2014,28000
-Algeria,2013,26000
-Algeria,2012,27000
-Algeria,2011,27000
-Algeria,2010,28000
-Algeria,2009,27000
-Algeria,2008,26000
-Algeria,2007,27000
-Algeria,2006,26000
-Algeria,2005,27000
-Algeria,2004,25000
-Algeria,2003,25000
-Algeria,2002,24000
-Algeria,2001,23000
-Algeria,2000,23000
-Andorra,2018,2
-Andorra,2017,1
-Andorra,2016,5
-Andorra,2015,5
-Andorra,2014,7
-Andorra,2013,6
-Andorra,2012,10
-Andorra,2011,3
-Andorra,2010,8
-Andorra,2009,9
-Andorra,2008,5
-Andorra,2007,6
-Andorra,2006,14
-Andorra,2005,12
-Andorra,2004,8
-Andorra,2003,13
-Andorra,2002,6
-Andorra,2001,12
-Andorra,2000,14
-Angola,2018,109000
-Angola,2017,107000
-Angola,2016,105000
-Angola,2015,102000
-Angola,2014,100000
-Angola,2013,98000
-Angola,2012,95000
-Angola,2011,93000
-Angola,2010,90000
-Angola,2009,87000
-Angola,2008,83000
-Angola,2007,79000
-Angola,2006,76000
-Angola,2005,72000
-Angola,2004,66000
-Angola,2003,61000
-Angola,2002,56000
-Angola,2001,52000
-Angola,2000,49000
-Antigua and Barbuda,2018,6
-Antigua and Barbuda,2017,1
-Antigua and Barbuda,2016,3
-Antigua and Barbuda,2015,5
-Antigua and Barbuda,2014,3
-Antigua and Barbuda,2013,12
-Antigua and Barbuda,2012,3
-Antigua and Barbuda,2011,7
-Antigua and Barbuda,2010,8
-Antigua and Barbuda,2009,3
-Antigua and Barbuda,2008,1
-Antigua and Barbuda,2007,2
-Antigua and Barbuda,2006,5
-Antigua and Barbuda,2005,7
-Antigua and Barbuda,2004,5
-Antigua and Barbuda,2003,1
-Antigua and Barbuda,2002,5
-Antigua and Barbuda,2001,1
-Antigua and Barbuda,2000,5
-Argentina,2018,12000
-Argentina,2017,12000
-Argentina,2016,12000
-Argentina,2015,11000
-Argentina,2014,11000
-Argentina,2013,10000
-Argentina,2012,10000
-Argentina,2011,11000
-Argentina,2010,8400
-Argentina,2009,8900
-Argentina,2008,11000
-Argentina,2007,12000
-Argentina,2006,11000
-Argentina,2005,12000
-Argentina,2004,13000
-Argentina,2003,12000
-Argentina,2002,13000
-Argentina,2001,13000
-Argentina,2000,14000
-Armenia,2018,920
-Armenia,2017,1100
-Armenia,2016,1300
-Armenia,2015,1500
-Armenia,2014,1700
-Armenia,2013,1700
-Armenia,2012,1500
-Armenia,2011,1600
-Armenia,2010,1800
-Armenia,2009,2000
-Armenia,2008,2100
-Armenia,2007,2100
-Armenia,2006,2200
-Armenia,2005,2800
-Armenia,2004,2100
-Armenia,2003,1900
-Armenia,2002,1800
-Armenia,2001,1700
-Armenia,2000,1700
-Australia,2018,1700
-Australia,2017,1600
-Australia,2016,1600
-Australia,2015,1400
-Australia,2014,1500
-Australia,2013,1400
-Australia,2012,1500
-Australia,2011,1400
-Australia,2010,1400
-Australia,2009,1500
-Australia,2008,1400
-Australia,2007,1300
-Australia,2006,1300
-Australia,2005,1200
-Australia,2004,1200
-Australia,2003,1100
-Australia,2002,1200
-Australia,2001,1100
-Australia,2000,1200
-Austria,2018,630
-Austria,2017,650
-Austria,2016,710
-Austria,2015,650
-Austria,2014,650
-Austria,2013,720
-Austria,2012,710
-Austria,2011,770
-Austria,2010,760
-Austria,2009,760
-Austria,2008,870
-Austria,2007,930
-Austria,2006,980
-Austria,2005,1100
-Austria,2004,1000
-Austria,2003,1100
-Austria,2002,1200
-Austria,2001,1200
-Austria,2000,1400
-Azerbaijan,2018,6300
-Azerbaijan,2017,6500
-Azerbaijan,2016,6400
-Azerbaijan,2015,6800
-Azerbaijan,2014,7200
-Azerbaijan,2013,7300
-Azerbaijan,2012,8000
-Azerbaijan,2011,11000
-Azerbaijan,2010,9400
-Azerbaijan,2009,12000
-Azerbaijan,2008,9500
-Azerbaijan,2007,6900
-Azerbaijan,2006,7100
-Azerbaijan,2005,7500
-Azerbaijan,2004,6800
-Azerbaijan,2003,4800
-Azerbaijan,2002,6400
-Azerbaijan,2001,6100
-Azerbaijan,2000,6500
-Bahamas,2018,54
-Bahamas,2017,59
-Bahamas,2016,100
-Bahamas,2015,71
-Bahamas,2014,58
-Bahamas,2013,38
-Bahamas,2012,37
-Bahamas,2011,47
-Bahamas,2010,36
-Bahamas,2009,52
-Bahamas,2008,56
-Bahamas,2007,53
-Bahamas,2006,69
-Bahamas,2005,55
-Bahamas,2004,61
-Bahamas,2003,44
-Bahamas,2002,51
-Bahamas,2001,72
-Bahamas,2000,94
-Bahrain,2018,180
-Bahrain,2017,170
-Bahrain,2016,180
-Bahrain,2015,200
-Bahrain,2014,220
-Bahrain,2013,240
-Bahrain,2012,260
-Bahrain,2011,260
-Bahrain,2010,280
-Bahrain,2009,370
-Bahrain,2008,350
-Bahrain,2007,340
-Bahrain,2006,320
-Bahrain,2005,320
-Bahrain,2004,280
-Bahrain,2003,300
-Bahrain,2002,220
-Bahrain,2001,220
-Bahrain,2000,240
-Bangladesh,2018,357000
-Bangladesh,2017,353000
-Bangladesh,2016,349000
-Bangladesh,2015,346000
-Bangladesh,2014,342000
-Bangladesh,2013,338000
-Bangladesh,2012,334000
-Bangladesh,2011,330000
-Bangladesh,2010,326000
-Bangladesh,2009,323000
-Bangladesh,2008,319000
-Bangladesh,2007,316000
-Bangladesh,2006,312000
-Bangladesh,2005,308000
-Bangladesh,2004,303000
-Bangladesh,2003,298000
-Bangladesh,2002,293000
-Bangladesh,2001,288000
-Bangladesh,2000,282000
-Barbados,2018,1
-Barbados,2017,0
-Barbados,2016,3
-Barbados,2015,0
-Barbados,2014,6
-Barbados,2013,5
-Barbados,2012,5
-Barbados,2011,0
-Barbados,2010,7
-Barbados,2009,2
-Barbados,2008,3
-Barbados,2007,18
-Barbados,2006,6
-Barbados,2005,11
-Barbados,2004,22
-Barbados,2003,10
-Barbados,2002,6
-Barbados,2001,7
-Barbados,2000,3
-Belarus,2018,2900
-Belarus,2017,3500
-Belarus,2016,4000
-Belarus,2015,4700
-Belarus,2014,4800
-Belarus,2013,5600
-Belarus,2012,6000
-Belarus,2011,5900
-Belarus,2010,6400
-Belarus,2009,6600
-Belarus,2008,6400
-Belarus,2007,6700
-Belarus,2006,6400
-Belarus,2005,6600
-Belarus,2004,6800
-Belarus,2003,7500
-Belarus,2002,6400
-Belarus,2001,6900
-Belarus,2000,8500
-Belgium,2018,1000
-Belgium,2017,1100
-Belgium,2016,1100
-Belgium,2015,1100
-Belgium,2014,1000
-Belgium,2013,1000
-Belgium,2012,1000
-Belgium,2011,1100
-Belgium,2010,1200
-Belgium,2009,1100
-Belgium,2008,1100
-Belgium,2007,1100
-Belgium,2006,1200
-Belgium,2005,1200
-Belgium,2004,1300
-Belgium,2003,1200
-Belgium,2002,1400
-Belgium,2001,1500
-Belgium,2000,1500
-Belize,2018,110
-Belize,2017,130
-Belize,2016,140
-Belize,2015,90
-Belize,2014,83
-Belize,2013,140
-Belize,2012,97
-Belize,2011,85
-Belize,2010,170
-Belize,2009,100
-Belize,2008,100
-Belize,2007,72
-Belize,2006,98
-Belize,2005,120
-Belize,2004,95
-Belize,2003,110
-Belize,2002,160
-Belize,2001,160
-Belize,2000,120
-Benin,2018,6500
-Benin,2017,6400
-Benin,2016,6400
-Benin,2015,6400
-Benin,2014,6300
-Benin,2013,6400
-Benin,2012,6400
-Benin,2011,6400
-Benin,2010,6300
-Benin,2009,6200
-Benin,2008,6000
-Benin,2007,5800
-Benin,2006,5900
-Benin,2005,5800
-Benin,2004,5800
-Benin,2003,5800
-Benin,2002,5900
-Benin,2001,5900
-Benin,2000,5900
-Bhutan,2018,1100
-Bhutan,2017,1100
-Bhutan,2016,1400
-Bhutan,2015,1200
-Bhutan,2014,1300
-Bhutan,2013,1400
-Bhutan,2012,1400
-Bhutan,2011,1500
-Bhutan,2010,1600
-Bhutan,2009,1400
-Bhutan,2008,1200
-Bhutan,2007,1200
-Bhutan,2006,1100
-Bhutan,2005,1300
-Bhutan,2004,1200
-Bhutan,2003,1300
-Bhutan,2002,1400
-Bhutan,2001,1300
-Bhutan,2000,1400
-Bolivia (Plurinational State of),2018,12000
-Bolivia (Plurinational State of),2017,12000
-Bolivia (Plurinational State of),2016,13000
-Bolivia (Plurinational State of),2015,13000
-Bolivia (Plurinational State of),2014,13000
-Bolivia (Plurinational State of),2013,13000
-Bolivia (Plurinational State of),2012,13000
-Bolivia (Plurinational State of),2011,13000
-Bolivia (Plurinational State of),2010,14000
-Bolivia (Plurinational State of),2009,14000
-Bolivia (Plurinational State of),2008,14000
-Bolivia (Plurinational State of),2007,14000
-Bolivia (Plurinational State of),2006,14000
-Bolivia (Plurinational State of),2005,15000
-Bolivia (Plurinational State of),2004,15000
-Bolivia (Plurinational State of),2003,15000
-Bolivia (Plurinational State of),2002,15000
-Bolivia (Plurinational State of),2001,15000
-Bolivia (Plurinational State of),2000,16000
-Bosnia and Herzegovina,2018,830
-Bosnia and Herzegovina,2017,960
-Bosnia and Herzegovina,2016,1100
-Bosnia and Herzegovina,2015,1400
-Bosnia and Herzegovina,2014,1500
-Bosnia and Herzegovina,2013,1600
-Bosnia and Herzegovina,2012,1800
-Bosnia and Herzegovina,2011,1700
-Bosnia and Herzegovina,2010,1700
-Bosnia and Herzegovina,2009,2200
-Bosnia and Herzegovina,2008,2100
-Bosnia and Herzegovina,2007,3000
-Bosnia and Herzegovina,2006,2200
-Bosnia and Herzegovina,2005,2600
-Bosnia and Herzegovina,2004,2900
-Bosnia and Herzegovina,2003,2200
-Bosnia and Herzegovina,2002,2100
-Bosnia and Herzegovina,2001,3100
-Bosnia and Herzegovina,2000,3100
-Botswana,2018,6200
-Botswana,2017,6600
-Botswana,2016,7100
-Botswana,2015,7500
-Botswana,2014,8000
-Botswana,2013,8500
-Botswana,2012,9100
-Botswana,2011,9700
-Botswana,2010,10000
-Botswana,2009,11000
-Botswana,2008,11000
-Botswana,2007,12000
-Botswana,2006,13000
-Botswana,2005,13000
-Botswana,2004,14000
-Botswana,2003,14000
-Botswana,2002,15000
-Botswana,2001,15000
-Botswana,2000,15000
-Brazil,2018,95000
-Brazil,2017,91000
-Brazil,2016,88000
-Brazil,2015,87000
-Brazil,2014,87000
-Brazil,2013,89000
-Brazil,2012,88000
-Brazil,2011,88000
-Brazil,2010,86000
-Brazil,2009,88000
-Brazil,2008,89000
-Brazil,2007,87000
-Brazil,2006,87000
-Brazil,2005,93000
-Brazil,2004,100000
-Brazil,2003,97000
-Brazil,2002,94000
-Brazil,2001,86000
-Brazil,2000,90000
-Brunei Darussalam,2018,290
-Brunei Darussalam,2017,270
-Brunei Darussalam,2016,280
-Brunei Darussalam,2015,240
-Brunei Darussalam,2014,230
-Brunei Darussalam,2013,240
-Brunei Darussalam,2012,280
-Brunei Darussalam,2011,260
-Brunei Darussalam,2010,270
-Brunei Darussalam,2009,240
-Brunei Darussalam,2008,260
-Brunei Darussalam,2007,240
-Brunei Darussalam,2006,230
-Brunei Darussalam,2005,190
-Brunei Darussalam,2004,210
-Brunei Darussalam,2003,240
-Brunei Darussalam,2002,260
-Brunei Darussalam,2001,250
-Brunei Darussalam,2000,350
-Bulgaria,2018,1600
-Bulgaria,2017,1800
-Bulgaria,2016,1900
-Bulgaria,2015,2000
-Bulgaria,2014,2300
-Bulgaria,2013,2400
-Bulgaria,2012,2600
-Bulgaria,2011,2700
-Bulgaria,2010,3000
-Bulgaria,2009,3300
-Bulgaria,2008,3700
-Bulgaria,2007,3600
-Bulgaria,2006,3900
-Bulgaria,2005,4000
-Bulgaria,2004,3800
-Bulgaria,2003,4100
-Bulgaria,2002,4200
-Bulgaria,2001,4800
-Bulgaria,2000,4200
-Burkina Faso,2018,9500
-Burkina Faso,2017,9500
-Burkina Faso,2016,9400
-Burkina Faso,2015,9400
-Burkina Faso,2014,9400
-Burkina Faso,2013,9200
-Burkina Faso,2012,9200
-Burkina Faso,2011,9100
-Burkina Faso,2010,9100
-Burkina Faso,2009,9000
-Burkina Faso,2008,8900
-Burkina Faso,2007,8800
-Burkina Faso,2006,8700
-Burkina Faso,2005,8600
-Burkina Faso,2004,8500
-Burkina Faso,2003,8400
-Burkina Faso,2002,8300
-Burkina Faso,2001,8200
-Burkina Faso,2000,8200
-Burundi,2018,12000
-Burundi,2017,12000
-Burundi,2016,12000
-Burundi,2015,12000
-Burundi,2014,12000
-Burundi,2013,12000
-Burundi,2012,12000
-Burundi,2011,12000
-Burundi,2010,13000
-Burundi,2009,13000
-Burundi,2008,13000
-Burundi,2007,13000
-Burundi,2006,14000
-Burundi,2005,14000
-Burundi,2004,15000
-Burundi,2003,16000
-Burundi,2002,17000
-Burundi,2001,18000
-Burundi,2000,19000
-Cabo Verde,2018,250
-Cabo Verde,2017,310
-Cabo Verde,2016,310
-Cabo Verde,2015,340
-Cabo Verde,2014,340
-Cabo Verde,2013,380
-Cabo Verde,2012,520
-Cabo Verde,2011,470
-Cabo Verde,2010,440
-Cabo Verde,2009,410
-Cabo Verde,2008,420
-Cabo Verde,2007,340
-Cabo Verde,2006,330
-Cabo Verde,2005,370
-Cabo Verde,2004,370
-Cabo Verde,2003,400
-Cabo Verde,2002,240
-Cabo Verde,2001,360
-Cabo Verde,2000,350
-Cambodia,2018,49000
-Cambodia,2017,52000
-Cambodia,2016,55000
-Cambodia,2015,57000
-Cambodia,2014,59000
-Cambodia,2013,60000
-Cambodia,2012,61000
-Cambodia,2011,62000
-Cambodia,2010,63000
-Cambodia,2009,64000
-Cambodia,2008,65000
-Cambodia,2007,66000
-Cambodia,2006,67000
-Cambodia,2005,68000
-Cambodia,2004,69000
-Cambodia,2003,69000
-Cambodia,2002,70000
-Cambodia,2001,70000
-Cambodia,2000,70000
-Cameroon,2018,47000
-Cameroon,2017,48000
-Cameroon,2016,49000
-Cameroon,2015,49000
-Cameroon,2014,50000
-Cameroon,2013,52000
-Cameroon,2012,52000
-Cameroon,2011,52000
-Cameroon,2010,53000
-Cameroon,2009,54000
-Cameroon,2008,54000
-Cameroon,2007,55000
-Cameroon,2006,55000
-Cameroon,2005,55000
-Cameroon,2004,55000
-Cameroon,2003,54000
-Cameroon,2002,53000
-Cameroon,2001,51000
-Cameroon,2000,48000
-Canada,2018,2100
-Canada,2017,2100
-Canada,2016,2000
-Canada,2015,1900
-Canada,2014,1800
-Canada,2013,1900
-Canada,2012,1900
-Canada,2011,1600
-Canada,2010,1600
-Canada,2009,1800
-Canada,2008,1800
-Canada,2007,1700
-Canada,2006,1800
-Canada,2005,1800
-Canada,2004,1800
-Canada,2003,1900
-Canada,2002,1900
-Canada,2001,2000
-Canada,2000,2000
-Central African Republic,2018,25000
-Central African Republic,2017,25000
-Central African Republic,2016,25000
-Central African Republic,2015,24000
-Central African Republic,2014,24000
-Central African Republic,2013,24000
-Central African Republic,2012,24000
-Central African Republic,2011,24000
-Central African Republic,2010,24000
-Central African Republic,2009,23000
-Central African Republic,2008,23000
-Central African Republic,2007,23000
-Central African Republic,2006,22000
-Central African Republic,2005,22000
-Central African Republic,2004,21000
-Central African Republic,2003,21000
-Central African Republic,2002,21000
-Central African Republic,2001,20000
-Central African Republic,2000,20000
-Chad,2018,22000
-Chad,2017,21000
-Chad,2016,21000
-Chad,2015,20000
-Chad,2014,20000
-Chad,2013,19000
-Chad,2012,19000
-Chad,2011,18000
-Chad,2010,18000
-Chad,2009,17000
-Chad,2008,17000
-Chad,2007,16000
-Chad,2006,16000
-Chad,2005,15000
-Chad,2004,15000
-Chad,2003,14000
-Chad,2002,14000
-Chad,2001,13000
-Chad,2000,13000
-Chile,2018,3400
-Chile,2017,3200
-Chile,2016,2900
-Chile,2015,3000
-Chile,2014,2700
-Chile,2013,2800
-Chile,2012,2800
-Chile,2011,2800
-Chile,2010,2700
-Chile,2009,2800
-Chile,2008,2800
-Chile,2007,2800
-Chile,2006,2900
-Chile,2005,2900
-Chile,2004,3100
-Chile,2003,2600
-Chile,2002,2800
-Chile,2001,3500
-Chile,2000,3500
-China,2018,866000
-China,2017,884000
-China,2016,890000
-China,2015,912000
-China,2014,936000
-China,2013,968000
-China,2012,1020000
-China,2011,1030000
-China,2010,1040000
-China,2009,1100000
-China,2008,1110000
-China,2007,1140000
-China,2006,1170000
-China,2005,1210000
-China,2004,1240000
-China,2003,1280000
-China,2002,1310000
-China,2001,1350000
-China,2000,1390000
-Colombia,2018,16000
-Colombia,2017,16000
-Colombia,2016,16000
-Colombia,2015,15000
-Colombia,2014,15000
-Colombia,2013,15000
-Colombia,2012,15000
-Colombia,2011,15000
-Colombia,2010,14000
-Colombia,2009,14000
-Colombia,2008,14000
-Colombia,2007,14000
-Colombia,2006,14000
-Colombia,2005,13000
-Colombia,2004,14000
-Colombia,2003,15000
-Colombia,2002,14000
-Colombia,2001,14000
-Colombia,2000,15000
-Comoros,2018,290
-Comoros,2017,280
-Comoros,2016,280
-Comoros,2015,270
-Comoros,2014,260
-Comoros,2013,250
-Comoros,2012,250
-Comoros,2011,240
-Comoros,2010,230
-Comoros,2009,230
-Comoros,2008,220
-Comoros,2007,220
-Comoros,2006,220
-Comoros,2005,220
-Comoros,2004,220
-Comoros,2003,220
-Comoros,2002,210
-Comoros,2001,210
-Comoros,2000,210
-Congo,2018,20000
-Congo,2017,19000
-Congo,2016,19000
-Congo,2015,18000
-Congo,2014,18000
-Congo,2013,18000
-Congo,2012,17000
-Congo,2011,17000
-Congo,2010,17000
-Congo,2009,16000
-Congo,2008,16000
-Congo,2007,16000
-Congo,2006,16000
-Congo,2005,15000
-Congo,2004,15000
-Congo,2003,14000
-Congo,2002,13000
-Congo,2001,12000
-Congo,2000,11000
-Cook Islands,2018,0
-Cook Islands,2017,0
-Cook Islands,2016,2
-Cook Islands,2015,0
-Cook Islands,2014,2
-Cook Islands,2013,2
-Cook Islands,2012,1
-Cook Islands,2011,1
-Cook Islands,2010,0
-Cook Islands,2009,2
-Cook Islands,2008,2
-Cook Islands,2007,1
-Cook Islands,2006,1
-Cook Islands,2005,1
-Cook Islands,2004,1
-Cook Islands,2003,0
-Cook Islands,2002,1
-Cook Islands,2001,2
-Cook Islands,2000,1
-Costa Rica,2018,500
-Costa Rica,2017,470
-Costa Rica,2016,460
-Costa Rica,2015,530
-Costa Rica,2014,580
-Costa Rica,2013,510
-Costa Rica,2012,590
-Costa Rica,2011,640
-Costa Rica,2010,620
-Costa Rica,2009,550
-Costa Rica,2008,630
-Costa Rica,2007,690
-Costa Rica,2006,610
-Costa Rica,2005,670
-Costa Rica,2004,890
-Costa Rica,2003,680
-Costa Rica,2002,680
-Costa Rica,2001,790
-Costa Rica,2000,730
-Côte d'Ivoire,2018,36000
-Côte d'Ivoire,2017,36000
-Côte d'Ivoire,2016,36000
-Côte d'Ivoire,2015,37000
-Côte d'Ivoire,2014,37000
-Côte d'Ivoire,2013,38000
-Côte d'Ivoire,2012,38000
-Côte d'Ivoire,2011,39000
-Côte d'Ivoire,2010,40000
-Côte d'Ivoire,2009,41000
-Côte d'Ivoire,2008,43000
-Côte d'Ivoire,2007,45000
-Côte d'Ivoire,2006,47000
-Côte d'Ivoire,2005,49000
-Côte d'Ivoire,2004,52000
-Côte d'Ivoire,2003,54000
-Côte d'Ivoire,2002,57000
-Côte d'Ivoire,2001,59000
-Côte d'Ivoire,2000,60000
-Croatia,2018,350
-Croatia,2017,420
-Croatia,2016,520
-Croatia,2015,560
-Croatia,2014,570
-Croatia,2013,590
-Croatia,2012,620
-Croatia,2011,710
-Croatia,2010,790
-Croatia,2009,960
-Croatia,2008,1100
-Croatia,2007,1100
-Croatia,2006,1200
-Croatia,2005,1200
-Croatia,2004,1300
-Croatia,2003,1600
-Croatia,2002,1700
-Croatia,2001,1600
-Croatia,2000,1900
-Cuba,2018,820
-Cuba,2017,820
-Cuba,2016,780
-Cuba,2015,800
-Cuba,2014,840
-Cuba,2013,870
-Cuba,2012,840
-Cuba,2011,930
-Cuba,2010,950
-Cuba,2009,820
-Cuba,2008,940
-Cuba,2007,880
-Cuba,2006,880
-Cuba,2005,890
-Cuba,2004,900
-Cuba,2003,970
-Cuba,2002,1000
-Cuba,2001,1100
-Cuba,2000,1400
-Cyprus,2018,65
-Cyprus,2017,60
-Cyprus,2016,66
-Cyprus,2015,72
-Cyprus,2014,45
-Cyprus,2013,47
-Cyprus,2012,72
-Cyprus,2011,59
-Cyprus,2010,70
-Cyprus,2009,59
-Cyprus,2008,55
-Cyprus,2007,47
-Cyprus,2006,41
-Cyprus,2005,39
-Cyprus,2004,34
-Cyprus,2003,40
-Cyprus,2002,23
-Cyprus,2001,46
-Cyprus,2000,38
-Czechia,2018,580
-Czechia,2017,570
-Czechia,2016,590
-Czechia,2015,580
-Czechia,2014,550
-Czechia,2013,540
-Czechia,2012,650
-Czechia,2011,650
-Czechia,2010,710
-Czechia,2009,730
-Czechia,2008,930
-Czechia,2007,910
-Czechia,2006,1100
-Czechia,2005,1100
-Czechia,2004,1200
-Czechia,2003,1300
-Czechia,2002,1300
-Czechia,2001,1500
-Czechia,2000,1600
-Democratic People's Republic of Korea,2018,131000
-Democratic People's Republic of Korea,2017,130000
-Democratic People's Republic of Korea,2016,130000
-Democratic People's Republic of Korea,2015,129000
-Democratic People's Republic of Korea,2014,128000
-Democratic People's Republic of Korea,2013,128000
-Democratic People's Republic of Korea,2012,127000
-Democratic People's Republic of Korea,2011,127000
-Democratic People's Republic of Korea,2010,126000
-Democratic People's Republic of Korea,2009,125000
-Democratic People's Republic of Korea,2008,125000
-Democratic People's Republic of Korea,2007,124000
-Democratic People's Republic of Korea,2006,123000
-Democratic People's Republic of Korea,2005,123000
-Democratic People's Republic of Korea,2004,122000
-Democratic People's Republic of Korea,2003,121000
-Democratic People's Republic of Korea,2002,120000
-Democratic People's Republic of Korea,2001,119000
-Democratic People's Republic of Korea,2000,118000
-Democratic Republic of the Congo,2018,270000
-Democratic Republic of the Congo,2017,262000
-Democratic Republic of the Congo,2016,254000
-Democratic Republic of the Congo,2015,247000
-Democratic Republic of the Congo,2014,240000
-Democratic Republic of the Congo,2013,233000
-Democratic Republic of the Congo,2012,226000
-Democratic Republic of the Congo,2011,218000
-Democratic Republic of the Congo,2010,211000
-Democratic Republic of the Congo,2009,204000
-Democratic Republic of the Congo,2008,198000
-Democratic Republic of the Congo,2007,191000
-Democratic Republic of the Congo,2006,185000
-Democratic Republic of the Congo,2005,179000
-Democratic Republic of the Congo,2004,173000
-Democratic Republic of the Congo,2003,168000
-Democratic Republic of the Congo,2002,163000
-Democratic Republic of the Congo,2001,158000
-Democratic Republic of the Congo,2000,154000
-Denmark,2018,310
-Denmark,2017,290
-Denmark,2016,340
-Denmark,2015,370
-Denmark,2014,340
-Denmark,2013,380
-Denmark,2012,390
-Denmark,2011,410
-Denmark,2010,380
-Denmark,2009,340
-Denmark,2008,380
-Denmark,2007,410
-Denmark,2006,390
-Denmark,2005,450
-Denmark,2004,410
-Denmark,2003,450
-Denmark,2002,460
-Denmark,2001,570
-Denmark,2000,680
-Djibouti,2018,2500
-Djibouti,2017,2600
-Djibouti,2016,3200
-Djibouti,2015,3400
-Djibouti,2014,3000
-Djibouti,2013,4000
-Djibouti,2012,4300
-Djibouti,2011,4600
-Djibouti,2010,5200
-Djibouti,2009,4700
-Djibouti,2008,4600
-Djibouti,2007,4000
-Djibouti,2006,3800
-Djibouti,2005,3900
-Djibouti,2004,3700
-Djibouti,2003,4000
-Djibouti,2002,4000
-Djibouti,2001,5200
-Djibouti,2000,5000
-Dominica,2018,5
-Dominica,2017,1
-Dominica,2016,6
-Dominica,2015,8
-Dominica,2014,1
-Dominica,2013,3
-Dominica,2012,8
-Dominica,2011,2
-Dominica,2010,9
-Dominica,2009,5
-Dominica,2008,15
-Dominica,2007,3
-Dominica,2006,22
-Dominica,2005,8
-Dominica,2004,7
-Dominica,2003,7
-Dominica,2002,2
-Dominica,2001,5
-Dominica,2000,4
-Dominican Republic,2018,4800
-Dominican Republic,2017,4800
-Dominican Republic,2016,5300
-Dominican Republic,2015,5600
-Dominican Republic,2014,5500
-Dominican Republic,2013,5600
-Dominican Republic,2012,5300
-Dominican Republic,2011,5400
-Dominican Republic,2010,5000
-Dominican Republic,2009,5300
-Dominican Republic,2008,5300
-Dominican Republic,2007,5200
-Dominican Republic,2006,5700
-Dominican Republic,2005,6300
-Dominican Republic,2004,5700
-Dominican Republic,2003,6000
-Dominican Republic,2002,5100
-Dominican Republic,2001,6000
-Dominican Republic,2000,6600
-Ecuador,2018,7400
-Ecuador,2017,7200
-Ecuador,2016,6600
-Ecuador,2015,6400
-Ecuador,2014,6400
-Ecuador,2013,6600
-Ecuador,2012,6800
-Ecuador,2011,6400
-Ecuador,2010,6000
-Ecuador,2009,5900
-Ecuador,2008,6100
-Ecuador,2007,6100
-Ecuador,2006,5700
-Ecuador,2005,5500
-Ecuador,2004,7900
-Ecuador,2003,8500
-Ecuador,2002,7300
-Ecuador,2001,7500
-Ecuador,2000,8600
-Egypt,2018,12000
-Egypt,2017,13000
-Egypt,2016,13000
-Egypt,2015,13000
-Egypt,2014,13000
-Egypt,2013,14000
-Egypt,2012,15000
-Egypt,2011,15000
-Egypt,2010,15000
-Egypt,2009,15000
-Egypt,2008,15000
-Egypt,2007,16000
-Egypt,2006,16000
-Egypt,2005,16000
-Egypt,2004,16000
-Egypt,2003,17000
-Egypt,2002,17000
-Egypt,2001,17000
-Egypt,2000,18000
-El Salvador,2018,4500
-El Salvador,2017,4600
-El Salvador,2016,3800
-El Salvador,2015,3100
-El Salvador,2014,2800
-El Salvador,2013,2700
-El Salvador,2012,2600
-El Salvador,2011,2400
-El Salvador,2010,2100
-El Salvador,2009,2100
-El Salvador,2008,2100
-El Salvador,2007,2100
-El Salvador,2006,2100
-El Salvador,2005,2200
-El Salvador,2004,1800
-El Salvador,2003,1700
-El Salvador,2002,1900
-El Salvador,2001,1800
-El Salvador,2000,1900
-Equatorial Guinea,2018,2600
-Equatorial Guinea,2017,2400
-Equatorial Guinea,2016,2200
-Equatorial Guinea,2015,2000
-Equatorial Guinea,2014,1800
-Equatorial Guinea,2013,1600
-Equatorial Guinea,2012,1500
-Equatorial Guinea,2011,1300
-Equatorial Guinea,2010,1200
-Equatorial Guinea,2009,1100
-Equatorial Guinea,2008,1000
-Equatorial Guinea,2007,930
-Equatorial Guinea,2006,860
-Equatorial Guinea,2005,800
-Equatorial Guinea,2004,750
-Equatorial Guinea,2003,700
-Equatorial Guinea,2002,660
-Equatorial Guinea,2001,620
-Equatorial Guinea,2000,580
-Eritrea,2018,3100
-Eritrea,2017,3400
-Eritrea,2016,3700
-Eritrea,2015,3400
-Eritrea,2014,3900
-Eritrea,2013,4700
-Eritrea,2012,5200
-Eritrea,2011,5000
-Eritrea,2010,4700
-Eritrea,2009,4800
-Eritrea,2008,4900
-Eritrea,2007,6000
-Eritrea,2006,5000
-Eritrea,2005,5900
-Eritrea,2004,7000
-Eritrea,2003,7800
-Eritrea,2002,4300
-Eritrea,2001,4200
-Eritrea,2000,4100
-Estonia,2018,170
-Estonia,2017,200
-Estonia,2016,220
-Estonia,2015,240
-Estonia,2014,270
-Estonia,2013,300
-Estonia,2012,300
-Estonia,2011,340
-Estonia,2010,330
-Estonia,2009,410
-Estonia,2008,460
-Estonia,2007,520
-Estonia,2006,490
-Estonia,2005,550
-Estonia,2004,620
-Estonia,2003,670
-Estonia,2002,710
-Estonia,2001,810
-Estonia,2000,910
-Eswatini,2018,3700
-Eswatini,2017,4200
-Eswatini,2016,4500
-Eswatini,2015,5300
-Eswatini,2014,7000
-Eswatini,2013,8300
-Eswatini,2012,9000
-Eswatini,2011,10000
-Eswatini,2010,13000
-Eswatini,2009,13000
-Eswatini,2008,11000
-Eswatini,2007,11000
-Eswatini,2006,11000
-Eswatini,2005,11000
-Eswatini,2004,10000
-Eswatini,2003,9700
-Eswatini,2002,8400
-Eswatini,2001,7600
-Eswatini,2000,7300
-Ethiopia,2018,165000
-Ethiopia,2017,174000
-Ethiopia,2016,184000
-Ethiopia,2015,194000
-Ethiopia,2014,203000
-Ethiopia,2013,214000
-Ethiopia,2012,221000
-Ethiopia,2011,228000
-Ethiopia,2010,235000
-Ethiopia,2009,241000
-Ethiopia,2008,246000
-Ethiopia,2007,250000
-Ethiopia,2006,255000
-Ethiopia,2005,260000
-Ethiopia,2004,266000
-Ethiopia,2003,271000
-Ethiopia,2002,276000
-Ethiopia,2001,279000
-Ethiopia,2000,279000
-Fiji,2018,480
-Fiji,2017,450
-Fiji,2016,390
-Fiji,2015,450
-Fiji,2014,470
-Fiji,2013,320
-Fiji,2012,260
-Fiji,2011,270
-Fiji,2010,240
-Fiji,2009,180
-Fiji,2008,130
-Fiji,2007,120
-Fiji,2006,140
-Fiji,2005,170
-Fiji,2004,170
-Fiji,2003,230
-Fiji,2002,190
-Fiji,2001,230
-Fiji,2000,180
-Finland,2018,260
-Finland,2017,270
-Finland,2016,260
-Finland,2015,310
-Finland,2014,290
-Finland,2013,310
-Finland,2012,300
-Finland,2011,360
-Finland,2010,350
-Finland,2009,460
-Finland,2008,380
-Finland,2007,340
-Finland,2006,320
-Finland,2005,390
-Finland,2004,370
-Finland,2003,450
-Finland,2002,520
-Finland,2001,530
-Finland,2000,610
-France,2018,5800
-France,2017,5900
-France,2016,5700
-France,2015,5400
-France,2014,5500
-France,2013,5700
-France,2012,5700
-France,2011,5700
-France,2010,5800
-France,2009,6000
-France,2008,6600
-France,2007,6600
-France,2006,6000
-France,2005,6100
-France,2004,6200
-France,2003,7300
-France,2002,6900
-France,2001,7000
-France,2000,7400
-Gabon,2018,11000
-Gabon,2017,11000
-Gabon,2016,11000
-Gabon,2015,10000
-Gabon,2014,10000
-Gabon,2013,9900
-Gabon,2012,9600
-Gabon,2011,9300
-Gabon,2010,9100
-Gabon,2009,8800
-Gabon,2008,8600
-Gabon,2007,8400
-Gabon,2006,8200
-Gabon,2005,8200
-Gabon,2004,8100
-Gabon,2003,7800
-Gabon,2002,7400
-Gabon,2001,6900
-Gabon,2000,6300
-Gambia,2018,4000
-Gambia,2017,3900
-Gambia,2016,3700
-Gambia,2015,3600
-Gambia,2014,3500
-Gambia,2013,3400
-Gambia,2012,3300
-Gambia,2011,3300
-Gambia,2010,3200
-Gambia,2009,3100
-Gambia,2008,3100
-Gambia,2007,3000
-Gambia,2006,3000
-Gambia,2005,2900
-Gambia,2004,2900
-Gambia,2003,2800
-Gambia,2002,2700
-Gambia,2001,2600
-Gambia,2000,2400
-Georgia,2018,3200
-Georgia,2017,3400
-Georgia,2016,3700
-Georgia,2015,4000
-Georgia,2014,4300
-Georgia,2013,4700
-Georgia,2012,4800
-Georgia,2011,5000
-Georgia,2010,5200
-Georgia,2009,5500
-Georgia,2008,5800
-Georgia,2007,6200
-Georgia,2006,6800
-Georgia,2005,7400
-Georgia,2004,8100
-Georgia,2003,8900
-Georgia,2002,9700
-Georgia,2001,10000
-Georgia,2000,11000
-Germany,2018,6100
-Germany,2017,6200
-Germany,2016,6600
-Germany,2015,6500
-Germany,2014,5000
-Germany,2013,4800
-Germany,2012,4600
-Germany,2011,4700
-Germany,2010,4700
-Germany,2009,4800
-Germany,2008,4800
-Germany,2007,5400
-Germany,2006,5900
-Germany,2005,6600
-Germany,2004,7100
-Germany,2003,8100
-Germany,2002,8000
-Germany,2001,8000
-Germany,2000,10000
-Ghana,2018,44000
-Ghana,2017,44000
-Ghana,2016,44000
-Ghana,2015,45000
-Ghana,2014,45000
-Ghana,2013,45000
-Ghana,2012,45000
-Ghana,2011,45000
-Ghana,2010,45000
-Ghana,2009,45000
-Ghana,2008,45000
-Ghana,2007,45000
-Ghana,2006,45000
-Ghana,2005,44000
-Ghana,2004,44000
-Ghana,2003,43000
-Ghana,2002,43000
-Ghana,2001,42000
-Ghana,2000,42000
-Greece,2018,470
-Greece,2017,500
-Greece,2016,470
-Greece,2015,500
-Greece,2014,560
-Greece,2013,570
-Greece,2012,600
-Greece,2011,520
-Greece,2010,510
-Greece,2009,620
-Greece,2008,670
-Greece,2007,710
-Greece,2006,710
-Greece,2005,800
-Greece,2004,840
-Greece,2003,680
-Greece,2002,660
-Greece,2001,580
-Greece,2000,810
-Grenada,2018,2
-Grenada,2017,3
-Grenada,2016,7
-Grenada,2015,6
-Grenada,2014,0
-Grenada,2013,1
-Grenada,2012,1
-Grenada,2011,2
-Grenada,2010,5
-Grenada,2009,6
-Grenada,2008,6
-Grenada,2007,3
-Grenada,2006,1
-Grenada,2005,2
-Grenada,2004,2
-Grenada,2003,2
-Grenada,2002,1
-Grenada,2001,1
-Grenada,2000,0
-Guatemala,2018,4500
-Guatemala,2017,4300
-Guatemala,2016,4000
-Guatemala,2015,4200
-Guatemala,2014,4000
-Guatemala,2013,4100
-Guatemala,2012,4300
-Guatemala,2011,3800
-Guatemala,2010,4200
-Guatemala,2009,3600
-Guatemala,2008,4100
-Guatemala,2007,3900
-Guatemala,2006,4500
-Guatemala,2005,4800
-Guatemala,2004,4100
-Guatemala,2003,3300
-Guatemala,2002,3600
-Guatemala,2001,3000
-Guatemala,2000,3600
-Guinea,2018,22000
-Guinea,2017,21000
-Guinea,2016,21000
-Guinea,2015,20000
-Guinea,2014,20000
-Guinea,2013,19000
-Guinea,2012,19000
-Guinea,2011,19000
-Guinea,2010,19000
-Guinea,2009,19000
-Guinea,2008,19000
-Guinea,2007,19000
-Guinea,2006,19000
-Guinea,2005,19000
-Guinea,2004,19000
-Guinea,2003,19000
-Guinea,2002,19000
-Guinea,2001,19000
-Guinea,2000,19000
-Guinea-Bissau,2018,6800
-Guinea-Bissau,2017,6600
-Guinea-Bissau,2016,6400
-Guinea-Bissau,2015,6300
-Guinea-Bissau,2014,6100
-Guinea-Bissau,2013,6000
-Guinea-Bissau,2012,5800
-Guinea-Bissau,2011,5600
-Guinea-Bissau,2010,5500
-Guinea-Bissau,2009,5400
-Guinea-Bissau,2008,5200
-Guinea-Bissau,2007,5100
-Guinea-Bissau,2006,5000
-Guinea-Bissau,2005,4900
-Guinea-Bissau,2004,4600
-Guinea-Bissau,2003,4400
-Guinea-Bissau,2002,4100
-Guinea-Bissau,2001,3900
-Guinea-Bissau,2000,3700
-Guyana,2018,640
-Guyana,2017,650
-Guyana,2016,720
-Guyana,2015,710
-Guyana,2014,680
-Guyana,2013,850
-Guyana,2012,940
-Guyana,2011,890
-Guyana,2010,890
-Guyana,2009,950
-Guyana,2008,820
-Guyana,2007,740
-Guyana,2006,890
-Guyana,2005,800
-Guyana,2004,750
-Guyana,2003,790
-Guyana,2002,740
-Guyana,2001,530
-Guyana,2000,530
-Haiti,2018,20000
-Haiti,2017,20000
-Haiti,2016,20000
-Haiti,2015,21000
-Haiti,2014,21000
-Haiti,2013,21000
-Haiti,2012,22000
-Haiti,2011,22000
-Haiti,2010,23000
-Haiti,2009,23000
-Haiti,2008,24000
-Haiti,2007,24000
-Haiti,2006,25000
-Haiti,2005,25000
-Haiti,2004,25000
-Haiti,2003,25000
-Haiti,2002,24000
-Haiti,2001,24000
-Haiti,2000,23000
-Honduras,2018,3500
-Honduras,2017,3500
-Honduras,2016,3600
-Honduras,2015,3600
-Honduras,2014,3500
-Honduras,2013,3700
-Honduras,2012,3800
-Honduras,2011,4000
-Honduras,2010,3600
-Honduras,2009,3700
-Honduras,2008,3500
-Honduras,2007,3500
-Honduras,2006,4000
-Honduras,2005,4200
-Honduras,2004,4500
-Honduras,2003,5100
-Honduras,2002,5600
-Honduras,2001,6300
-Honduras,2000,8000
-Hungary,2018,620
-Hungary,2017,750
-Hungary,2016,850
-Hungary,2015,990
-Hungary,2014,920
-Hungary,2013,1200
-Hungary,2012,1300
-Hungary,2011,1500
-Hungary,2010,1800
-Hungary,2009,1500
-Hungary,2008,1600
-Hungary,2007,1800
-Hungary,2006,1900
-Hungary,2005,2100
-Hungary,2004,2600
-Hungary,2003,3100
-Hungary,2002,3100
-Hungary,2001,3400
-Hungary,2000,3500
-Iceland,2018,9
-Iceland,2017,15
-Iceland,2016,7
-Iceland,2015,8
-Iceland,2014,9
-Iceland,2013,13
-Iceland,2012,12
-Iceland,2011,9
-Iceland,2010,25
-Iceland,2009,10
-Iceland,2008,7
-Iceland,2007,14
-Iceland,2006,15
-Iceland,2005,12
-Iceland,2004,13
-Iceland,2003,6
-Iceland,2002,9
-Iceland,2001,14
-Iceland,2000,15
-India,2018,2690000
-India,2017,2740000
-India,2016,2790000
-India,2015,2840000
-India,2014,2890000
-India,2013,2920000
-India,2012,2970000
-India,2011,3010000
-India,2010,3050000
-India,2009,3100000
-India,2008,3140000
-India,2007,3170000
-India,2006,3190000
-India,2005,3200000
-India,2004,3190000
-India,2003,3170000
-India,2002,3140000
-India,2001,3100000
-India,2000,3050000
-Indonesia,2018,845000
-Indonesia,2017,844000
-Indonesia,2016,843000
-Indonesia,2015,841000
-Indonesia,2014,839000
-Indonesia,2013,836000
-Indonesia,2012,833000
-Indonesia,2011,829000
-Indonesia,2010,826000
-Indonesia,2009,824000
-Indonesia,2008,823000
-Indonesia,2007,821000
-Indonesia,2006,819000
-Indonesia,2005,815000
-Indonesia,2004,811000
-Indonesia,2003,805000
-Indonesia,2002,799000
-Indonesia,2001,791000
-Indonesia,2000,782000
-Iran (Islamic Republic of),2018,11000
-Iran (Islamic Republic of),2017,11000
-Iran (Islamic Republic of),2016,12000
-Iran (Islamic Republic of),2015,13000
-Iran (Islamic Republic of),2014,13000
-Iran (Islamic Republic of),2013,14000
-Iran (Islamic Republic of),2012,14000
-Iran (Islamic Republic of),2011,14000
-Iran (Islamic Republic of),2010,13000
-Iran (Islamic Republic of),2009,13000
-Iran (Islamic Republic of),2008,12000
-Iran (Islamic Republic of),2007,12000
-Iran (Islamic Republic of),2006,12000
-Iran (Islamic Republic of),2005,12000
-Iran (Islamic Republic of),2004,13000
-Iran (Islamic Republic of),2003,14000
-Iran (Islamic Republic of),2002,14000
-Iran (Islamic Republic of),2001,15000
-Iran (Islamic Republic of),2000,15000
-Iraq,2018,16000
-Iraq,2017,16000
-Iraq,2016,16000
-Iraq,2015,15000
-Iraq,2014,15000
-Iraq,2013,15000
-Iraq,2012,14000
-Iraq,2011,14000
-Iraq,2010,14000
-Iraq,2009,13000
-Iraq,2008,13000
-Iraq,2007,13000
-Iraq,2006,13000
-Iraq,2005,13000
-Iraq,2004,13000
-Iraq,2003,13000
-Iraq,2002,12000
-Iraq,2001,12000
-Iraq,2000,12000
-Ireland,2018,340
-Ireland,2017,350
-Ireland,2016,340
-Ireland,2015,340
-Ireland,2014,340
-Ireland,2013,410
-Ireland,2012,390
-Ireland,2011,450
-Ireland,2010,450
-Ireland,2009,490
-Ireland,2008,490
-Ireland,2007,500
-Ireland,2006,510
-Ireland,2005,490
-Ireland,2004,470
-Ireland,2003,470
-Ireland,2002,430
-Ireland,2001,450
-Ireland,2000,440
-Israel,2018,340
-Israel,2017,270
-Israel,2016,290
-Israel,2015,320
-Israel,2014,420
-Israel,2013,350
-Israel,2012,580
-Israel,2011,470
-Israel,2010,390
-Israel,2009,400
-Israel,2008,370
-Israel,2007,460
-Israel,2006,390
-Israel,2005,430
-Israel,2004,520
-Israel,2003,540
-Israel,2002,540
-Israel,2001,590
-Israel,2000,620
-Italy,2018,4300
-Italy,2017,4400
-Italy,2016,4300
-Italy,2015,4000
-Italy,2014,4000
-Italy,2013,3500
-Italy,2012,3600
-Italy,2011,3900
-Italy,2010,5200
-Italy,2009,4700
-Italy,2008,4700
-Italy,2007,3200
-Italy,2006,4800
-Italy,2005,4400
-Italy,2004,4600
-Italy,2003,5000
-Italy,2002,4500
-Italy,2001,4900
-Italy,2000,4000
-Jamaica,2018,86
-Jamaica,2017,150
-Jamaica,2016,130
-Jamaica,2015,130
-Jamaica,2014,110
-Jamaica,2013,120
-Jamaica,2012,110
-Jamaica,2011,130
-Jamaica,2010,160
-Jamaica,2009,170
-Jamaica,2008,130
-Jamaica,2007,130
-Jamaica,2006,120
-Jamaica,2005,110
-Jamaica,2004,140
-Jamaica,2003,150
-Jamaica,2002,130
-Jamaica,2001,150
-Jamaica,2000,160
-Japan,2018,18000
-Japan,2017,19000
-Japan,2016,20000
-Japan,2015,21000
-Japan,2014,23000
-Japan,2013,24000
-Japan,2012,24000
-Japan,2011,25000
-Japan,2010,26000
-Japan,2009,27000
-Japan,2008,28000
-Japan,2007,28000
-Japan,2006,29000
-Japan,2005,31000
-Japan,2004,34000
-Japan,2003,36000
-Japan,2002,38000
-Japan,2001,41000
-Japan,2000,45000
-Jordan,2018,500
-Jordan,2017,660
-Jordan,2016,520
-Jordan,2015,530
-Jordan,2014,480
-Jordan,2013,440
-Jordan,2012,410
-Jordan,2011,410
-Jordan,2010,420
-Jordan,2009,460
-Jordan,2008,440
-Jordan,2007,420
-Jordan,2006,470
-Jordan,2005,460
-Jordan,2004,410
-Jordan,2003,400
-Jordan,2002,390
-Jordan,2001,430
-Jordan,2000,380
-Kazakhstan,2018,12000
-Kazakhstan,2017,12000
-Kazakhstan,2016,13000
-Kazakhstan,2015,14000
-Kazakhstan,2014,16000
-Kazakhstan,2013,18000
-Kazakhstan,2012,21000
-Kazakhstan,2011,23000
-Kazakhstan,2010,24000
-Kazakhstan,2009,24000
-Kazakhstan,2008,25000
-Kazakhstan,2007,26000
-Kazakhstan,2006,27000
-Kazakhstan,2005,29000
-Kazakhstan,2004,30000
-Kazakhstan,2003,30000
-Kazakhstan,2002,29000
-Kazakhstan,2001,28000
-Kazakhstan,2000,25000
-Kenya,2018,150000
-Kenya,2017,160000
-Kenya,2016,171000
-Kenya,2015,182000
-Kenya,2014,197000
-Kenya,2013,202000
-Kenya,2012,209000
-Kenya,2011,219000
-Kenya,2010,223000
-Kenya,2009,231000
-Kenya,2008,225000
-Kenya,2007,239000
-Kenya,2006,243000
-Kenya,2005,231000
-Kenya,2004,226000
-Kenya,2003,212000
-Kenya,2002,180000
-Kenya,2001,164000
-Kenya,2000,144000
-Kiribati,2018,400
-Kiribati,2017,480
-Kiribati,2016,650
-Kiribati,2015,620
-Kiribati,2014,520
-Kiribati,2013,510
-Kiribati,2012,430
-Kiribati,2011,430
-Kiribati,2010,360
-Kiribati,2009,350
-Kiribati,2008,420
-Kiribati,2007,420
-Kiribati,2006,470
-Kiribati,2005,410
-Kiribati,2004,390
-Kiribati,2003,350
-Kiribati,2002,250
-Kiribati,2001,240
-Kiribati,2000,310
-Kuwait,2018,940
-Kuwait,2017,1100
-Kuwait,2016,960
-Kuwait,2015,860
-Kuwait,2014,840
-Kuwait,2013,810
-Kuwait,2012,850
-Kuwait,2011,770
-Kuwait,2010,1100
-Kuwait,2009,1100
-Kuwait,2008,1000
-Kuwait,2007,740
-Kuwait,2006,740
-Kuwait,2005,590
-Kuwait,2004,640
-Kuwait,2003,650
-Kuwait,2002,670
-Kuwait,2001,570
-Kuwait,2000,590
-Kyrgyzstan,2018,7300
-Kyrgyzstan,2017,7700
-Kyrgyzstan,2016,8100
-Kyrgyzstan,2015,8100
-Kyrgyzstan,2014,7300
-Kyrgyzstan,2013,8100
-Kyrgyzstan,2012,7100
-Kyrgyzstan,2011,6900
-Kyrgyzstan,2010,6500
-Kyrgyzstan,2009,6800
-Kyrgyzstan,2008,7800
-Kyrgyzstan,2007,7000
-Kyrgyzstan,2006,7100
-Kyrgyzstan,2005,7300
-Kyrgyzstan,2004,7000
-Kyrgyzstan,2003,7300
-Kyrgyzstan,2002,7600
-Kyrgyzstan,2001,7700
-Kyrgyzstan,2000,7100
-Lao People's Democratic Republic,2018,11000
-Lao People's Democratic Republic,2017,12000
-Lao People's Democratic Republic,2016,12000
-Lao People's Democratic Republic,2015,12000
-Lao People's Democratic Republic,2014,13000
-Lao People's Democratic Republic,2013,13000
-Lao People's Democratic Republic,2012,13000
-Lao People's Democratic Republic,2011,13000
-Lao People's Democratic Republic,2010,14000
-Lao People's Democratic Republic,2009,14000
-Lao People's Democratic Republic,2008,14000
-Lao People's Democratic Republic,2007,15000
-Lao People's Democratic Republic,2006,15000
-Lao People's Democratic Republic,2005,16000
-Lao People's Democratic Republic,2004,16000
-Lao People's Democratic Republic,2003,16000
-Lao People's Democratic Republic,2002,17000
-Lao People's Democratic Republic,2001,17000
-Lao People's Democratic Republic,2000,18000
-Latvia,2018,560
-Latvia,2017,620
-Latvia,2016,740
-Latvia,2015,800
-Latvia,2014,850
-Latvia,2013,1000
-Latvia,2012,1100
-Latvia,2011,990
-Latvia,2010,1000
-Latvia,2009,1100
-Latvia,2008,1200
-Latvia,2007,1400
-Latvia,2006,1500
-Latvia,2005,1600
-Latvia,2004,1800
-Latvia,2003,1900
-Latvia,2002,2100
-Latvia,2001,2300
-Latvia,2000,2300
-Lebanon,2018,750
-Lebanon,2017,710
-Lebanon,2016,740
-Lebanon,2015,750
-Lebanon,2014,770
-Lebanon,2013,790
-Lebanon,2012,720
-Lebanon,2011,570
-Lebanon,2010,590
-Lebanon,2009,570
-Lebanon,2008,600
-Lebanon,2007,550
-Lebanon,2006,430
-Lebanon,2005,450
-Lebanon,2004,450
-Lebanon,2003,440
-Lebanon,2002,500
-Lebanon,2001,590
-Lebanon,2000,660
-Lesotho,2018,13000
-Lesotho,2017,14000
-Lesotho,2016,15000
-Lesotho,2015,16000
-Lesotho,2014,17000
-Lesotho,2013,19000
-Lesotho,2012,20000
-Lesotho,2011,21000
-Lesotho,2010,22000
-Lesotho,2009,23000
-Lesotho,2008,24000
-Lesotho,2007,25000
-Lesotho,2006,25000
-Lesotho,2005,26000
-Lesotho,2004,25000
-Lesotho,2003,25000
-Lesotho,2002,24000
-Lesotho,2001,22000
-Lesotho,2000,20000
-Liberia,2018,15000
-Liberia,2017,14000
-Liberia,2016,14000
-Liberia,2015,14000
-Liberia,2014,13000
-Liberia,2013,13000
-Liberia,2012,13000
-Liberia,2011,12000
-Liberia,2010,11000
-Liberia,2009,11000
-Liberia,2008,10000
-Liberia,2007,9600
-Liberia,2006,9100
-Liberia,2005,8600
-Liberia,2004,8200
-Liberia,2003,7900
-Liberia,2002,7600
-Liberia,2001,7200
-Liberia,2000,6800
-Libya,2018,2700
-Libya,2017,2600
-Libya,2016,2600
-Libya,2015,2600
-Libya,2014,2500
-Libya,2013,2500
-Libya,2012,2500
-Libya,2011,2500
-Libya,2010,2500
-Libya,2009,2400
-Libya,2008,2400
-Libya,2007,2400
-Libya,2006,2300
-Libya,2005,2300
-Libya,2004,2300
-Libya,2003,2200
-Libya,2002,2200
-Libya,2001,2200
-Libya,2000,2100
-Lithuania,2018,1200
-Lithuania,2017,1500
-Lithuania,2016,1500
-Lithuania,2015,1600
-Lithuania,2014,1700
-Lithuania,2013,1800
-Lithuania,2012,1900
-Lithuania,2011,2000
-Lithuania,2010,2000
-Lithuania,2009,2200
-Lithuania,2008,2400
-Lithuania,2007,2600
-Lithuania,2006,2700
-Lithuania,2005,2400
-Lithuania,2004,2300
-Lithuania,2003,3000
-Lithuania,2002,2800
-Lithuania,2001,3000
-Lithuania,2000,3100
-Luxembourg,2018,48
-Luxembourg,2017,37
-Luxembourg,2016,33
-Luxembourg,2015,34
-Luxembourg,2014,28
-Luxembourg,2013,44
-Luxembourg,2012,52
-Luxembourg,2011,29
-Luxembourg,2010,33
-Luxembourg,2009,31
-Luxembourg,2008,32
-Luxembourg,2007,45
-Luxembourg,2006,38
-Luxembourg,2005,43
-Luxembourg,2004,36
-Luxembourg,2003,62
-Luxembourg,2002,36
-Luxembourg,2001,36
-Luxembourg,2000,51
-Madagascar,2018,61000
-Madagascar,2017,60000
-Madagascar,2016,58000
-Madagascar,2015,56000
-Madagascar,2014,55000
-Madagascar,2013,54000
-Madagascar,2012,53000
-Madagascar,2011,52000
-Madagascar,2010,51000
-Madagascar,2009,50000
-Madagascar,2008,50000
-Madagascar,2007,49000
-Madagascar,2006,49000
-Madagascar,2005,48000
-Madagascar,2004,48000
-Madagascar,2003,47000
-Madagascar,2002,47000
-Madagascar,2001,47000
-Madagascar,2000,46000
-Malawi,2018,33000
-Malawi,2017,33000
-Malawi,2016,33000
-Malawi,2015,34000
-Malawi,2014,36000
-Malawi,2013,37000
-Malawi,2012,40000
-Malawi,2011,42000
-Malawi,2010,45000
-Malawi,2009,47000
-Malawi,2008,49000
-Malawi,2007,50000
-Malawi,2006,51000
-Malawi,2005,50000
-Malawi,2004,49000
-Malawi,2003,48000
-Malawi,2002,47000
-Malawi,2001,45000
-Malawi,2000,43000
-Malaysia,2018,29000
-Malaysia,2017,29000
-Malaysia,2016,29000
-Malaysia,2015,27000
-Malaysia,2014,28000
-Malaysia,2013,27000
-Malaysia,2012,25000
-Malaysia,2011,23000
-Malaysia,2010,21000
-Malaysia,2009,20000
-Malaysia,2008,20000
-Malaysia,2007,19000
-Malaysia,2006,18000
-Malaysia,2005,18000
-Malaysia,2004,17000
-Malaysia,2003,18000
-Malaysia,2002,17000
-Malaysia,2001,17000
-Malaysia,2000,17000
-Maldives,2018,170
-Maldives,2017,170
-Maldives,2016,210
-Maldives,2015,190
-Maldives,2014,160
-Maldives,2013,140
-Maldives,2012,140
-Maldives,2011,110
-Maldives,2010,120
-Maldives,2009,130
-Maldives,2008,150
-Maldives,2007,160
-Maldives,2006,120
-Maldives,2005,150
-Maldives,2004,150
-Maldives,2003,170
-Maldives,2002,160
-Maldives,2001,170
-Maldives,2000,170
-Mali,2018,10000
-Mali,2017,10000
-Mali,2016,10000
-Mali,2015,9900
-Mali,2014,9700
-Mali,2013,9800
-Mali,2012,9700
-Mali,2011,9600
-Mali,2010,9400
-Mali,2009,9300
-Mali,2008,9200
-Mali,2007,9100
-Mali,2006,9000
-Mali,2005,8900
-Mali,2004,8800
-Mali,2003,8700
-Mali,2002,8600
-Mali,2001,8500
-Mali,2000,8400
-Malta,2018,60
-Malta,2017,48
-Malta,2016,58
-Malta,2015,37
-Malta,2014,52
-Malta,2013,58
-Malta,2012,48
-Malta,2011,34
-Malta,2010,33
-Malta,2009,48
-Malta,2008,55
-Malta,2007,44
-Malta,2006,35
-Malta,2005,25
-Malta,2004,21
-Malta,2003,8
-Malta,2002,28
-Malta,2001,18
-Malta,2000,18
-Marshall Islands,2018,250
-Marshall Islands,2017,250
-Marshall Islands,2016,220
-Marshall Islands,2015,170
-Marshall Islands,2014,180
-Marshall Islands,2013,190
-Marshall Islands,2012,180
-Marshall Islands,2011,170
-Marshall Islands,2010,240
-Marshall Islands,2009,180
-Marshall Islands,2008,160
-Marshall Islands,2007,200
-Marshall Islands,2006,170
-Marshall Islands,2005,140
-Marshall Islands,2004,150
-Marshall Islands,2003,75
-Marshall Islands,2002,64
-Marshall Islands,2001,70
-Marshall Islands,2000,43
-Mauritania,2018,4100
-Mauritania,2017,4200
-Mauritania,2016,4200
-Mauritania,2015,4300
-Mauritania,2014,4400
-Mauritania,2013,4400
-Mauritania,2012,4500
-Mauritania,2011,4600
-Mauritania,2010,4700
-Mauritania,2009,4900
-Mauritania,2008,5000
-Mauritania,2007,5100
-Mauritania,2006,5300
-Mauritania,2005,5500
-Mauritania,2004,5700
-Mauritania,2003,5900
-Mauritania,2002,6100
-Mauritania,2001,6300
-Mauritania,2000,6600
-Mauritius,2018,160
-Mauritius,2017,150
-Mauritius,2016,150
-Mauritius,2015,160
-Mauritius,2014,160
-Mauritius,2013,160
-Mauritius,2012,160
-Mauritius,2011,140
-Mauritius,2010,150
-Mauritius,2009,140
-Mauritius,2008,130
-Mauritius,2007,130
-Mauritius,2006,140
-Mauritius,2005,160
-Mauritius,2004,170
-Mauritius,2003,170
-Mauritius,2002,170
-Mauritius,2001,150
-Mauritius,2000,200
-Mexico,2018,29000
-Mexico,2017,28000
-Mexico,2016,28000
-Mexico,2015,27000
-Mexico,2014,26000
-Mexico,2013,26000
-Mexico,2012,26000
-Mexico,2011,25000
-Mexico,2010,25000
-Mexico,2009,24000
-Mexico,2008,24000
-Mexico,2007,23000
-Mexico,2006,22000
-Mexico,2005,23000
-Mexico,2004,19000
-Mexico,2003,24000
-Mexico,2002,22000
-Mexico,2001,24000
-Mexico,2000,23000
-Micronesia (Federated States of),2018,120
-Micronesia (Federated States of),2017,170
-Micronesia (Federated States of),2016,190
-Micronesia (Federated States of),2015,130
-Micronesia (Federated States of),2014,230
-Micronesia (Federated States of),2013,190
-Micronesia (Federated States of),2012,180
-Micronesia (Federated States of),2011,190
-Micronesia (Federated States of),2010,200
-Micronesia (Federated States of),2009,190
-Micronesia (Federated States of),2008,200
-Micronesia (Federated States of),2007,170
-Micronesia (Federated States of),2006,130
-Micronesia (Federated States of),2005,120
-Micronesia (Federated States of),2004,150
-Micronesia (Federated States of),2003,130
-Micronesia (Federated States of),2002,160
-Micronesia (Federated States of),2001,130
-Micronesia (Federated States of),2000,110
-Monaco,2018,0
-Monaco,2017,0
-Monaco,2016,0
-Monaco,2015,0
-Monaco,2014,0
-Monaco,2013,0
-Monaco,2012,1
-Monaco,2011,1
-Monaco,2010,1
-Monaco,2009,1
-Monaco,2008,1
-Monaco,2007,1
-Monaco,2006,1
-Monaco,2005,1
-Monaco,2004,0
-Monaco,2003,0
-Monaco,2002,0
-Monaco,2001,0
-Monaco,2000,0
-Mongolia,2018,14000
-Mongolia,2017,13000
-Mongolia,2016,13000
-Mongolia,2015,13000
-Mongolia,2014,13000
-Mongolia,2013,12000
-Mongolia,2012,12000
-Mongolia,2011,12000
-Mongolia,2010,12000
-Mongolia,2009,11000
-Mongolia,2008,11000
-Mongolia,2007,11000
-Mongolia,2006,11000
-Mongolia,2005,11000
-Mongolia,2004,11000
-Mongolia,2003,11000
-Mongolia,2002,10000
-Mongolia,2001,10000
-Mongolia,2000,10000
-Montenegro,2018,97
-Montenegro,2017,86
-Montenegro,2016,100
-Montenegro,2015,92
-Montenegro,2014,130
-Montenegro,2013,140
-Montenegro,2012,110
-Montenegro,2011,130
-Montenegro,2010,130
-Montenegro,2009,130
-Montenegro,2008,150
-Montenegro,2007,170
-Montenegro,2006,190
-Montenegro,2005,180
-Morocco,2018,36000
-Morocco,2017,36000
-Morocco,2016,36000
-Morocco,2015,35000
-Morocco,2014,34000
-Morocco,2013,33000
-Morocco,2012,33000
-Morocco,2011,33000
-Morocco,2010,33000
-Morocco,2009,31000
-Morocco,2008,31000
-Morocco,2007,29000
-Morocco,2006,30000
-Morocco,2005,30000
-Morocco,2004,30000
-Morocco,2003,31000
-Morocco,2002,34000
-Morocco,2001,33000
-Morocco,2000,33000
-Mozambique,2018,162000
-Mozambique,2017,158000
-Mozambique,2016,153000
-Mozambique,2015,149000
-Mozambique,2014,145000
-Mozambique,2013,141000
-Mozambique,2012,137000
-Mozambique,2011,133000
-Mozambique,2010,128000
-Mozambique,2009,124000
-Mozambique,2008,119000
-Mozambique,2007,115000
-Mozambique,2006,111000
-Mozambique,2005,107000
-Mozambique,2004,104000
-Mozambique,2003,100000
-Mozambique,2002,97000
-Mozambique,2001,94000
-Mozambique,2000,91000
-Myanmar,2018,181000
-Myanmar,2017,189000
-Myanmar,2016,198000
-Myanmar,2015,206000
-Myanmar,2014,215000
-Myanmar,2013,224000
-Myanmar,2012,233000
-Myanmar,2011,243000
-Myanmar,2010,253000
-Myanmar,2009,264000
-Myanmar,2008,265000
-Myanmar,2007,265000
-Myanmar,2006,266000
-Myanmar,2005,267000
-Myanmar,2004,266000
-Myanmar,2003,266000
-Myanmar,2002,264000
-Myanmar,2001,262000
-Myanmar,2000,260000
-Namibia,2018,13000
-Namibia,2017,14000
-Namibia,2016,14000
-Namibia,2015,15000
-Namibia,2014,15000
-Namibia,2013,16000
-Namibia,2012,17000
-Namibia,2011,18000
-Namibia,2010,19000
-Namibia,2009,20000
-Namibia,2008,22000
-Namibia,2007,23000
-Namibia,2006,24000
-Namibia,2005,24000
-Namibia,2004,24000
-Namibia,2003,23000
-Namibia,2002,22000
-Namibia,2001,20000
-Namibia,2000,18000
-Nauru,2018,6
-Nauru,2017,10
-Nauru,2016,12
-Nauru,2015,12
-Nauru,2014,9
-Nauru,2013,8
-Nauru,2012,7
-Nauru,2011,6
-Nauru,2010,3
-Nauru,2009,5
-Nauru,2008,6
-Nauru,2007,3
-Nauru,2006,14
-Nauru,2005,13
-Nauru,2004,8
-Nauru,2003,3
-Nauru,2002,6
-Nauru,2001,3
-Nauru,2000,5
-Nepal,2018,42000
-Nepal,2017,42000
-Nepal,2016,42000
-Nepal,2015,42000
-Nepal,2014,42000
-Nepal,2013,43000
-Nepal,2012,43000
-Nepal,2011,44000
-Nepal,2010,44000
-Nepal,2009,44000
-Nepal,2008,44000
-Nepal,2007,43000
-Nepal,2006,43000
-Nepal,2005,42000
-Nepal,2004,41000
-Nepal,2003,41000
-Nepal,2002,40000
-Nepal,2001,40000
-Nepal,2000,39000
-Netherlands,2018,910
-Netherlands,2017,890
-Netherlands,2016,1000
-Netherlands,2015,980
-Netherlands,2014,940
-Netherlands,2013,960
-Netherlands,2012,1100
-Netherlands,2011,1100
-Netherlands,2010,1200
-Netherlands,2009,1300
-Netherlands,2008,1100
-Netherlands,2007,1100
-Netherlands,2006,1200
-Netherlands,2005,1300
-Netherlands,2004,1500
-Netherlands,2003,1500
-Netherlands,2002,1600
-Netherlands,2001,1600
-Netherlands,2000,1400
-New Zealand,2018,350
-New Zealand,2017,350
-New Zealand,2016,340
-New Zealand,2015,340
-New Zealand,2014,340
-New Zealand,2013,310
-New Zealand,2012,340
-New Zealand,2011,350
-New Zealand,2010,350
-New Zealand,2009,340
-New Zealand,2008,340
-New Zealand,2007,320
-New Zealand,2006,400
-New Zealand,2005,380
-New Zealand,2004,430
-New Zealand,2003,490
-New Zealand,2002,380
-New Zealand,2001,430
-New Zealand,2000,400
-Nicaragua,2018,2600
-Nicaragua,2017,2800
-Nicaragua,2016,2900
-Nicaragua,2015,3100
-Nicaragua,2014,3300
-Nicaragua,2013,3400
-Nicaragua,2012,3500
-Nicaragua,2011,3400
-Nicaragua,2010,3100
-Nicaragua,2009,2900
-Nicaragua,2008,2900
-Nicaragua,2007,2900
-Nicaragua,2006,2500
-Nicaragua,2005,2400
-Nicaragua,2004,2800
-Nicaragua,2003,2900
-Nicaragua,2002,2600
-Nicaragua,2001,3100
-Nicaragua,2000,3000
-Niger,2018,19000
-Niger,2017,19000
-Niger,2016,19000
-Niger,2015,19000
-Niger,2014,19000
-Niger,2013,19000
-Niger,2012,19000
-Niger,2011,19000
-Niger,2010,19000
-Niger,2009,19000
-Niger,2008,19000
-Niger,2007,19000
-Niger,2006,19000
-Niger,2005,19000
-Niger,2004,20000
-Niger,2003,20000
-Niger,2002,21000
-Niger,2001,21000
-Niger,2000,22000
-Nigeria,2018,429000
-Nigeria,2017,418000
-Nigeria,2016,407000
-Nigeria,2015,397000
-Nigeria,2014,386000
-Nigeria,2013,376000
-Nigeria,2012,366000
-Nigeria,2011,357000
-Nigeria,2010,347000
-Nigeria,2009,338000
-Nigeria,2008,329000
-Nigeria,2007,321000
-Nigeria,2006,312000
-Nigeria,2005,304000
-Nigeria,2004,296000
-Nigeria,2003,289000
-Nigeria,2002,282000
-Nigeria,2001,275000
-Nigeria,2000,268000
-Niue,2018,1
-Niue,2017,0
-Niue,2016,0
-Niue,2015,0
-Niue,2014,0
-Niue,2013,0
-Niue,2012,0
-Niue,2011,1
-Niue,2010,0
-Niue,2009,0
-Niue,2008,0
-Niue,2007,0
-Niue,2006,0
-Niue,2005,0
-Niue,2004,0
-Niue,2003,0
-Niue,2002,5
-Niue,2001,0
-Niue,2000,0
-Norway,2018,220
-Norway,2017,270
-Norway,2016,320
-Norway,2015,330
-Norway,2014,350
-Norway,2013,420
-Norway,2012,390
-Norway,2011,370
-Norway,2010,340
-Norway,2009,380
-Norway,2008,340
-Norway,2007,330
-Norway,2006,320
-Norway,2005,320
-Norway,2004,330
-Norway,2003,380
-Norway,2002,280
-Norway,2001,320
-Norway,2000,250
-Oman,2018,280
-Oman,2017,310
-Oman,2016,400
-Oman,2015,380
-Oman,2014,410
-Oman,2013,380
-Oman,2012,440
-Oman,2011,390
-Oman,2010,350
-Oman,2009,380
-Oman,2008,400
-Oman,2007,380
-Oman,2006,390
-Oman,2005,300
-Oman,2004,340
-Oman,2003,290
-Oman,2002,330
-Oman,2001,340
-Oman,2000,370
-Pakistan,2018,562000
-Pakistan,2017,554000
-Pakistan,2016,546000
-Pakistan,2015,539000
-Pakistan,2014,527000
-Pakistan,2013,526000
-Pakistan,2012,516000
-Pakistan,2011,505000
-Pakistan,2010,495000
-Pakistan,2009,484000
-Pakistan,2008,473000
-Pakistan,2007,462000
-Pakistan,2006,452000
-Pakistan,2005,442000
-Pakistan,2004,432000
-Pakistan,2003,422000
-Pakistan,2002,412000
-Pakistan,2001,402000
-Pakistan,2000,392000
-Palau,2018,20
-Palau,2017,23
-Palau,2016,26
-Palau,2015,16
-Palau,2014,16
-Palau,2013,9
-Palau,2012,5
-Palau,2011,14
-Palau,2010,22
-Palau,2009,22
-Palau,2008,17
-Palau,2007,13
-Palau,2006,14
-Palau,2005,12
-Palau,2004,6
-Palau,2003,10
-Palau,2002,13
-Palau,2001,12
-Palau,2000,12
-Panama,2018,2200
-Panama,2017,2300
-Panama,2016,2300
-Panama,2015,2100
-Panama,2014,1800
-Panama,2013,1800
-Panama,2012,1900
-Panama,2011,2000
-Panama,2010,1900
-Panama,2009,1900
-Panama,2008,2000
-Panama,2007,2000
-Panama,2006,2000
-Panama,2005,2000
-Panama,2004,2100
-Panama,2003,2000
-Panama,2002,2000
-Panama,2001,2100
-Panama,2000,1500
-Papua New Guinea,2018,37000
-Papua New Guinea,2017,36000
-Papua New Guinea,2016,36000
-Papua New Guinea,2015,35000
-Papua New Guinea,2014,34000
-Papua New Guinea,2013,34000
-Papua New Guinea,2012,33000
-Papua New Guinea,2011,32000
-Papua New Guinea,2010,32000
-Papua New Guinea,2009,31000
-Papua New Guinea,2008,30000
-Papua New Guinea,2007,29000
-Papua New Guinea,2006,29000
-Papua New Guinea,2005,28000
-Papua New Guinea,2004,27000
-Papua New Guinea,2003,27000
-Papua New Guinea,2002,26000
-Papua New Guinea,2001,26000
-Papua New Guinea,2000,25000
-Paraguay,2018,3000
-Paraguay,2017,3000
-Paraguay,2016,2800
-Paraguay,2015,2700
-Paraguay,2014,2600
-Paraguay,2013,2600
-Paraguay,2012,2800
-Paraguay,2011,2700
-Paraguay,2010,2600
-Paraguay,2009,2700
-Paraguay,2008,2600
-Paraguay,2007,2600
-Paraguay,2006,2800
-Paraguay,2005,2500
-Paraguay,2004,2700
-Paraguay,2003,2600
-Paraguay,2002,2400
-Paraguay,2001,2400
-Paraguay,2000,2200
-Peru,2018,39000
-Peru,2017,37000
-Peru,2016,37000
-Peru,2015,37000
-Peru,2014,38000
-Peru,2013,37000
-Peru,2012,37000
-Peru,2011,39000
-Peru,2010,39000
-Peru,2009,40000
-Peru,2008,40000
-Peru,2007,41000
-Peru,2006,43000
-Peru,2005,42000
-Peru,2004,42000
-Peru,2003,40000
-Peru,2002,45000
-Peru,2001,46000
-Peru,2000,48000
-Philippines,2018,591000
-Philippines,2017,583000
-Philippines,2016,574000
-Philippines,2015,562000
-Philippines,2014,549000
-Philippines,2013,537000
-Philippines,2012,524000
-Philippines,2011,511000
-Philippines,2010,499000
-Philippines,2009,488000
-Philippines,2008,476000
-Philippines,2007,465000
-Philippines,2006,466000
-Philippines,2005,466000
-Philippines,2004,465000
-Philippines,2003,464000
-Philippines,2002,463000
-Philippines,2001,462000
-Philippines,2000,460000
-Poland,2018,6000
-Poland,2017,6400
-Poland,2016,7100
-Poland,2015,7200
-Poland,2014,7500
-Poland,2013,8100
-Poland,2012,8100
-Poland,2011,9100
-Poland,2010,8100
-Poland,2009,8800
-Poland,2008,8500
-Poland,2007,9200
-Poland,2006,9200
-Poland,2005,9400
-Poland,2004,10000
-Poland,2003,12000
-Poland,2002,12000
-Poland,2001,12000
-Poland,2000,13000
-Portugal,2018,2400
-Portugal,2017,2000
-Portugal,2016,2100
-Portugal,2015,2400
-Portugal,2014,2500
-Portugal,2013,2700
-Portugal,2012,2900
-Portugal,2011,2900
-Portugal,2010,3000
-Portugal,2009,3100
-Portugal,2008,3200
-Portugal,2007,3400
-Portugal,2006,3700
-Portugal,2005,3800
-Portugal,2004,4200
-Portugal,2003,4600
-Portugal,2002,5000
-Portugal,2001,5000
-Portugal,2000,4900
-Qatar,2018,860
-Qatar,2017,690
-Qatar,2016,580
-Qatar,2015,610
-Qatar,2014,530
-Qatar,2013,690
-Qatar,2012,840
-Qatar,2011,640
-Qatar,2010,670
-Qatar,2009,710
-Qatar,2008,650
-Qatar,2007,460
-Qatar,2006,390
-Qatar,2005,370
-Qatar,2004,310
-Qatar,2003,320
-Qatar,2002,320
-Qatar,2001,330
-Qatar,2000,320
-Republic of Korea,2018,34000
-Republic of Korea,2017,36000
-Republic of Korea,2016,39000
-Republic of Korea,2015,40000
-Republic of Korea,2014,43000
-Republic of Korea,2013,44000
-Republic of Korea,2012,47000
-Republic of Korea,2011,49000
-Republic of Korea,2010,47000
-Republic of Korea,2009,46000
-Republic of Korea,2008,43000
-Republic of Korea,2007,45000
-Republic of Korea,2006,45000
-Republic of Korea,2005,46000
-Republic of Korea,2004,37000
-Republic of Korea,2003,39000
-Republic of Korea,2002,37000
-Republic of Korea,2001,40000
-Republic of Korea,2000,23000
-Republic of Moldova,2018,3500
-Republic of Moldova,2017,3900
-Republic of Moldova,2016,4100
-Republic of Moldova,2015,4100
-Republic of Moldova,2014,4700
-Republic of Moldova,2013,5200
-Republic of Moldova,2012,5100
-Republic of Moldova,2011,4900
-Republic of Moldova,2010,4800
-Republic of Moldova,2009,5100
-Republic of Moldova,2008,5100
-Republic of Moldova,2007,5600
-Republic of Moldova,2006,5700
-Republic of Moldova,2005,5900
-Republic of Moldova,2004,5500
-Republic of Moldova,2003,4900
-Republic of Moldova,2002,4300
-Republic of Moldova,2001,4100
-Republic of Moldova,2000,3400
-Romania,2018,13000
-Romania,2017,14000
-Romania,2016,15000
-Romania,2015,16000
-Romania,2014,17000
-Romania,2013,18000
-Romania,2012,19000
-Romania,2011,20000
-Romania,2010,21000
-Romania,2009,24000
-Romania,2008,25000
-Romania,2007,26000
-Romania,2006,28000
-Romania,2005,30000
-Romania,2004,33000
-Romania,2003,34000
-Romania,2002,34000
-Romania,2001,33000
-Romania,2000,32000
-Russian Federation,2018,79000
-Russian Federation,2017,85000
-Russian Federation,2016,91000
-Russian Federation,2015,97000
-Russian Federation,2014,101000
-Russian Federation,2013,105000
-Russian Federation,2012,109000
-Russian Federation,2011,116000
-Russian Federation,2010,123000
-Russian Federation,2009,128000
-Russian Federation,2008,129000
-Russian Federation,2007,128000
-Russian Federation,2006,126000
-Russian Federation,2005,125000
-Russian Federation,2004,125000
-Russian Federation,2003,127000
-Russian Federation,2002,130000
-Russian Federation,2001,134000
-Russian Federation,2000,139000
-Rwanda,2018,7300
-Rwanda,2017,7000
-Rwanda,2016,7200
-Rwanda,2015,6900
-Rwanda,2014,7200
-Rwanda,2013,7100
-Rwanda,2012,7600
-Rwanda,2011,8300
-Rwanda,2010,8400
-Rwanda,2009,9300
-Rwanda,2008,9600
-Rwanda,2007,9800
-Rwanda,2006,10000
-Rwanda,2005,9000
-Rwanda,2004,8100
-Rwanda,2003,8500
-Rwanda,2002,7500
-Rwanda,2001,6800
-Rwanda,2000,7600
-Saint Kitts and Nevis,2018,0
-Saint Kitts and Nevis,2017,1
-Saint Kitts and Nevis,2016,0
-Saint Kitts and Nevis,2015,2
-Saint Kitts and Nevis,2014,8
-Saint Kitts and Nevis,2013,0
-Saint Kitts and Nevis,2012,2
-Saint Kitts and Nevis,2011,1
-Saint Kitts and Nevis,2010,2
-Saint Kitts and Nevis,2009,5
-Saint Kitts and Nevis,2008,6
-Saint Kitts and Nevis,2007,5
-Saint Kitts and Nevis,2006,1
-Saint Kitts and Nevis,2005,0
-Saint Kitts and Nevis,2004,2
-Saint Kitts and Nevis,2003,1
-Saint Kitts and Nevis,2002,3
-Saint Kitts and Nevis,2001,2
-Saint Kitts and Nevis,2000,0
-Saint Lucia,2018,6
-Saint Lucia,2017,13
-Saint Lucia,2016,3
-Saint Lucia,2015,16
-Saint Lucia,2014,7
-Saint Lucia,2013,10
-Saint Lucia,2012,13
-Saint Lucia,2011,8
-Saint Lucia,2010,10
-Saint Lucia,2009,12
-Saint Lucia,2008,24
-Saint Lucia,2007,22
-Saint Lucia,2006,17
-Saint Lucia,2005,16
-Saint Lucia,2004,17
-Saint Lucia,2003,17
-Saint Lucia,2002,20
-Saint Lucia,2001,17
-Saint Lucia,2000,10
-Saint Vincent and the Grenadines,2018,7
-Saint Vincent and the Grenadines,2017,2
-Saint Vincent and the Grenadines,2016,7
-Saint Vincent and the Grenadines,2015,8
-Saint Vincent and the Grenadines,2014,6
-Saint Vincent and the Grenadines,2013,3
-Saint Vincent and the Grenadines,2012,34
-Saint Vincent and the Grenadines,2011,20
-Saint Vincent and the Grenadines,2010,17
-Saint Vincent and the Grenadines,2009,10
-Saint Vincent and the Grenadines,2008,14
-Saint Vincent and the Grenadines,2007,14
-Saint Vincent and the Grenadines,2006,15
-Saint Vincent and the Grenadines,2005,8
-Saint Vincent and the Grenadines,2004,9
-Saint Vincent and the Grenadines,2003,16
-Saint Vincent and the Grenadines,2002,12
-Saint Vincent and the Grenadines,2001,12
-Saint Vincent and the Grenadines,2000,18
-Samoa,2018,13
-Samoa,2017,35
-Samoa,2016,15
-Samoa,2015,22
-Samoa,2014,26
-Samoa,2013,25
-Samoa,2012,25
-Samoa,2011,23
-Samoa,2010,16
-Samoa,2009,18
-Samoa,2008,14
-Samoa,2007,24
-Samoa,2006,29
-Samoa,2005,28
-Samoa,2004,39
-Samoa,2003,31
-Samoa,2002,36
-Samoa,2001,25
-Samoa,2000,49
-San Marino,2018,0
-San Marino,2017,0
-San Marino,2016,0
-San Marino,2015,0
-San Marino,2014,0
-San Marino,2013,0
-San Marino,2012,0
-San Marino,2011,0
-San Marino,2010,0
-San Marino,2009,0
-San Marino,2008,0
-San Marino,2007,0
-San Marino,2006,0
-San Marino,2005,0
-San Marino,2004,0
-San Marino,2003,1
-San Marino,2002,1
-San Marino,2001,0
-San Marino,2000,1
-Sao Tome and Principe,2018,260
-Sao Tome and Principe,2017,240
-Sao Tome and Principe,2016,330
-Sao Tome and Principe,2015,310
-Sao Tome and Principe,2014,280
-Sao Tome and Principe,2013,260
-Sao Tome and Principe,2012,200
-Sao Tome and Principe,2011,240
-Sao Tome and Principe,2010,210
-Sao Tome and Principe,2009,140
-Sao Tome and Principe,2008,120
-Sao Tome and Principe,2007,160
-Sao Tome and Principe,2006,270
-Sao Tome and Principe,2005,240
-Sao Tome and Principe,2004,210
-Sao Tome and Principe,2003,190
-Sao Tome and Principe,2002,160
-Sao Tome and Principe,2001,170
-Sao Tome and Principe,2000,170
-Saudi Arabia,2018,3400
-Saudi Arabia,2017,3300
-Saudi Arabia,2016,3300
-Saudi Arabia,2015,3800
-Saudi Arabia,2014,3700
-Saudi Arabia,2013,4000
-Saudi Arabia,2012,4200
-Saudi Arabia,2011,4500
-Saudi Arabia,2010,5100
-Saudi Arabia,2009,4600
-Saudi Arabia,2008,4600
-Saudi Arabia,2007,4500
-Saudi Arabia,2006,4300
-Saudi Arabia,2005,4100
-Saudi Arabia,2004,3800
-Saudi Arabia,2003,3800
-Saudi Arabia,2002,3900
-Saudi Arabia,2001,3800
-Saudi Arabia,2000,4000
-Senegal,2018,19000
-Senegal,2017,18000
-Senegal,2016,18000
-Senegal,2015,18000
-Senegal,2014,18000
-Senegal,2013,17000
-Senegal,2012,17000
-Senegal,2011,17000
-Senegal,2010,17000
-Senegal,2009,17000
-Senegal,2008,16000
-Senegal,2007,16000
-Senegal,2006,16000
-Senegal,2005,16000
-Senegal,2004,16000
-Senegal,2003,15000
-Senegal,2002,15000
-Senegal,2001,15000
-Senegal,2000,15000
-Serbia,2018,1500
-Serbia,2017,1700
-Serbia,2016,1700
-Serbia,2015,1900
-Serbia,2014,2100
-Serbia,2013,2400
-Serbia,2012,2200
-Serbia,2011,2500
-Serbia,2010,2700
-Serbia,2009,2900
-Serbia,2008,3100
-Serbia,2007,3300
-Serbia,2006,3600
-Serbia,2005,3700
-Seychelles,2018,17
-Seychelles,2017,18
-Seychelles,2016,14
-Seychelles,2015,9
-Seychelles,2014,15
-Seychelles,2013,28
-Seychelles,2012,23
-Seychelles,2011,24
-Seychelles,2010,20
-Seychelles,2009,17
-Seychelles,2008,7
-Seychelles,2007,20
-Seychelles,2006,21
-Seychelles,2005,16
-Seychelles,2004,21
-Seychelles,2003,12
-Seychelles,2002,33
-Seychelles,2001,22
-Seychelles,2000,23
-Sierra Leone,2018,23000
-Sierra Leone,2017,23000
-Sierra Leone,2016,22000
-Sierra Leone,2015,22000
-Sierra Leone,2014,22000
-Sierra Leone,2013,21000
-Sierra Leone,2012,21000
-Sierra Leone,2011,21000
-Sierra Leone,2010,20000
-Sierra Leone,2009,20000
-Sierra Leone,2008,20000
-Sierra Leone,2007,19000
-Sierra Leone,2006,18000
-Sierra Leone,2005,18000
-Sierra Leone,2004,17000
-Sierra Leone,2003,16000
-Sierra Leone,2002,15000
-Sierra Leone,2001,15000
-Sierra Leone,2000,14000
-Singapore,2018,2700
-Singapore,2017,2700
-Singapore,2016,2800
-Singapore,2015,2500
-Singapore,2014,2500
-Singapore,2013,2500
-Singapore,2012,2600
-Singapore,2011,1900
-Singapore,2010,1800
-Singapore,2009,1800
-Singapore,2008,1800
-Singapore,2007,1600
-Singapore,2006,1500
-Singapore,2005,1600
-Singapore,2004,1600
-Singapore,2003,1800
-Singapore,2002,1700
-Singapore,2001,1800
-Singapore,2000,2000
-Slovakia,2018,310
-Slovakia,2017,260
-Slovakia,2016,320
-Slovakia,2015,350
-Slovakia,2014,370
-Slovakia,2013,460
-Slovakia,2012,370
-Slovakia,2011,430
-Slovakia,2010,470
-Slovakia,2009,520
-Slovakia,2008,670
-Slovakia,2007,720
-Slovakia,2006,770
-Slovakia,2005,820
-Slovakia,2004,760
-Slovakia,2003,1100
-Slovakia,2002,1100
-Slovakia,2001,1100
-Slovakia,2000,1200
-Slovenia,2018,110
-Slovenia,2017,130
-Slovenia,2016,140
-Slovenia,2015,150
-Slovenia,2014,160
-Slovenia,2013,160
-Slovenia,2012,150
-Slovenia,2011,210
-Slovenia,2010,190
-Slovenia,2009,210
-Slovenia,2008,240
-Slovenia,2007,250
-Slovenia,2006,240
-Slovenia,2005,310
-Slovenia,2004,290
-Slovenia,2003,330
-Slovenia,2002,390
-Slovenia,2001,410
-Slovenia,2000,420
-Solomon Islands,2018,480
-Solomon Islands,2017,470
-Solomon Islands,2016,500
-Solomon Islands,2015,520
-Solomon Islands,2014,430
-Solomon Islands,2013,450
-Solomon Islands,2012,450
-Solomon Islands,2011,500
-Solomon Islands,2010,420
-Solomon Islands,2009,460
-Solomon Islands,2008,480
-Solomon Islands,2007,500
-Solomon Islands,2006,460
-Solomon Islands,2005,500
-Solomon Islands,2004,430
-Solomon Islands,2003,370
-Solomon Islands,2002,320
-Solomon Islands,2001,370
-Solomon Islands,2000,380
-Somalia,2018,39000
-Somalia,2017,39000
-Somalia,2016,38000
-Somalia,2015,38000
-Somalia,2014,37000
-Somalia,2013,37000
-Somalia,2012,36000
-Somalia,2011,35000
-Somalia,2010,34000
-Somalia,2009,33000
-Somalia,2008,33000
-Somalia,2007,32000
-Somalia,2006,31000
-Somalia,2005,30000
-Somalia,2004,29000
-Somalia,2003,28000
-Somalia,2002,27000
-Somalia,2001,26000
-Somalia,2000,25000
-South Africa,2018,301000
-South Africa,2017,323000
-South Africa,2016,347000
-South Africa,2015,420000
-South Africa,2014,447000
-South Africa,2013,456000
-South Africa,2012,471000
-South Africa,2011,479000
-South Africa,2010,485000
-South Africa,2009,488000
-South Africa,2008,486000
-South Africa,2007,480000
-South Africa,2006,467000
-South Africa,2005,446000
-South Africa,2004,418000
-South Africa,2003,383000
-South Africa,2002,344000
-South Africa,2001,303000
-South Africa,2000,263000
-South Sudan,2018,16000
-South Sudan,2017,16000
-South Sudan,2016,16000
-South Sudan,2015,16000
-South Sudan,2014,15000
-South Sudan,2013,15000
-South Sudan,2012,15000
-South Sudan,2011,14000
-Spain,2018,4400
-Spain,2017,5000
-Spain,2016,5400
-Spain,2015,4600
-Spain,2014,5500
-Spain,2013,6000
-Spain,2012,6500
-Spain,2011,7400
-Spain,2010,7900
-Spain,2009,8300
-Spain,2008,8900
-Spain,2007,8400
-Spain,2006,9000
-Spain,2005,8400
-Spain,2004,6900
-Spain,2003,11000
-Spain,2002,8400
-Spain,2001,7900
-Spain,2000,9200
-Sri Lanka,2018,14000
-Sri Lanka,2017,14000
-Sri Lanka,2016,14000
-Sri Lanka,2015,14000
-Sri Lanka,2014,14000
-Sri Lanka,2013,14000
-Sri Lanka,2012,14000
-Sri Lanka,2011,14000
-Sri Lanka,2010,13000
-Sri Lanka,2009,13000
-Sri Lanka,2008,13000
-Sri Lanka,2007,13000
-Sri Lanka,2006,13000
-Sri Lanka,2005,13000
-Sri Lanka,2004,13000
-Sri Lanka,2003,13000
-Sri Lanka,2002,13000
-Sri Lanka,2001,13000
-Sri Lanka,2000,12000
-Sudan,2018,30000
-Sudan,2017,31000
-Sudan,2016,33000
-Sudan,2015,34000
-Sudan,2014,36000
-Sudan,2013,37000
-Sudan,2012,37000
-Sudan,2011,37000
-Suriname,2018,220
-Suriname,2017,160
-Suriname,2016,140
-Suriname,2015,180
-Suriname,2014,180
-Suriname,2013,180
-Suriname,2012,160
-Suriname,2011,160
-Suriname,2010,240
-Suriname,2009,220
-Suriname,2008,140
-Suriname,2007,160
-Suriname,2006,160
-Suriname,2005,150
-Suriname,2004,120
-Suriname,2003,130
-Suriname,2002,120
-Suriname,2001,94
-Suriname,2000,110
-Sweden,2018,550
-Sweden,2017,560
-Sweden,2016,810
-Sweden,2015,900
-Sweden,2014,730
-Sweden,2013,700
-Sweden,2012,680
-Sweden,2011,620
-Sweden,2010,710
-Sweden,2009,660
-Sweden,2008,590
-Sweden,2007,530
-Sweden,2006,560
-Sweden,2005,620
-Sweden,2004,490
-Sweden,2003,460
-Sweden,2002,430
-Sweden,2001,450
-Sweden,2000,480
-Switzerland,2018,540
-Switzerland,2017,610
-Switzerland,2016,660
-Switzerland,2015,610
-Switzerland,2014,490
-Switzerland,2013,540
-Switzerland,2012,480
-Switzerland,2011,600
-Switzerland,2010,580
-Switzerland,2009,580
-Switzerland,2008,530
-Switzerland,2007,480
-Switzerland,2006,540
-Switzerland,2005,590
-Switzerland,2004,630
-Switzerland,2003,660
-Switzerland,2002,680
-Switzerland,2001,630
-Switzerland,2000,660
-Syrian Arab Republic,2018,3300
-Syrian Arab Republic,2017,3400
-Syrian Arab Republic,2016,3800
-Syrian Arab Republic,2015,3600
-Syrian Arab Republic,2014,4400
-Syrian Arab Republic,2013,3400
-Syrian Arab Republic,2012,3800
-Syrian Arab Republic,2011,4500
-Syrian Arab Republic,2010,4600
-Syrian Arab Republic,2009,5100
-Syrian Arab Republic,2008,4700
-Syrian Arab Republic,2007,5300
-Syrian Arab Republic,2006,4900
-Syrian Arab Republic,2005,5400
-Syrian Arab Republic,2004,5700
-Syrian Arab Republic,2003,6000
-Syrian Arab Republic,2002,6000
-Syrian Arab Republic,2001,6200
-Syrian Arab Republic,2000,6400
-Tajikistan,2018,7600
-Tajikistan,2017,7500
-Tajikistan,2016,7400
-Tajikistan,2015,7300
-Tajikistan,2014,7500
-Tajikistan,2013,8000
-Tajikistan,2012,8500
-Tajikistan,2011,9000
-Tajikistan,2010,9600
-Tajikistan,2009,10000
-Tajikistan,2008,11000
-Tajikistan,2007,12000
-Tajikistan,2006,13000
-Tajikistan,2005,13000
-Tajikistan,2004,14000
-Tajikistan,2003,14000
-Tajikistan,2002,14000
-Tajikistan,2001,14000
-Tajikistan,2000,14000
-Thailand,2018,106000
-Thailand,2017,108000
-Thailand,2016,110000
-Thailand,2015,112000
-Thailand,2014,114000
-Thailand,2013,116000
-Thailand,2012,117000
-Thailand,2011,119000
-Thailand,2010,122000
-Thailand,2009,126000
-Thailand,2008,131000
-Thailand,2007,136000
-Thailand,2006,141000
-Thailand,2005,146000
-Thailand,2004,151000
-Thailand,2003,155000
-Thailand,2002,156000
-Thailand,2001,156000
-Thailand,2000,152000
-Republic of North Macedonia,2018,270
-Republic of North Macedonia,2017,270
-Republic of North Macedonia,2016,330
-Republic of North Macedonia,2015,350
-Republic of North Macedonia,2014,350
-Republic of North Macedonia,2013,400
-Republic of North Macedonia,2012,430
-Republic of North Macedonia,2011,420
-Republic of North Macedonia,2010,480
-Republic of North Macedonia,2009,560
-Republic of North Macedonia,2008,560
-Republic of North Macedonia,2007,660
-Republic of North Macedonia,2006,700
-Republic of North Macedonia,2005,750
-Republic of North Macedonia,2004,810
-Republic of North Macedonia,2003,870
-Republic of North Macedonia,2002,860
-Republic of North Macedonia,2001,810
-Republic of North Macedonia,2000,800
-Timor-Leste,2018,6300
-Timor-Leste,2017,6200
-Timor-Leste,2016,6100
-Timor-Leste,2015,6000
-Timor-Leste,2014,5900
-Timor-Leste,2013,5700
-Timor-Leste,2012,5600
-Timor-Leste,2011,5500
-Timor-Leste,2010,5400
-Timor-Leste,2009,5400
-Timor-Leste,2008,5300
-Timor-Leste,2007,5200
-Timor-Leste,2006,5100
-Timor-Leste,2005,5000
-Timor-Leste,2004,4800
-Timor-Leste,2003,4700
-Timor-Leste,2002,4600
-Togo,2018,2800
-Togo,2017,3100
-Togo,2016,3500
-Togo,2015,3800
-Togo,2014,4200
-Togo,2013,4500
-Togo,2012,4700
-Togo,2011,4800
-Togo,2010,4900
-Togo,2009,4800
-Togo,2008,4700
-Togo,2007,4500
-Togo,2006,4300
-Togo,2005,4000
-Togo,2004,3600
-Togo,2003,3200
-Togo,2002,2900
-Togo,2001,2700
-Togo,2000,2500
-Tonga,2018,10
-Tonga,2017,13
-Tonga,2016,9
-Tonga,2015,16
-Tonga,2014,15
-Tonga,2013,12
-Tonga,2012,13
-Tonga,2011,10
-Tonga,2010,13
-Tonga,2009,9
-Tonga,2008,15
-Tonga,2007,26
-Tonga,2006,21
-Tonga,2005,21
-Tonga,2004,14
-Tonga,2003,18
-Tonga,2002,33
-Tonga,2001,14
-Tonga,2000,28
-Trinidad and Tobago,2018,290
-Trinidad and Tobago,2017,230
-Trinidad and Tobago,2016,250
-Trinidad and Tobago,2015,230
-Trinidad and Tobago,2014,290
-Trinidad and Tobago,2013,290
-Trinidad and Tobago,2012,320
-Trinidad and Tobago,2011,260
-Trinidad and Tobago,2010,250
-Trinidad and Tobago,2009,310
-Trinidad and Tobago,2008,320
-Trinidad and Tobago,2007,250
-Trinidad and Tobago,2006,270
-Trinidad and Tobago,2005,190
-Trinidad and Tobago,2004,200
-Trinidad and Tobago,2003,170
-Trinidad and Tobago,2002,150
-Trinidad and Tobago,2001,240
-Trinidad and Tobago,2000,230
-Tunisia,2018,4000
-Tunisia,2017,3900
-Tunisia,2016,4300
-Tunisia,2015,4300
-Tunisia,2014,3900
-Tunisia,2013,3800
-Tunisia,2012,4000
-Tunisia,2011,3800
-Tunisia,2010,3000
-Tunisia,2009,2700
-Tunisia,2008,2800
-Tunisia,2007,2900
-Tunisia,2006,2700
-Tunisia,2005,2600
-Tunisia,2004,2500
-Tunisia,2003,2500
-Tunisia,2002,2400
-Tunisia,2001,2400
-Tunisia,2000,2500
-Turkey,2018,13000
-Turkey,2017,14000
-Turkey,2016,14000
-Turkey,2015,14000
-Turkey,2014,15000
-Turkey,2013,15000
-Turkey,2012,16000
-Turkey,2011,17000
-Turkey,2010,18000
-Turkey,2009,19000
-Turkey,2008,20000
-Turkey,2007,22000
-Turkey,2006,23000
-Turkey,2005,23000
-Turkey,2004,20000
-Turkey,2003,21000
-Turkey,2002,21000
-Turkey,2001,20000
-Turkey,2000,21000
-Turkmenistan,2018,2700
-Turkmenistan,2017,2500
-Turkmenistan,2016,2600
-Turkmenistan,2015,2700
-Turkmenistan,2014,3200
-Turkmenistan,2013,3800
-Turkmenistan,2012,3700
-Turkmenistan,2011,3400
-Turkmenistan,2010,4000
-Turkmenistan,2009,3900
-Turkmenistan,2008,4700
-Turkmenistan,2007,4300
-Turkmenistan,2006,4000
-Turkmenistan,2005,4000
-Turkmenistan,2004,4200
-Turkmenistan,2003,5400
-Turkmenistan,2002,4600
-Turkmenistan,2001,4900
-Turkmenistan,2000,5000
-Tuvalu,2018,31
-Tuvalu,2017,26
-Tuvalu,2016,23
-Tuvalu,2015,23
-Tuvalu,2014,17
-Tuvalu,2013,21
-Tuvalu,2012,22
-Tuvalu,2011,14
-Tuvalu,2010,16
-Tuvalu,2009,21
-Tuvalu,2008,20
-Tuvalu,2007,21
-Tuvalu,2006,10
-Tuvalu,2005,14
-Tuvalu,2004,19
-Tuvalu,2003,36
-Tuvalu,2002,15
-Tuvalu,2001,18
-Tuvalu,2000,18
-Uganda,2018,86000
-Uganda,2017,83000
-Uganda,2016,80000
-Uganda,2015,77000
-Uganda,2014,75000
-Uganda,2013,73000
-Uganda,2012,71000
-Uganda,2011,69000
-Uganda,2010,68000
-Uganda,2009,67000
-Uganda,2008,66000
-Uganda,2007,65000
-Uganda,2006,65000
-Uganda,2005,65000
-Uganda,2004,64000
-Uganda,2003,64000
-Uganda,2002,64000
-Uganda,2001,65000
-Uganda,2000,65000
-Ukraine,2018,36000
-Ukraine,2017,37000
-Ukraine,2016,39000
-Ukraine,2015,41000
-Ukraine,2014,43000
-Ukraine,2013,44000
-Ukraine,2012,46000
-Ukraine,2011,48000
-Ukraine,2010,50000
-Ukraine,2009,53000
-Ukraine,2008,55000
-Ukraine,2007,57000
-Ukraine,2006,58000
-Ukraine,2005,60000
-Ukraine,2004,60000
-Ukraine,2003,60000
-Ukraine,2002,59000
-Ukraine,2001,58000
-Ukraine,2000,56000
-United Arab Emirates,2018,99
-United Arab Emirates,2017,76
-United Arab Emirates,2016,74
-United Arab Emirates,2015,72
-United Arab Emirates,2014,69
-United Arab Emirates,2013,94
-United Arab Emirates,2012,91
-United Arab Emirates,2011,120
-United Arab Emirates,2010,150
-United Arab Emirates,2009,130
-United Arab Emirates,2008,110
-United Arab Emirates,2007,110
-United Arab Emirates,2006,100
-United Arab Emirates,2005,120
-United Arab Emirates,2004,110
-United Arab Emirates,2003,130
-United Arab Emirates,2002,100
-United Arab Emirates,2001,85
-United Arab Emirates,2000,130
-United Kingdom of Great Britain and Northern Ireland,2018,5400
-United Kingdom of Great Britain and Northern Ireland,2017,5900
-United Kingdom of Great Britain and Northern Ireland,2016,6500
-United Kingdom of Great Britain and Northern Ireland,2015,6600
-United Kingdom of Great Britain and Northern Ireland,2014,7400
-United Kingdom of Great Britain and Northern Ireland,2013,8300
-United Kingdom of Great Britain and Northern Ireland,2012,9300
-United Kingdom of Great Britain and Northern Ireland,2011,9500
-United Kingdom of Great Britain and Northern Ireland,2010,8800
-United Kingdom of Great Britain and Northern Ireland,2009,9100
-United Kingdom of Great Britain and Northern Ireland,2008,9300
-United Kingdom of Great Britain and Northern Ireland,2007,9000
-United Kingdom of Great Britain and Northern Ireland,2006,9300
-United Kingdom of Great Britain and Northern Ireland,2005,9200
-United Kingdom of Great Britain and Northern Ireland,2004,7900
-United Kingdom of Great Britain and Northern Ireland,2003,8000
-United Kingdom of Great Britain and Northern Ireland,2002,7800
-United Kingdom of Great Britain and Northern Ireland,2001,6800
-United Kingdom of Great Britain and Northern Ireland,2000,7000
-United Republic of Tanzania,2018,142000
-United Republic of Tanzania,2017,147000
-United Republic of Tanzania,2016,152000
-United Republic of Tanzania,2015,158000
-United Republic of Tanzania,2014,163000
-United Republic of Tanzania,2013,163000
-United Republic of Tanzania,2012,178000
-United Republic of Tanzania,2011,183000
-United Republic of Tanzania,2010,189000
-United Republic of Tanzania,2009,195000
-United Republic of Tanzania,2008,199000
-United Republic of Tanzania,2007,200000
-United Republic of Tanzania,2006,199000
-United Republic of Tanzania,2005,196000
-United Republic of Tanzania,2004,191000
-United Republic of Tanzania,2003,185000
-United Republic of Tanzania,2002,180000
-United Republic of Tanzania,2001,174000
-United Republic of Tanzania,2000,168000
-United States of America,2018,9800
-United States of America,2017,10000
-United States of America,2016,10000
-United States of America,2015,10000
-United States of America,2014,10000
-United States of America,2013,10000
-United States of America,2012,11000
-United States of America,2011,12000
-United States of America,2010,13000
-United States of America,2009,13000
-United States of America,2008,15000
-United States of America,2007,15000
-United States of America,2006,16000
-United States of America,2005,16000
-United States of America,2004,17000
-United States of America,2003,17000
-United States of America,2002,17000
-United States of America,2001,18000
-United States of America,2000,19000
-Uruguay,2018,1200
-Uruguay,2017,1100
-Uruguay,2016,1000
-Uruguay,2015,1000
-Uruguay,2014,990
-Uruguay,2013,1000
-Uruguay,2012,930
-Uruguay,2011,940
-Uruguay,2010,800
-Uruguay,2009,810
-Uruguay,2008,790
-Uruguay,2007,700
-Uruguay,2006,640
-Uruguay,2005,720
-Uruguay,2004,840
-Uruguay,2003,740
-Uruguay,2002,620
-Uruguay,2001,790
-Uruguay,2000,740
-Uzbekistan,2018,23000
-Uzbekistan,2017,23000
-Uzbekistan,2016,24000
-Uzbekistan,2015,25000
-Uzbekistan,2014,25000
-Uzbekistan,2013,26000
-Uzbekistan,2012,26000
-Uzbekistan,2011,27000
-Uzbekistan,2010,28000
-Uzbekistan,2009,28000
-Uzbekistan,2008,29000
-Uzbekistan,2007,30000
-Uzbekistan,2006,31000
-Uzbekistan,2005,32000
-Uzbekistan,2004,31000
-Uzbekistan,2003,30000
-Uzbekistan,2002,29000
-Uzbekistan,2001,27000
-Uzbekistan,2000,24000
-Vanuatu,2018,130
-Vanuatu,2017,150
-Vanuatu,2016,160
-Vanuatu,2015,170
-Vanuatu,2014,160
-Vanuatu,2013,160
-Vanuatu,2012,160
-Vanuatu,2011,160
-Vanuatu,2010,160
-Vanuatu,2009,170
-Vanuatu,2008,170
-Vanuatu,2007,170
-Vanuatu,2006,170
-Vanuatu,2005,170
-Vanuatu,2004,170
-Vanuatu,2003,140
-Vanuatu,2002,130
-Vanuatu,2001,230
-Vanuatu,2000,200
-Venezuela (Bolivarian Republic of),2018,14000
-Venezuela (Bolivarian Republic of),2017,13000
-Venezuela (Bolivarian Republic of),2016,10000
-Venezuela (Bolivarian Republic of),2015,8900
-Venezuela (Bolivarian Republic of),2014,8000
-Venezuela (Bolivarian Republic of),2013,8200
-Venezuela (Bolivarian Republic of),2012,8100
-Venezuela (Bolivarian Republic of),2011,7900
-Venezuela (Bolivarian Republic of),2010,8100
-Venezuela (Bolivarian Republic of),2009,8100
-Venezuela (Bolivarian Republic of),2008,8000
-Venezuela (Bolivarian Republic of),2007,8100
-Venezuela (Bolivarian Republic of),2006,8400
-Venezuela (Bolivarian Republic of),2005,8600
-Venezuela (Bolivarian Republic of),2004,8500
-Venezuela (Bolivarian Republic of),2003,8400
-Venezuela (Bolivarian Republic of),2002,7800
-Venezuela (Bolivarian Republic of),2001,7800
-Venezuela (Bolivarian Republic of),2000,8100
-Viet Nam,2018,174000
-Viet Nam,2017,178000
-Viet Nam,2016,181000
-Viet Nam,2015,185000
-Viet Nam,2014,188000
-Viet Nam,2013,192000
-Viet Nam,2012,196000
-Viet Nam,2011,200000
-Viet Nam,2010,204000
-Viet Nam,2009,208000
-Viet Nam,2008,212000
-Viet Nam,2007,216000
-Viet Nam,2006,220000
-Viet Nam,2005,223000
-Viet Nam,2004,226000
-Viet Nam,2003,229000
-Viet Nam,2002,232000
-Viet Nam,2001,234000
-Viet Nam,2000,237000
-Yemen,2018,14000
-Yemen,2017,13000
-Yemen,2016,13000
-Yemen,2015,13000
-Yemen,2014,12000
-Yemen,2013,12000
-Yemen,2012,12000
-Yemen,2011,12000
-Yemen,2010,12000
-Yemen,2009,12000
-Yemen,2008,13000
-Yemen,2007,14000
-Yemen,2006,15000
-Yemen,2005,16000
-Yemen,2004,17000
-Yemen,2003,18000
-Yemen,2002,19000
-Yemen,2001,20000
-Yemen,2000,20000
-Zambia,2018,60000
-Zambia,2017,61000
-Zambia,2016,61000
-Zambia,2015,62000
-Zambia,2014,63000
-Zambia,2013,65000
-Zambia,2012,66000
-Zambia,2011,67000
-Zambia,2010,67000
-Zambia,2009,68000
-Zambia,2008,69000
-Zambia,2007,69000
-Zambia,2006,70000
-Zambia,2005,71000
-Zambia,2004,73000
-Zambia,2003,75000
-Zambia,2002,76000
-Zambia,2001,78000
-Zambia,2000,79000
-Zimbabwe,2018,30000
-Zimbabwe,2017,31000
-Zimbabwe,2016,33000
-Zimbabwe,2015,33000
-Zimbabwe,2014,38000
-Zimbabwe,2013,41000
-Zimbabwe,2012,47000
-Zimbabwe,2011,50000
-Zimbabwe,2010,53000
-Zimbabwe,2009,56000
-Zimbabwe,2008,60000
-Zimbabwe,2007,65000
-Zimbabwe,2006,68000
-Zimbabwe,2005,71000
-Zimbabwe,2004,73000
-Zimbabwe,2003,74000
-Zimbabwe,2002,74000
-Zimbabwe,2001,74000
-Zimbabwe,2000,72000
+,Country,Year,tuberculosis_incidence
+0,Afghanistan,2018,70000
+1,Afghanistan,2017,69000
+2,Afghanistan,2016,67000
+3,Afghanistan,2015,65000
+4,Afghanistan,2014,63000
+5,Afghanistan,2013,61000
+6,Afghanistan,2012,59000
+7,Afghanistan,2011,57000
+8,Afghanistan,2010,55000
+9,Afghanistan,2009,54000
+10,Afghanistan,2008,52000
+11,Afghanistan,2007,51000
+12,Afghanistan,2006,50000
+13,Afghanistan,2005,48000
+14,Afghanistan,2004,47000
+15,Afghanistan,2003,45000
+16,Afghanistan,2002,43000
+17,Afghanistan,2001,41000
+18,Afghanistan,2000,39000
+19,Albania,2018,510
+20,Albania,2017,580
+21,Albania,2016,480
+22,Albania,2015,480
+23,Albania,2014,470
+24,Albania,2013,550
+25,Albania,2012,470
+26,Albania,2011,490
+27,Albania,2010,500
+28,Albania,2009,510
+29,Albania,2008,490
+30,Albania,2007,500
+31,Albania,2006,540
+32,Albania,2005,580
+33,Albania,2004,630
+34,Albania,2003,640
+35,Albania,2002,680
+36,Albania,2001,640
+37,Albania,2000,690
+38,Algeria,2018,29000
+39,Algeria,2017,29000
+40,Algeria,2016,29000
+41,Algeria,2015,30000
+42,Algeria,2014,28000
+43,Algeria,2013,26000
+44,Algeria,2012,27000
+45,Algeria,2011,27000
+46,Algeria,2010,28000
+47,Algeria,2009,27000
+48,Algeria,2008,26000
+49,Algeria,2007,27000
+50,Algeria,2006,26000
+51,Algeria,2005,27000
+52,Algeria,2004,25000
+53,Algeria,2003,25000
+54,Algeria,2002,24000
+55,Algeria,2001,23000
+56,Algeria,2000,23000
+57,Andorra,2018,2
+58,Andorra,2017,1
+59,Andorra,2016,5
+60,Andorra,2015,5
+61,Andorra,2014,7
+62,Andorra,2013,6
+63,Andorra,2012,10
+64,Andorra,2011,3
+65,Andorra,2010,8
+66,Andorra,2009,9
+67,Andorra,2008,5
+68,Andorra,2007,6
+69,Andorra,2006,14
+70,Andorra,2005,12
+71,Andorra,2004,8
+72,Andorra,2003,13
+73,Andorra,2002,6
+74,Andorra,2001,12
+75,Andorra,2000,14
+76,Angola,2018,109000
+77,Angola,2017,107000
+78,Angola,2016,105000
+79,Angola,2015,102000
+80,Angola,2014,100000
+81,Angola,2013,98000
+82,Angola,2012,95000
+83,Angola,2011,93000
+84,Angola,2010,90000
+85,Angola,2009,87000
+86,Angola,2008,83000
+87,Angola,2007,79000
+88,Angola,2006,76000
+89,Angola,2005,72000
+90,Angola,2004,66000
+91,Angola,2003,61000
+92,Angola,2002,56000
+93,Angola,2001,52000
+94,Angola,2000,49000
+95,Antigua,2018,6
+96,Antigua,2017,1
+97,Antigua,2016,3
+98,Antigua,2015,5
+99,Antigua,2014,3
+100,Antigua,2013,12
+101,Antigua,2012,3
+102,Antigua,2011,7
+103,Antigua,2010,8
+104,Antigua,2009,3
+105,Antigua,2008,1
+106,Antigua,2007,2
+107,Antigua,2006,5
+108,Antigua,2005,7
+109,Antigua,2004,5
+110,Antigua,2003,1
+111,Antigua,2002,5
+112,Antigua,2001,1
+113,Antigua,2000,5
+114,Argentina,2018,12000
+115,Argentina,2017,12000
+116,Argentina,2016,12000
+117,Argentina,2015,11000
+118,Argentina,2014,11000
+119,Argentina,2013,10000
+120,Argentina,2012,10000
+121,Argentina,2011,11000
+122,Argentina,2010,8400
+123,Argentina,2009,8900
+124,Argentina,2008,11000
+125,Argentina,2007,12000
+126,Argentina,2006,11000
+127,Argentina,2005,12000
+128,Argentina,2004,13000
+129,Argentina,2003,12000
+130,Argentina,2002,13000
+131,Argentina,2001,13000
+132,Argentina,2000,14000
+133,Armenia,2018,920
+134,Armenia,2017,1100
+135,Armenia,2016,1300
+136,Armenia,2015,1500
+137,Armenia,2014,1700
+138,Armenia,2013,1700
+139,Armenia,2012,1500
+140,Armenia,2011,1600
+141,Armenia,2010,1800
+142,Armenia,2009,2000
+143,Armenia,2008,2100
+144,Armenia,2007,2100
+145,Armenia,2006,2200
+146,Armenia,2005,2800
+147,Armenia,2004,2100
+148,Armenia,2003,1900
+149,Armenia,2002,1800
+150,Armenia,2001,1700
+151,Armenia,2000,1700
+152,Australia,2018,1700
+153,Australia,2017,1600
+154,Australia,2016,1600
+155,Australia,2015,1400
+156,Australia,2014,1500
+157,Australia,2013,1400
+158,Australia,2012,1500
+159,Australia,2011,1400
+160,Australia,2010,1400
+161,Australia,2009,1500
+162,Australia,2008,1400
+163,Australia,2007,1300
+164,Australia,2006,1300
+165,Australia,2005,1200
+166,Australia,2004,1200
+167,Australia,2003,1100
+168,Australia,2002,1200
+169,Australia,2001,1100
+170,Australia,2000,1200
+171,Austria,2018,630
+172,Austria,2017,650
+173,Austria,2016,710
+174,Austria,2015,650
+175,Austria,2014,650
+176,Austria,2013,720
+177,Austria,2012,710
+178,Austria,2011,770
+179,Austria,2010,760
+180,Austria,2009,760
+181,Austria,2008,870
+182,Austria,2007,930
+183,Austria,2006,980
+184,Austria,2005,1100
+185,Austria,2004,1000
+186,Austria,2003,1100
+187,Austria,2002,1200
+188,Austria,2001,1200
+189,Austria,2000,1400
+190,Azerbaijan,2018,6300
+191,Azerbaijan,2017,6500
+192,Azerbaijan,2016,6400
+193,Azerbaijan,2015,6800
+194,Azerbaijan,2014,7200
+195,Azerbaijan,2013,7300
+196,Azerbaijan,2012,8000
+197,Azerbaijan,2011,11000
+198,Azerbaijan,2010,9400
+199,Azerbaijan,2009,12000
+200,Azerbaijan,2008,9500
+201,Azerbaijan,2007,6900
+202,Azerbaijan,2006,7100
+203,Azerbaijan,2005,7500
+204,Azerbaijan,2004,6800
+205,Azerbaijan,2003,4800
+206,Azerbaijan,2002,6400
+207,Azerbaijan,2001,6100
+208,Azerbaijan,2000,6500
+209,Bahamas,2018,54
+210,Bahamas,2017,59
+211,Bahamas,2016,100
+212,Bahamas,2015,71
+213,Bahamas,2014,58
+214,Bahamas,2013,38
+215,Bahamas,2012,37
+216,Bahamas,2011,47
+217,Bahamas,2010,36
+218,Bahamas,2009,52
+219,Bahamas,2008,56
+220,Bahamas,2007,53
+221,Bahamas,2006,69
+222,Bahamas,2005,55
+223,Bahamas,2004,61
+224,Bahamas,2003,44
+225,Bahamas,2002,51
+226,Bahamas,2001,72
+227,Bahamas,2000,94
+228,Bahrain,2018,180
+229,Bahrain,2017,170
+230,Bahrain,2016,180
+231,Bahrain,2015,200
+232,Bahrain,2014,220
+233,Bahrain,2013,240
+234,Bahrain,2012,260
+235,Bahrain,2011,260
+236,Bahrain,2010,280
+237,Bahrain,2009,370
+238,Bahrain,2008,350
+239,Bahrain,2007,340
+240,Bahrain,2006,320
+241,Bahrain,2005,320
+242,Bahrain,2004,280
+243,Bahrain,2003,300
+244,Bahrain,2002,220
+245,Bahrain,2001,220
+246,Bahrain,2000,240
+247,Bangladesh,2018,357000
+248,Bangladesh,2017,353000
+249,Bangladesh,2016,349000
+250,Bangladesh,2015,346000
+251,Bangladesh,2014,342000
+252,Bangladesh,2013,338000
+253,Bangladesh,2012,334000
+254,Bangladesh,2011,330000
+255,Bangladesh,2010,326000
+256,Bangladesh,2009,323000
+257,Bangladesh,2008,319000
+258,Bangladesh,2007,316000
+259,Bangladesh,2006,312000
+260,Bangladesh,2005,308000
+261,Bangladesh,2004,303000
+262,Bangladesh,2003,298000
+263,Bangladesh,2002,293000
+264,Bangladesh,2001,288000
+265,Bangladesh,2000,282000
+266,Barbados,2018,1
+267,Barbados,2017,0
+268,Barbados,2016,3
+269,Barbados,2015,0
+270,Barbados,2014,6
+271,Barbados,2013,5
+272,Barbados,2012,5
+273,Barbados,2011,0
+274,Barbados,2010,7
+275,Barbados,2009,2
+276,Barbados,2008,3
+277,Barbados,2007,18
+278,Barbados,2006,6
+279,Barbados,2005,11
+280,Barbados,2004,22
+281,Barbados,2003,10
+282,Barbados,2002,6
+283,Barbados,2001,7
+284,Barbados,2000,3
+285,Belarus,2018,2900
+286,Belarus,2017,3500
+287,Belarus,2016,4000
+288,Belarus,2015,4700
+289,Belarus,2014,4800
+290,Belarus,2013,5600
+291,Belarus,2012,6000
+292,Belarus,2011,5900
+293,Belarus,2010,6400
+294,Belarus,2009,6600
+295,Belarus,2008,6400
+296,Belarus,2007,6700
+297,Belarus,2006,6400
+298,Belarus,2005,6600
+299,Belarus,2004,6800
+300,Belarus,2003,7500
+301,Belarus,2002,6400
+302,Belarus,2001,6900
+303,Belarus,2000,8500
+304,Belgium,2018,1000
+305,Belgium,2017,1100
+306,Belgium,2016,1100
+307,Belgium,2015,1100
+308,Belgium,2014,1000
+309,Belgium,2013,1000
+310,Belgium,2012,1000
+311,Belgium,2011,1100
+312,Belgium,2010,1200
+313,Belgium,2009,1100
+314,Belgium,2008,1100
+315,Belgium,2007,1100
+316,Belgium,2006,1200
+317,Belgium,2005,1200
+318,Belgium,2004,1300
+319,Belgium,2003,1200
+320,Belgium,2002,1400
+321,Belgium,2001,1500
+322,Belgium,2000,1500
+323,Belize,2018,110
+324,Belize,2017,130
+325,Belize,2016,140
+326,Belize,2015,90
+327,Belize,2014,83
+328,Belize,2013,140
+329,Belize,2012,97
+330,Belize,2011,85
+331,Belize,2010,170
+332,Belize,2009,100
+333,Belize,2008,100
+334,Belize,2007,72
+335,Belize,2006,98
+336,Belize,2005,120
+337,Belize,2004,95
+338,Belize,2003,110
+339,Belize,2002,160
+340,Belize,2001,160
+341,Belize,2000,120
+342,Benin,2018,6500
+343,Benin,2017,6400
+344,Benin,2016,6400
+345,Benin,2015,6400
+346,Benin,2014,6300
+347,Benin,2013,6400
+348,Benin,2012,6400
+349,Benin,2011,6400
+350,Benin,2010,6300
+351,Benin,2009,6200
+352,Benin,2008,6000
+353,Benin,2007,5800
+354,Benin,2006,5900
+355,Benin,2005,5800
+356,Benin,2004,5800
+357,Benin,2003,5800
+358,Benin,2002,5900
+359,Benin,2001,5900
+360,Benin,2000,5900
+361,Bhutan,2018,1100
+362,Bhutan,2017,1100
+363,Bhutan,2016,1400
+364,Bhutan,2015,1200
+365,Bhutan,2014,1300
+366,Bhutan,2013,1400
+367,Bhutan,2012,1400
+368,Bhutan,2011,1500
+369,Bhutan,2010,1600
+370,Bhutan,2009,1400
+371,Bhutan,2008,1200
+372,Bhutan,2007,1200
+373,Bhutan,2006,1100
+374,Bhutan,2005,1300
+375,Bhutan,2004,1200
+376,Bhutan,2003,1300
+377,Bhutan,2002,1400
+378,Bhutan,2001,1300
+379,Bhutan,2000,1400
+380,Bolivia,2018,12000
+381,Bolivia,2017,12000
+382,Bolivia,2016,13000
+383,Bolivia,2015,13000
+384,Bolivia,2014,13000
+385,Bolivia,2013,13000
+386,Bolivia,2012,13000
+387,Bolivia,2011,13000
+388,Bolivia,2010,14000
+389,Bolivia,2009,14000
+390,Bolivia,2008,14000
+391,Bolivia,2007,14000
+392,Bolivia,2006,14000
+393,Bolivia,2005,15000
+394,Bolivia,2004,15000
+395,Bolivia,2003,15000
+396,Bolivia,2002,15000
+397,Bolivia,2001,15000
+398,Bolivia,2000,16000
+399,Bosnia,2018,830
+400,Bosnia,2017,960
+401,Bosnia,2016,1100
+402,Bosnia,2015,1400
+403,Bosnia,2014,1500
+404,Bosnia,2013,1600
+405,Bosnia,2012,1800
+406,Bosnia,2011,1700
+407,Bosnia,2010,1700
+408,Bosnia,2009,2200
+409,Bosnia,2008,2100
+410,Bosnia,2007,3000
+411,Bosnia,2006,2200
+412,Bosnia,2005,2600
+413,Bosnia,2004,2900
+414,Bosnia,2003,2200
+415,Bosnia,2002,2100
+416,Bosnia,2001,3100
+417,Bosnia,2000,3100
+418,Botswana,2018,6200
+419,Botswana,2017,6600
+420,Botswana,2016,7100
+421,Botswana,2015,7500
+422,Botswana,2014,8000
+423,Botswana,2013,8500
+424,Botswana,2012,9100
+425,Botswana,2011,9700
+426,Botswana,2010,10000
+427,Botswana,2009,11000
+428,Botswana,2008,11000
+429,Botswana,2007,12000
+430,Botswana,2006,13000
+431,Botswana,2005,13000
+432,Botswana,2004,14000
+433,Botswana,2003,14000
+434,Botswana,2002,15000
+435,Botswana,2001,15000
+436,Botswana,2000,15000
+437,Brazil,2018,95000
+438,Brazil,2017,91000
+439,Brazil,2016,88000
+440,Brazil,2015,87000
+441,Brazil,2014,87000
+442,Brazil,2013,89000
+443,Brazil,2012,88000
+444,Brazil,2011,88000
+445,Brazil,2010,86000
+446,Brazil,2009,88000
+447,Brazil,2008,89000
+448,Brazil,2007,87000
+449,Brazil,2006,87000
+450,Brazil,2005,93000
+451,Brazil,2004,100000
+452,Brazil,2003,97000
+453,Brazil,2002,94000
+454,Brazil,2001,86000
+455,Brazil,2000,90000
+456,Brunei,2018,290
+457,Brunei,2017,270
+458,Brunei,2016,280
+459,Brunei,2015,240
+460,Brunei,2014,230
+461,Brunei,2013,240
+462,Brunei,2012,280
+463,Brunei,2011,260
+464,Brunei,2010,270
+465,Brunei,2009,240
+466,Brunei,2008,260
+467,Brunei,2007,240
+468,Brunei,2006,230
+469,Brunei,2005,190
+470,Brunei,2004,210
+471,Brunei,2003,240
+472,Brunei,2002,260
+473,Brunei,2001,250
+474,Brunei,2000,350
+475,Bulgaria,2018,1600
+476,Bulgaria,2017,1800
+477,Bulgaria,2016,1900
+478,Bulgaria,2015,2000
+479,Bulgaria,2014,2300
+480,Bulgaria,2013,2400
+481,Bulgaria,2012,2600
+482,Bulgaria,2011,2700
+483,Bulgaria,2010,3000
+484,Bulgaria,2009,3300
+485,Bulgaria,2008,3700
+486,Bulgaria,2007,3600
+487,Bulgaria,2006,3900
+488,Bulgaria,2005,4000
+489,Bulgaria,2004,3800
+490,Bulgaria,2003,4100
+491,Bulgaria,2002,4200
+492,Bulgaria,2001,4800
+493,Bulgaria,2000,4200
+494,Burkina,2018,9500
+495,Burkina,2017,9500
+496,Burkina,2016,9400
+497,Burkina,2015,9400
+498,Burkina,2014,9400
+499,Burkina,2013,9200
+500,Burkina,2012,9200
+501,Burkina,2011,9100
+502,Burkina,2010,9100
+503,Burkina,2009,9000
+504,Burkina,2008,8900
+505,Burkina,2007,8800
+506,Burkina,2006,8700
+507,Burkina,2005,8600
+508,Burkina,2004,8500
+509,Burkina,2003,8400
+510,Burkina,2002,8300
+511,Burkina,2001,8200
+512,Burkina,2000,8200
+513,Burundi,2018,12000
+514,Burundi,2017,12000
+515,Burundi,2016,12000
+516,Burundi,2015,12000
+517,Burundi,2014,12000
+518,Burundi,2013,12000
+519,Burundi,2012,12000
+520,Burundi,2011,12000
+521,Burundi,2010,13000
+522,Burundi,2009,13000
+523,Burundi,2008,13000
+524,Burundi,2007,13000
+525,Burundi,2006,14000
+526,Burundi,2005,14000
+527,Burundi,2004,15000
+528,Burundi,2003,16000
+529,Burundi,2002,17000
+530,Burundi,2001,18000
+531,Burundi,2000,19000
+532,Cabo,2018,250
+533,Cabo,2017,310
+534,Cabo,2016,310
+535,Cabo,2015,340
+536,Cabo,2014,340
+537,Cabo,2013,380
+538,Cabo,2012,520
+539,Cabo,2011,470
+540,Cabo,2010,440
+541,Cabo,2009,410
+542,Cabo,2008,420
+543,Cabo,2007,340
+544,Cabo,2006,330
+545,Cabo,2005,370
+546,Cabo,2004,370
+547,Cabo,2003,400
+548,Cabo,2002,240
+549,Cabo,2001,360
+550,Cabo,2000,350
+551,Cambodia,2018,49000
+552,Cambodia,2017,52000
+553,Cambodia,2016,55000
+554,Cambodia,2015,57000
+555,Cambodia,2014,59000
+556,Cambodia,2013,60000
+557,Cambodia,2012,61000
+558,Cambodia,2011,62000
+559,Cambodia,2010,63000
+560,Cambodia,2009,64000
+561,Cambodia,2008,65000
+562,Cambodia,2007,66000
+563,Cambodia,2006,67000
+564,Cambodia,2005,68000
+565,Cambodia,2004,69000
+566,Cambodia,2003,69000
+567,Cambodia,2002,70000
+568,Cambodia,2001,70000
+569,Cambodia,2000,70000
+570,Cameroon,2018,47000
+571,Cameroon,2017,48000
+572,Cameroon,2016,49000
+573,Cameroon,2015,49000
+574,Cameroon,2014,50000
+575,Cameroon,2013,52000
+576,Cameroon,2012,52000
+577,Cameroon,2011,52000
+578,Cameroon,2010,53000
+579,Cameroon,2009,54000
+580,Cameroon,2008,54000
+581,Cameroon,2007,55000
+582,Cameroon,2006,55000
+583,Cameroon,2005,55000
+584,Cameroon,2004,55000
+585,Cameroon,2003,54000
+586,Cameroon,2002,53000
+587,Cameroon,2001,51000
+588,Cameroon,2000,48000
+589,Canada,2018,2100
+590,Canada,2017,2100
+591,Canada,2016,2000
+592,Canada,2015,1900
+593,Canada,2014,1800
+594,Canada,2013,1900
+595,Canada,2012,1900
+596,Canada,2011,1600
+597,Canada,2010,1600
+598,Canada,2009,1800
+599,Canada,2008,1800
+600,Canada,2007,1700
+601,Canada,2006,1800
+602,Canada,2005,1800
+603,Canada,2004,1800
+604,Canada,2003,1900
+605,Canada,2002,1900
+606,Canada,2001,2000
+607,Canada,2000,2000
+608,Central,2018,25000
+609,Central,2017,25000
+610,Central,2016,25000
+611,Central,2015,24000
+612,Central,2014,24000
+613,Central,2013,24000
+614,Central,2012,24000
+615,Central,2011,24000
+616,Central,2010,24000
+617,Central,2009,23000
+618,Central,2008,23000
+619,Central,2007,23000
+620,Central,2006,22000
+621,Central,2005,22000
+622,Central,2004,21000
+623,Central,2003,21000
+624,Central,2002,21000
+625,Central,2001,20000
+626,Central,2000,20000
+627,Chad,2018,22000
+628,Chad,2017,21000
+629,Chad,2016,21000
+630,Chad,2015,20000
+631,Chad,2014,20000
+632,Chad,2013,19000
+633,Chad,2012,19000
+634,Chad,2011,18000
+635,Chad,2010,18000
+636,Chad,2009,17000
+637,Chad,2008,17000
+638,Chad,2007,16000
+639,Chad,2006,16000
+640,Chad,2005,15000
+641,Chad,2004,15000
+642,Chad,2003,14000
+643,Chad,2002,14000
+644,Chad,2001,13000
+645,Chad,2000,13000
+646,Chile,2018,3400
+647,Chile,2017,3200
+648,Chile,2016,2900
+649,Chile,2015,3000
+650,Chile,2014,2700
+651,Chile,2013,2800
+652,Chile,2012,2800
+653,Chile,2011,2800
+654,Chile,2010,2700
+655,Chile,2009,2800
+656,Chile,2008,2800
+657,Chile,2007,2800
+658,Chile,2006,2900
+659,Chile,2005,2900
+660,Chile,2004,3100
+661,Chile,2003,2600
+662,Chile,2002,2800
+663,Chile,2001,3500
+664,Chile,2000,3500
+665,China,2018,866000
+666,China,2017,884000
+667,China,2016,890000
+668,China,2015,912000
+669,China,2014,936000
+670,China,2013,968000
+671,China,2012,1020000
+672,China,2011,1030000
+673,China,2010,1040000
+674,China,2009,1100000
+675,China,2008,1110000
+676,China,2007,1140000
+677,China,2006,1170000
+678,China,2005,1210000
+679,China,2004,1240000
+680,China,2003,1280000
+681,China,2002,1310000
+682,China,2001,1350000
+683,China,2000,1390000
+684,Colombia,2018,16000
+685,Colombia,2017,16000
+686,Colombia,2016,16000
+687,Colombia,2015,15000
+688,Colombia,2014,15000
+689,Colombia,2013,15000
+690,Colombia,2012,15000
+691,Colombia,2011,15000
+692,Colombia,2010,14000
+693,Colombia,2009,14000
+694,Colombia,2008,14000
+695,Colombia,2007,14000
+696,Colombia,2006,14000
+697,Colombia,2005,13000
+698,Colombia,2004,14000
+699,Colombia,2003,15000
+700,Colombia,2002,14000
+701,Colombia,2001,14000
+702,Colombia,2000,15000
+703,Comoros,2018,290
+704,Comoros,2017,280
+705,Comoros,2016,280
+706,Comoros,2015,270
+707,Comoros,2014,260
+708,Comoros,2013,250
+709,Comoros,2012,250
+710,Comoros,2011,240
+711,Comoros,2010,230
+712,Comoros,2009,230
+713,Comoros,2008,220
+714,Comoros,2007,220
+715,Comoros,2006,220
+716,Comoros,2005,220
+717,Comoros,2004,220
+718,Comoros,2003,220
+719,Comoros,2002,210
+720,Comoros,2001,210
+721,Comoros,2000,210
+722,Congo,2018,20000
+723,Congo,2017,19000
+724,Congo,2016,19000
+725,Congo,2015,18000
+726,Congo,2014,18000
+727,Congo,2013,18000
+728,Congo,2012,17000
+729,Congo,2011,17000
+730,Congo,2010,17000
+731,Congo,2009,16000
+732,Congo,2008,16000
+733,Congo,2007,16000
+734,Congo,2006,16000
+735,Congo,2005,15000
+736,Congo,2004,15000
+737,Congo,2003,14000
+738,Congo,2002,13000
+739,Congo,2001,12000
+740,Congo,2000,11000
+741,Cook,2018,0
+742,Cook,2017,0
+743,Cook,2016,2
+744,Cook,2015,0
+745,Cook,2014,2
+746,Cook,2013,2
+747,Cook,2012,1
+748,Cook,2011,1
+749,Cook,2010,0
+750,Cook,2009,2
+751,Cook,2008,2
+752,Cook,2007,1
+753,Cook,2006,1
+754,Cook,2005,1
+755,Cook,2004,1
+756,Cook,2003,0
+757,Cook,2002,1
+758,Cook,2001,2
+759,Cook,2000,1
+760,Costa,2018,500
+761,Costa,2017,470
+762,Costa,2016,460
+763,Costa,2015,530
+764,Costa,2014,580
+765,Costa,2013,510
+766,Costa,2012,590
+767,Costa,2011,640
+768,Costa,2010,620
+769,Costa,2009,550
+770,Costa,2008,630
+771,Costa,2007,690
+772,Costa,2006,610
+773,Costa,2005,670
+774,Costa,2004,890
+775,Costa,2003,680
+776,Costa,2002,680
+777,Costa,2001,790
+778,Costa,2000,730
+779,Côte,2018,36000
+780,Côte,2017,36000
+781,Côte,2016,36000
+782,Côte,2015,37000
+783,Côte,2014,37000
+784,Côte,2013,38000
+785,Côte,2012,38000
+786,Côte,2011,39000
+787,Côte,2010,40000
+788,Côte,2009,41000
+789,Côte,2008,43000
+790,Côte,2007,45000
+791,Côte,2006,47000
+792,Côte,2005,49000
+793,Côte,2004,52000
+794,Côte,2003,54000
+795,Côte,2002,57000
+796,Côte,2001,59000
+797,Côte,2000,60000
+798,Croatia,2018,350
+799,Croatia,2017,420
+800,Croatia,2016,520
+801,Croatia,2015,560
+802,Croatia,2014,570
+803,Croatia,2013,590
+804,Croatia,2012,620
+805,Croatia,2011,710
+806,Croatia,2010,790
+807,Croatia,2009,960
+808,Croatia,2008,1100
+809,Croatia,2007,1100
+810,Croatia,2006,1200
+811,Croatia,2005,1200
+812,Croatia,2004,1300
+813,Croatia,2003,1600
+814,Croatia,2002,1700
+815,Croatia,2001,1600
+816,Croatia,2000,1900
+817,Cuba,2018,820
+818,Cuba,2017,820
+819,Cuba,2016,780
+820,Cuba,2015,800
+821,Cuba,2014,840
+822,Cuba,2013,870
+823,Cuba,2012,840
+824,Cuba,2011,930
+825,Cuba,2010,950
+826,Cuba,2009,820
+827,Cuba,2008,940
+828,Cuba,2007,880
+829,Cuba,2006,880
+830,Cuba,2005,890
+831,Cuba,2004,900
+832,Cuba,2003,970
+833,Cuba,2002,1000
+834,Cuba,2001,1100
+835,Cuba,2000,1400
+836,Cyprus,2018,65
+837,Cyprus,2017,60
+838,Cyprus,2016,66
+839,Cyprus,2015,72
+840,Cyprus,2014,45
+841,Cyprus,2013,47
+842,Cyprus,2012,72
+843,Cyprus,2011,59
+844,Cyprus,2010,70
+845,Cyprus,2009,59
+846,Cyprus,2008,55
+847,Cyprus,2007,47
+848,Cyprus,2006,41
+849,Cyprus,2005,39
+850,Cyprus,2004,34
+851,Cyprus,2003,40
+852,Cyprus,2002,23
+853,Cyprus,2001,46
+854,Cyprus,2000,38
+855,Czechia,2018,580
+856,Czechia,2017,570
+857,Czechia,2016,590
+858,Czechia,2015,580
+859,Czechia,2014,550
+860,Czechia,2013,540
+861,Czechia,2012,650
+862,Czechia,2011,650
+863,Czechia,2010,710
+864,Czechia,2009,730
+865,Czechia,2008,930
+866,Czechia,2007,910
+867,Czechia,2006,1100
+868,Czechia,2005,1100
+869,Czechia,2004,1200
+870,Czechia,2003,1300
+871,Czechia,2002,1300
+872,Czechia,2001,1500
+873,Czechia,2000,1600
+874,Democratic,2018,131000
+875,Democratic,2017,130000
+876,Democratic,2016,130000
+877,Democratic,2015,129000
+878,Democratic,2014,128000
+879,Democratic,2013,128000
+880,Democratic,2012,127000
+881,Democratic,2011,127000
+882,Democratic,2010,126000
+883,Democratic,2009,125000
+884,Democratic,2008,125000
+885,Democratic,2007,124000
+886,Democratic,2006,123000
+887,Democratic,2005,123000
+888,Democratic,2004,122000
+889,Democratic,2003,121000
+890,Democratic,2002,120000
+891,Democratic,2001,119000
+892,Democratic,2000,118000
+893,Democratic,2018,270000
+894,Democratic,2017,262000
+895,Democratic,2016,254000
+896,Democratic,2015,247000
+897,Democratic,2014,240000
+898,Democratic,2013,233000
+899,Democratic,2012,226000
+900,Democratic,2011,218000
+901,Democratic,2010,211000
+902,Democratic,2009,204000
+903,Democratic,2008,198000
+904,Democratic,2007,191000
+905,Democratic,2006,185000
+906,Democratic,2005,179000
+907,Democratic,2004,173000
+908,Democratic,2003,168000
+909,Democratic,2002,163000
+910,Democratic,2001,158000
+911,Democratic,2000,154000
+912,Denmark,2018,310
+913,Denmark,2017,290
+914,Denmark,2016,340
+915,Denmark,2015,370
+916,Denmark,2014,340
+917,Denmark,2013,380
+918,Denmark,2012,390
+919,Denmark,2011,410
+920,Denmark,2010,380
+921,Denmark,2009,340
+922,Denmark,2008,380
+923,Denmark,2007,410
+924,Denmark,2006,390
+925,Denmark,2005,450
+926,Denmark,2004,410
+927,Denmark,2003,450
+928,Denmark,2002,460
+929,Denmark,2001,570
+930,Denmark,2000,680
+931,Djibouti,2018,2500
+932,Djibouti,2017,2600
+933,Djibouti,2016,3200
+934,Djibouti,2015,3400
+935,Djibouti,2014,3000
+936,Djibouti,2013,4000
+937,Djibouti,2012,4300
+938,Djibouti,2011,4600
+939,Djibouti,2010,5200
+940,Djibouti,2009,4700
+941,Djibouti,2008,4600
+942,Djibouti,2007,4000
+943,Djibouti,2006,3800
+944,Djibouti,2005,3900
+945,Djibouti,2004,3700
+946,Djibouti,2003,4000
+947,Djibouti,2002,4000
+948,Djibouti,2001,5200
+949,Djibouti,2000,5000
+950,Dominica,2018,5
+951,Dominica,2017,1
+952,Dominica,2016,6
+953,Dominica,2015,8
+954,Dominica,2014,1
+955,Dominica,2013,3
+956,Dominica,2012,8
+957,Dominica,2011,2
+958,Dominica,2010,9
+959,Dominica,2009,5
+960,Dominica,2008,15
+961,Dominica,2007,3
+962,Dominica,2006,22
+963,Dominica,2005,8
+964,Dominica,2004,7
+965,Dominica,2003,7
+966,Dominica,2002,2
+967,Dominica,2001,5
+968,Dominica,2000,4
+969,Dominican,2018,4800
+970,Dominican,2017,4800
+971,Dominican,2016,5300
+972,Dominican,2015,5600
+973,Dominican,2014,5500
+974,Dominican,2013,5600
+975,Dominican,2012,5300
+976,Dominican,2011,5400
+977,Dominican,2010,5000
+978,Dominican,2009,5300
+979,Dominican,2008,5300
+980,Dominican,2007,5200
+981,Dominican,2006,5700
+982,Dominican,2005,6300
+983,Dominican,2004,5700
+984,Dominican,2003,6000
+985,Dominican,2002,5100
+986,Dominican,2001,6000
+987,Dominican,2000,6600
+988,Ecuador,2018,7400
+989,Ecuador,2017,7200
+990,Ecuador,2016,6600
+991,Ecuador,2015,6400
+992,Ecuador,2014,6400
+993,Ecuador,2013,6600
+994,Ecuador,2012,6800
+995,Ecuador,2011,6400
+996,Ecuador,2010,6000
+997,Ecuador,2009,5900
+998,Ecuador,2008,6100
+999,Ecuador,2007,6100
+1000,Ecuador,2006,5700
+1001,Ecuador,2005,5500
+1002,Ecuador,2004,7900
+1003,Ecuador,2003,8500
+1004,Ecuador,2002,7300
+1005,Ecuador,2001,7500
+1006,Ecuador,2000,8600
+1007,Egypt,2018,12000
+1008,Egypt,2017,13000
+1009,Egypt,2016,13000
+1010,Egypt,2015,13000
+1011,Egypt,2014,13000
+1012,Egypt,2013,14000
+1013,Egypt,2012,15000
+1014,Egypt,2011,15000
+1015,Egypt,2010,15000
+1016,Egypt,2009,15000
+1017,Egypt,2008,15000
+1018,Egypt,2007,16000
+1019,Egypt,2006,16000
+1020,Egypt,2005,16000
+1021,Egypt,2004,16000
+1022,Egypt,2003,17000
+1023,Egypt,2002,17000
+1024,Egypt,2001,17000
+1025,Egypt,2000,18000
+1026,El,2018,4500
+1027,El,2017,4600
+1028,El,2016,3800
+1029,El,2015,3100
+1030,El,2014,2800
+1031,El,2013,2700
+1032,El,2012,2600
+1033,El,2011,2400
+1034,El,2010,2100
+1035,El,2009,2100
+1036,El,2008,2100
+1037,El,2007,2100
+1038,El,2006,2100
+1039,El,2005,2200
+1040,El,2004,1800
+1041,El,2003,1700
+1042,El,2002,1900
+1043,El,2001,1800
+1044,El,2000,1900
+1045,Equatorial,2018,2600
+1046,Equatorial,2017,2400
+1047,Equatorial,2016,2200
+1048,Equatorial,2015,2000
+1049,Equatorial,2014,1800
+1050,Equatorial,2013,1600
+1051,Equatorial,2012,1500
+1052,Equatorial,2011,1300
+1053,Equatorial,2010,1200
+1054,Equatorial,2009,1100
+1055,Equatorial,2008,1000
+1056,Equatorial,2007,930
+1057,Equatorial,2006,860
+1058,Equatorial,2005,800
+1059,Equatorial,2004,750
+1060,Equatorial,2003,700
+1061,Equatorial,2002,660
+1062,Equatorial,2001,620
+1063,Equatorial,2000,580
+1064,Eritrea,2018,3100
+1065,Eritrea,2017,3400
+1066,Eritrea,2016,3700
+1067,Eritrea,2015,3400
+1068,Eritrea,2014,3900
+1069,Eritrea,2013,4700
+1070,Eritrea,2012,5200
+1071,Eritrea,2011,5000
+1072,Eritrea,2010,4700
+1073,Eritrea,2009,4800
+1074,Eritrea,2008,4900
+1075,Eritrea,2007,6000
+1076,Eritrea,2006,5000
+1077,Eritrea,2005,5900
+1078,Eritrea,2004,7000
+1079,Eritrea,2003,7800
+1080,Eritrea,2002,4300
+1081,Eritrea,2001,4200
+1082,Eritrea,2000,4100
+1083,Estonia,2018,170
+1084,Estonia,2017,200
+1085,Estonia,2016,220
+1086,Estonia,2015,240
+1087,Estonia,2014,270
+1088,Estonia,2013,300
+1089,Estonia,2012,300
+1090,Estonia,2011,340
+1091,Estonia,2010,330
+1092,Estonia,2009,410
+1093,Estonia,2008,460
+1094,Estonia,2007,520
+1095,Estonia,2006,490
+1096,Estonia,2005,550
+1097,Estonia,2004,620
+1098,Estonia,2003,670
+1099,Estonia,2002,710
+1100,Estonia,2001,810
+1101,Estonia,2000,910
+1102,Eswatini,2018,3700
+1103,Eswatini,2017,4200
+1104,Eswatini,2016,4500
+1105,Eswatini,2015,5300
+1106,Eswatini,2014,7000
+1107,Eswatini,2013,8300
+1108,Eswatini,2012,9000
+1109,Eswatini,2011,10000
+1110,Eswatini,2010,13000
+1111,Eswatini,2009,13000
+1112,Eswatini,2008,11000
+1113,Eswatini,2007,11000
+1114,Eswatini,2006,11000
+1115,Eswatini,2005,11000
+1116,Eswatini,2004,10000
+1117,Eswatini,2003,9700
+1118,Eswatini,2002,8400
+1119,Eswatini,2001,7600
+1120,Eswatini,2000,7300
+1121,Ethiopia,2018,165000
+1122,Ethiopia,2017,174000
+1123,Ethiopia,2016,184000
+1124,Ethiopia,2015,194000
+1125,Ethiopia,2014,203000
+1126,Ethiopia,2013,214000
+1127,Ethiopia,2012,221000
+1128,Ethiopia,2011,228000
+1129,Ethiopia,2010,235000
+1130,Ethiopia,2009,241000
+1131,Ethiopia,2008,246000
+1132,Ethiopia,2007,250000
+1133,Ethiopia,2006,255000
+1134,Ethiopia,2005,260000
+1135,Ethiopia,2004,266000
+1136,Ethiopia,2003,271000
+1137,Ethiopia,2002,276000
+1138,Ethiopia,2001,279000
+1139,Ethiopia,2000,279000
+1140,Fiji,2018,480
+1141,Fiji,2017,450
+1142,Fiji,2016,390
+1143,Fiji,2015,450
+1144,Fiji,2014,470
+1145,Fiji,2013,320
+1146,Fiji,2012,260
+1147,Fiji,2011,270
+1148,Fiji,2010,240
+1149,Fiji,2009,180
+1150,Fiji,2008,130
+1151,Fiji,2007,120
+1152,Fiji,2006,140
+1153,Fiji,2005,170
+1154,Fiji,2004,170
+1155,Fiji,2003,230
+1156,Fiji,2002,190
+1157,Fiji,2001,230
+1158,Fiji,2000,180
+1159,Finland,2018,260
+1160,Finland,2017,270
+1161,Finland,2016,260
+1162,Finland,2015,310
+1163,Finland,2014,290
+1164,Finland,2013,310
+1165,Finland,2012,300
+1166,Finland,2011,360
+1167,Finland,2010,350
+1168,Finland,2009,460
+1169,Finland,2008,380
+1170,Finland,2007,340
+1171,Finland,2006,320
+1172,Finland,2005,390
+1173,Finland,2004,370
+1174,Finland,2003,450
+1175,Finland,2002,520
+1176,Finland,2001,530
+1177,Finland,2000,610
+1178,France,2018,5800
+1179,France,2017,5900
+1180,France,2016,5700
+1181,France,2015,5400
+1182,France,2014,5500
+1183,France,2013,5700
+1184,France,2012,5700
+1185,France,2011,5700
+1186,France,2010,5800
+1187,France,2009,6000
+1188,France,2008,6600
+1189,France,2007,6600
+1190,France,2006,6000
+1191,France,2005,6100
+1192,France,2004,6200
+1193,France,2003,7300
+1194,France,2002,6900
+1195,France,2001,7000
+1196,France,2000,7400
+1197,Gabon,2018,11000
+1198,Gabon,2017,11000
+1199,Gabon,2016,11000
+1200,Gabon,2015,10000
+1201,Gabon,2014,10000
+1202,Gabon,2013,9900
+1203,Gabon,2012,9600
+1204,Gabon,2011,9300
+1205,Gabon,2010,9100
+1206,Gabon,2009,8800
+1207,Gabon,2008,8600
+1208,Gabon,2007,8400
+1209,Gabon,2006,8200
+1210,Gabon,2005,8200
+1211,Gabon,2004,8100
+1212,Gabon,2003,7800
+1213,Gabon,2002,7400
+1214,Gabon,2001,6900
+1215,Gabon,2000,6300
+1216,Gambia,2018,4000
+1217,Gambia,2017,3900
+1218,Gambia,2016,3700
+1219,Gambia,2015,3600
+1220,Gambia,2014,3500
+1221,Gambia,2013,3400
+1222,Gambia,2012,3300
+1223,Gambia,2011,3300
+1224,Gambia,2010,3200
+1225,Gambia,2009,3100
+1226,Gambia,2008,3100
+1227,Gambia,2007,3000
+1228,Gambia,2006,3000
+1229,Gambia,2005,2900
+1230,Gambia,2004,2900
+1231,Gambia,2003,2800
+1232,Gambia,2002,2700
+1233,Gambia,2001,2600
+1234,Gambia,2000,2400
+1235,Georgia,2018,3200
+1236,Georgia,2017,3400
+1237,Georgia,2016,3700
+1238,Georgia,2015,4000
+1239,Georgia,2014,4300
+1240,Georgia,2013,4700
+1241,Georgia,2012,4800
+1242,Georgia,2011,5000
+1243,Georgia,2010,5200
+1244,Georgia,2009,5500
+1245,Georgia,2008,5800
+1246,Georgia,2007,6200
+1247,Georgia,2006,6800
+1248,Georgia,2005,7400
+1249,Georgia,2004,8100
+1250,Georgia,2003,8900
+1251,Georgia,2002,9700
+1252,Georgia,2001,10000
+1253,Georgia,2000,11000
+1254,Germany,2018,6100
+1255,Germany,2017,6200
+1256,Germany,2016,6600
+1257,Germany,2015,6500
+1258,Germany,2014,5000
+1259,Germany,2013,4800
+1260,Germany,2012,4600
+1261,Germany,2011,4700
+1262,Germany,2010,4700
+1263,Germany,2009,4800
+1264,Germany,2008,4800
+1265,Germany,2007,5400
+1266,Germany,2006,5900
+1267,Germany,2005,6600
+1268,Germany,2004,7100
+1269,Germany,2003,8100
+1270,Germany,2002,8000
+1271,Germany,2001,8000
+1272,Germany,2000,10000
+1273,Ghana,2018,44000
+1274,Ghana,2017,44000
+1275,Ghana,2016,44000
+1276,Ghana,2015,45000
+1277,Ghana,2014,45000
+1278,Ghana,2013,45000
+1279,Ghana,2012,45000
+1280,Ghana,2011,45000
+1281,Ghana,2010,45000
+1282,Ghana,2009,45000
+1283,Ghana,2008,45000
+1284,Ghana,2007,45000
+1285,Ghana,2006,45000
+1286,Ghana,2005,44000
+1287,Ghana,2004,44000
+1288,Ghana,2003,43000
+1289,Ghana,2002,43000
+1290,Ghana,2001,42000
+1291,Ghana,2000,42000
+1292,Greece,2018,470
+1293,Greece,2017,500
+1294,Greece,2016,470
+1295,Greece,2015,500
+1296,Greece,2014,560
+1297,Greece,2013,570
+1298,Greece,2012,600
+1299,Greece,2011,520
+1300,Greece,2010,510
+1301,Greece,2009,620
+1302,Greece,2008,670
+1303,Greece,2007,710
+1304,Greece,2006,710
+1305,Greece,2005,800
+1306,Greece,2004,840
+1307,Greece,2003,680
+1308,Greece,2002,660
+1309,Greece,2001,580
+1310,Greece,2000,810
+1311,Grenada,2018,2
+1312,Grenada,2017,3
+1313,Grenada,2016,7
+1314,Grenada,2015,6
+1315,Grenada,2014,0
+1316,Grenada,2013,1
+1317,Grenada,2012,1
+1318,Grenada,2011,2
+1319,Grenada,2010,5
+1320,Grenada,2009,6
+1321,Grenada,2008,6
+1322,Grenada,2007,3
+1323,Grenada,2006,1
+1324,Grenada,2005,2
+1325,Grenada,2004,2
+1326,Grenada,2003,2
+1327,Grenada,2002,1
+1328,Grenada,2001,1
+1329,Grenada,2000,0
+1330,Guatemala,2018,4500
+1331,Guatemala,2017,4300
+1332,Guatemala,2016,4000
+1333,Guatemala,2015,4200
+1334,Guatemala,2014,4000
+1335,Guatemala,2013,4100
+1336,Guatemala,2012,4300
+1337,Guatemala,2011,3800
+1338,Guatemala,2010,4200
+1339,Guatemala,2009,3600
+1340,Guatemala,2008,4100
+1341,Guatemala,2007,3900
+1342,Guatemala,2006,4500
+1343,Guatemala,2005,4800
+1344,Guatemala,2004,4100
+1345,Guatemala,2003,3300
+1346,Guatemala,2002,3600
+1347,Guatemala,2001,3000
+1348,Guatemala,2000,3600
+1349,Guinea,2018,22000
+1350,Guinea,2017,21000
+1351,Guinea,2016,21000
+1352,Guinea,2015,20000
+1353,Guinea,2014,20000
+1354,Guinea,2013,19000
+1355,Guinea,2012,19000
+1356,Guinea,2011,19000
+1357,Guinea,2010,19000
+1358,Guinea,2009,19000
+1359,Guinea,2008,19000
+1360,Guinea,2007,19000
+1361,Guinea,2006,19000
+1362,Guinea,2005,19000
+1363,Guinea,2004,19000
+1364,Guinea,2003,19000
+1365,Guinea,2002,19000
+1366,Guinea,2001,19000
+1367,Guinea,2000,19000
+1368,Guinea-Bissau,2018,6800
+1369,Guinea-Bissau,2017,6600
+1370,Guinea-Bissau,2016,6400
+1371,Guinea-Bissau,2015,6300
+1372,Guinea-Bissau,2014,6100
+1373,Guinea-Bissau,2013,6000
+1374,Guinea-Bissau,2012,5800
+1375,Guinea-Bissau,2011,5600
+1376,Guinea-Bissau,2010,5500
+1377,Guinea-Bissau,2009,5400
+1378,Guinea-Bissau,2008,5200
+1379,Guinea-Bissau,2007,5100
+1380,Guinea-Bissau,2006,5000
+1381,Guinea-Bissau,2005,4900
+1382,Guinea-Bissau,2004,4600
+1383,Guinea-Bissau,2003,4400
+1384,Guinea-Bissau,2002,4100
+1385,Guinea-Bissau,2001,3900
+1386,Guinea-Bissau,2000,3700
+1387,Guyana,2018,640
+1388,Guyana,2017,650
+1389,Guyana,2016,720
+1390,Guyana,2015,710
+1391,Guyana,2014,680
+1392,Guyana,2013,850
+1393,Guyana,2012,940
+1394,Guyana,2011,890
+1395,Guyana,2010,890
+1396,Guyana,2009,950
+1397,Guyana,2008,820
+1398,Guyana,2007,740
+1399,Guyana,2006,890
+1400,Guyana,2005,800
+1401,Guyana,2004,750
+1402,Guyana,2003,790
+1403,Guyana,2002,740
+1404,Guyana,2001,530
+1405,Guyana,2000,530
+1406,Haiti,2018,20000
+1407,Haiti,2017,20000
+1408,Haiti,2016,20000
+1409,Haiti,2015,21000
+1410,Haiti,2014,21000
+1411,Haiti,2013,21000
+1412,Haiti,2012,22000
+1413,Haiti,2011,22000
+1414,Haiti,2010,23000
+1415,Haiti,2009,23000
+1416,Haiti,2008,24000
+1417,Haiti,2007,24000
+1418,Haiti,2006,25000
+1419,Haiti,2005,25000
+1420,Haiti,2004,25000
+1421,Haiti,2003,25000
+1422,Haiti,2002,24000
+1423,Haiti,2001,24000
+1424,Haiti,2000,23000
+1425,Honduras,2018,3500
+1426,Honduras,2017,3500
+1427,Honduras,2016,3600
+1428,Honduras,2015,3600
+1429,Honduras,2014,3500
+1430,Honduras,2013,3700
+1431,Honduras,2012,3800
+1432,Honduras,2011,4000
+1433,Honduras,2010,3600
+1434,Honduras,2009,3700
+1435,Honduras,2008,3500
+1436,Honduras,2007,3500
+1437,Honduras,2006,4000
+1438,Honduras,2005,4200
+1439,Honduras,2004,4500
+1440,Honduras,2003,5100
+1441,Honduras,2002,5600
+1442,Honduras,2001,6300
+1443,Honduras,2000,8000
+1444,Hungary,2018,620
+1445,Hungary,2017,750
+1446,Hungary,2016,850
+1447,Hungary,2015,990
+1448,Hungary,2014,920
+1449,Hungary,2013,1200
+1450,Hungary,2012,1300
+1451,Hungary,2011,1500
+1452,Hungary,2010,1800
+1453,Hungary,2009,1500
+1454,Hungary,2008,1600
+1455,Hungary,2007,1800
+1456,Hungary,2006,1900
+1457,Hungary,2005,2100
+1458,Hungary,2004,2600
+1459,Hungary,2003,3100
+1460,Hungary,2002,3100
+1461,Hungary,2001,3400
+1462,Hungary,2000,3500
+1463,Iceland,2018,9
+1464,Iceland,2017,15
+1465,Iceland,2016,7
+1466,Iceland,2015,8
+1467,Iceland,2014,9
+1468,Iceland,2013,13
+1469,Iceland,2012,12
+1470,Iceland,2011,9
+1471,Iceland,2010,25
+1472,Iceland,2009,10
+1473,Iceland,2008,7
+1474,Iceland,2007,14
+1475,Iceland,2006,15
+1476,Iceland,2005,12
+1477,Iceland,2004,13
+1478,Iceland,2003,6
+1479,Iceland,2002,9
+1480,Iceland,2001,14
+1481,Iceland,2000,15
+1482,India,2018,2690000
+1483,India,2017,2740000
+1484,India,2016,2790000
+1485,India,2015,2840000
+1486,India,2014,2890000
+1487,India,2013,2920000
+1488,India,2012,2970000
+1489,India,2011,3010000
+1490,India,2010,3050000
+1491,India,2009,3100000
+1492,India,2008,3140000
+1493,India,2007,3170000
+1494,India,2006,3190000
+1495,India,2005,3200000
+1496,India,2004,3190000
+1497,India,2003,3170000
+1498,India,2002,3140000
+1499,India,2001,3100000
+1500,India,2000,3050000
+1501,Indonesia,2018,845000
+1502,Indonesia,2017,844000
+1503,Indonesia,2016,843000
+1504,Indonesia,2015,841000
+1505,Indonesia,2014,839000
+1506,Indonesia,2013,836000
+1507,Indonesia,2012,833000
+1508,Indonesia,2011,829000
+1509,Indonesia,2010,826000
+1510,Indonesia,2009,824000
+1511,Indonesia,2008,823000
+1512,Indonesia,2007,821000
+1513,Indonesia,2006,819000
+1514,Indonesia,2005,815000
+1515,Indonesia,2004,811000
+1516,Indonesia,2003,805000
+1517,Indonesia,2002,799000
+1518,Indonesia,2001,791000
+1519,Indonesia,2000,782000
+1520,Iran,2018,11000
+1521,Iran,2017,11000
+1522,Iran,2016,12000
+1523,Iran,2015,13000
+1524,Iran,2014,13000
+1525,Iran,2013,14000
+1526,Iran,2012,14000
+1527,Iran,2011,14000
+1528,Iran,2010,13000
+1529,Iran,2009,13000
+1530,Iran,2008,12000
+1531,Iran,2007,12000
+1532,Iran,2006,12000
+1533,Iran,2005,12000
+1534,Iran,2004,13000
+1535,Iran,2003,14000
+1536,Iran,2002,14000
+1537,Iran,2001,15000
+1538,Iran,2000,15000
+1539,Iraq,2018,16000
+1540,Iraq,2017,16000
+1541,Iraq,2016,16000
+1542,Iraq,2015,15000
+1543,Iraq,2014,15000
+1544,Iraq,2013,15000
+1545,Iraq,2012,14000
+1546,Iraq,2011,14000
+1547,Iraq,2010,14000
+1548,Iraq,2009,13000
+1549,Iraq,2008,13000
+1550,Iraq,2007,13000
+1551,Iraq,2006,13000
+1552,Iraq,2005,13000
+1553,Iraq,2004,13000
+1554,Iraq,2003,13000
+1555,Iraq,2002,12000
+1556,Iraq,2001,12000
+1557,Iraq,2000,12000
+1558,Ireland,2018,340
+1559,Ireland,2017,350
+1560,Ireland,2016,340
+1561,Ireland,2015,340
+1562,Ireland,2014,340
+1563,Ireland,2013,410
+1564,Ireland,2012,390
+1565,Ireland,2011,450
+1566,Ireland,2010,450
+1567,Ireland,2009,490
+1568,Ireland,2008,490
+1569,Ireland,2007,500
+1570,Ireland,2006,510
+1571,Ireland,2005,490
+1572,Ireland,2004,470
+1573,Ireland,2003,470
+1574,Ireland,2002,430
+1575,Ireland,2001,450
+1576,Ireland,2000,440
+1577,Israel,2018,340
+1578,Israel,2017,270
+1579,Israel,2016,290
+1580,Israel,2015,320
+1581,Israel,2014,420
+1582,Israel,2013,350
+1583,Israel,2012,580
+1584,Israel,2011,470
+1585,Israel,2010,390
+1586,Israel,2009,400
+1587,Israel,2008,370
+1588,Israel,2007,460
+1589,Israel,2006,390
+1590,Israel,2005,430
+1591,Israel,2004,520
+1592,Israel,2003,540
+1593,Israel,2002,540
+1594,Israel,2001,590
+1595,Israel,2000,620
+1596,Italy,2018,4300
+1597,Italy,2017,4400
+1598,Italy,2016,4300
+1599,Italy,2015,4000
+1600,Italy,2014,4000
+1601,Italy,2013,3500
+1602,Italy,2012,3600
+1603,Italy,2011,3900
+1604,Italy,2010,5200
+1605,Italy,2009,4700
+1606,Italy,2008,4700
+1607,Italy,2007,3200
+1608,Italy,2006,4800
+1609,Italy,2005,4400
+1610,Italy,2004,4600
+1611,Italy,2003,5000
+1612,Italy,2002,4500
+1613,Italy,2001,4900
+1614,Italy,2000,4000
+1615,Jamaica,2018,86
+1616,Jamaica,2017,150
+1617,Jamaica,2016,130
+1618,Jamaica,2015,130
+1619,Jamaica,2014,110
+1620,Jamaica,2013,120
+1621,Jamaica,2012,110
+1622,Jamaica,2011,130
+1623,Jamaica,2010,160
+1624,Jamaica,2009,170
+1625,Jamaica,2008,130
+1626,Jamaica,2007,130
+1627,Jamaica,2006,120
+1628,Jamaica,2005,110
+1629,Jamaica,2004,140
+1630,Jamaica,2003,150
+1631,Jamaica,2002,130
+1632,Jamaica,2001,150
+1633,Jamaica,2000,160
+1634,Japan,2018,18000
+1635,Japan,2017,19000
+1636,Japan,2016,20000
+1637,Japan,2015,21000
+1638,Japan,2014,23000
+1639,Japan,2013,24000
+1640,Japan,2012,24000
+1641,Japan,2011,25000
+1642,Japan,2010,26000
+1643,Japan,2009,27000
+1644,Japan,2008,28000
+1645,Japan,2007,28000
+1646,Japan,2006,29000
+1647,Japan,2005,31000
+1648,Japan,2004,34000
+1649,Japan,2003,36000
+1650,Japan,2002,38000
+1651,Japan,2001,41000
+1652,Japan,2000,45000
+1653,Jordan,2018,500
+1654,Jordan,2017,660
+1655,Jordan,2016,520
+1656,Jordan,2015,530
+1657,Jordan,2014,480
+1658,Jordan,2013,440
+1659,Jordan,2012,410
+1660,Jordan,2011,410
+1661,Jordan,2010,420
+1662,Jordan,2009,460
+1663,Jordan,2008,440
+1664,Jordan,2007,420
+1665,Jordan,2006,470
+1666,Jordan,2005,460
+1667,Jordan,2004,410
+1668,Jordan,2003,400
+1669,Jordan,2002,390
+1670,Jordan,2001,430
+1671,Jordan,2000,380
+1672,Kazakhstan,2018,12000
+1673,Kazakhstan,2017,12000
+1674,Kazakhstan,2016,13000
+1675,Kazakhstan,2015,14000
+1676,Kazakhstan,2014,16000
+1677,Kazakhstan,2013,18000
+1678,Kazakhstan,2012,21000
+1679,Kazakhstan,2011,23000
+1680,Kazakhstan,2010,24000
+1681,Kazakhstan,2009,24000
+1682,Kazakhstan,2008,25000
+1683,Kazakhstan,2007,26000
+1684,Kazakhstan,2006,27000
+1685,Kazakhstan,2005,29000
+1686,Kazakhstan,2004,30000
+1687,Kazakhstan,2003,30000
+1688,Kazakhstan,2002,29000
+1689,Kazakhstan,2001,28000
+1690,Kazakhstan,2000,25000
+1691,Kenya,2018,150000
+1692,Kenya,2017,160000
+1693,Kenya,2016,171000
+1694,Kenya,2015,182000
+1695,Kenya,2014,197000
+1696,Kenya,2013,202000
+1697,Kenya,2012,209000
+1698,Kenya,2011,219000
+1699,Kenya,2010,223000
+1700,Kenya,2009,231000
+1701,Kenya,2008,225000
+1702,Kenya,2007,239000
+1703,Kenya,2006,243000
+1704,Kenya,2005,231000
+1705,Kenya,2004,226000
+1706,Kenya,2003,212000
+1707,Kenya,2002,180000
+1708,Kenya,2001,164000
+1709,Kenya,2000,144000
+1710,Kiribati,2018,400
+1711,Kiribati,2017,480
+1712,Kiribati,2016,650
+1713,Kiribati,2015,620
+1714,Kiribati,2014,520
+1715,Kiribati,2013,510
+1716,Kiribati,2012,430
+1717,Kiribati,2011,430
+1718,Kiribati,2010,360
+1719,Kiribati,2009,350
+1720,Kiribati,2008,420
+1721,Kiribati,2007,420
+1722,Kiribati,2006,470
+1723,Kiribati,2005,410
+1724,Kiribati,2004,390
+1725,Kiribati,2003,350
+1726,Kiribati,2002,250
+1727,Kiribati,2001,240
+1728,Kiribati,2000,310
+1729,Kuwait,2018,940
+1730,Kuwait,2017,1100
+1731,Kuwait,2016,960
+1732,Kuwait,2015,860
+1733,Kuwait,2014,840
+1734,Kuwait,2013,810
+1735,Kuwait,2012,850
+1736,Kuwait,2011,770
+1737,Kuwait,2010,1100
+1738,Kuwait,2009,1100
+1739,Kuwait,2008,1000
+1740,Kuwait,2007,740
+1741,Kuwait,2006,740
+1742,Kuwait,2005,590
+1743,Kuwait,2004,640
+1744,Kuwait,2003,650
+1745,Kuwait,2002,670
+1746,Kuwait,2001,570
+1747,Kuwait,2000,590
+1748,Kyrgyzstan,2018,7300
+1749,Kyrgyzstan,2017,7700
+1750,Kyrgyzstan,2016,8100
+1751,Kyrgyzstan,2015,8100
+1752,Kyrgyzstan,2014,7300
+1753,Kyrgyzstan,2013,8100
+1754,Kyrgyzstan,2012,7100
+1755,Kyrgyzstan,2011,6900
+1756,Kyrgyzstan,2010,6500
+1757,Kyrgyzstan,2009,6800
+1758,Kyrgyzstan,2008,7800
+1759,Kyrgyzstan,2007,7000
+1760,Kyrgyzstan,2006,7100
+1761,Kyrgyzstan,2005,7300
+1762,Kyrgyzstan,2004,7000
+1763,Kyrgyzstan,2003,7300
+1764,Kyrgyzstan,2002,7600
+1765,Kyrgyzstan,2001,7700
+1766,Kyrgyzstan,2000,7100
+1767,Lao,2018,11000
+1768,Lao,2017,12000
+1769,Lao,2016,12000
+1770,Lao,2015,12000
+1771,Lao,2014,13000
+1772,Lao,2013,13000
+1773,Lao,2012,13000
+1774,Lao,2011,13000
+1775,Lao,2010,14000
+1776,Lao,2009,14000
+1777,Lao,2008,14000
+1778,Lao,2007,15000
+1779,Lao,2006,15000
+1780,Lao,2005,16000
+1781,Lao,2004,16000
+1782,Lao,2003,16000
+1783,Lao,2002,17000
+1784,Lao,2001,17000
+1785,Lao,2000,18000
+1786,Latvia,2018,560
+1787,Latvia,2017,620
+1788,Latvia,2016,740
+1789,Latvia,2015,800
+1790,Latvia,2014,850
+1791,Latvia,2013,1000
+1792,Latvia,2012,1100
+1793,Latvia,2011,990
+1794,Latvia,2010,1000
+1795,Latvia,2009,1100
+1796,Latvia,2008,1200
+1797,Latvia,2007,1400
+1798,Latvia,2006,1500
+1799,Latvia,2005,1600
+1800,Latvia,2004,1800
+1801,Latvia,2003,1900
+1802,Latvia,2002,2100
+1803,Latvia,2001,2300
+1804,Latvia,2000,2300
+1805,Lebanon,2018,750
+1806,Lebanon,2017,710
+1807,Lebanon,2016,740
+1808,Lebanon,2015,750
+1809,Lebanon,2014,770
+1810,Lebanon,2013,790
+1811,Lebanon,2012,720
+1812,Lebanon,2011,570
+1813,Lebanon,2010,590
+1814,Lebanon,2009,570
+1815,Lebanon,2008,600
+1816,Lebanon,2007,550
+1817,Lebanon,2006,430
+1818,Lebanon,2005,450
+1819,Lebanon,2004,450
+1820,Lebanon,2003,440
+1821,Lebanon,2002,500
+1822,Lebanon,2001,590
+1823,Lebanon,2000,660
+1824,Lesotho,2018,13000
+1825,Lesotho,2017,14000
+1826,Lesotho,2016,15000
+1827,Lesotho,2015,16000
+1828,Lesotho,2014,17000
+1829,Lesotho,2013,19000
+1830,Lesotho,2012,20000
+1831,Lesotho,2011,21000
+1832,Lesotho,2010,22000
+1833,Lesotho,2009,23000
+1834,Lesotho,2008,24000
+1835,Lesotho,2007,25000
+1836,Lesotho,2006,25000
+1837,Lesotho,2005,26000
+1838,Lesotho,2004,25000
+1839,Lesotho,2003,25000
+1840,Lesotho,2002,24000
+1841,Lesotho,2001,22000
+1842,Lesotho,2000,20000
+1843,Liberia,2018,15000
+1844,Liberia,2017,14000
+1845,Liberia,2016,14000
+1846,Liberia,2015,14000
+1847,Liberia,2014,13000
+1848,Liberia,2013,13000
+1849,Liberia,2012,13000
+1850,Liberia,2011,12000
+1851,Liberia,2010,11000
+1852,Liberia,2009,11000
+1853,Liberia,2008,10000
+1854,Liberia,2007,9600
+1855,Liberia,2006,9100
+1856,Liberia,2005,8600
+1857,Liberia,2004,8200
+1858,Liberia,2003,7900
+1859,Liberia,2002,7600
+1860,Liberia,2001,7200
+1861,Liberia,2000,6800
+1862,Libya,2018,2700
+1863,Libya,2017,2600
+1864,Libya,2016,2600
+1865,Libya,2015,2600
+1866,Libya,2014,2500
+1867,Libya,2013,2500
+1868,Libya,2012,2500
+1869,Libya,2011,2500
+1870,Libya,2010,2500
+1871,Libya,2009,2400
+1872,Libya,2008,2400
+1873,Libya,2007,2400
+1874,Libya,2006,2300
+1875,Libya,2005,2300
+1876,Libya,2004,2300
+1877,Libya,2003,2200
+1878,Libya,2002,2200
+1879,Libya,2001,2200
+1880,Libya,2000,2100
+1881,Lithuania,2018,1200
+1882,Lithuania,2017,1500
+1883,Lithuania,2016,1500
+1884,Lithuania,2015,1600
+1885,Lithuania,2014,1700
+1886,Lithuania,2013,1800
+1887,Lithuania,2012,1900
+1888,Lithuania,2011,2000
+1889,Lithuania,2010,2000
+1890,Lithuania,2009,2200
+1891,Lithuania,2008,2400
+1892,Lithuania,2007,2600
+1893,Lithuania,2006,2700
+1894,Lithuania,2005,2400
+1895,Lithuania,2004,2300
+1896,Lithuania,2003,3000
+1897,Lithuania,2002,2800
+1898,Lithuania,2001,3000
+1899,Lithuania,2000,3100
+1900,Luxembourg,2018,48
+1901,Luxembourg,2017,37
+1902,Luxembourg,2016,33
+1903,Luxembourg,2015,34
+1904,Luxembourg,2014,28
+1905,Luxembourg,2013,44
+1906,Luxembourg,2012,52
+1907,Luxembourg,2011,29
+1908,Luxembourg,2010,33
+1909,Luxembourg,2009,31
+1910,Luxembourg,2008,32
+1911,Luxembourg,2007,45
+1912,Luxembourg,2006,38
+1913,Luxembourg,2005,43
+1914,Luxembourg,2004,36
+1915,Luxembourg,2003,62
+1916,Luxembourg,2002,36
+1917,Luxembourg,2001,36
+1918,Luxembourg,2000,51
+1919,Madagascar,2018,61000
+1920,Madagascar,2017,60000
+1921,Madagascar,2016,58000
+1922,Madagascar,2015,56000
+1923,Madagascar,2014,55000
+1924,Madagascar,2013,54000
+1925,Madagascar,2012,53000
+1926,Madagascar,2011,52000
+1927,Madagascar,2010,51000
+1928,Madagascar,2009,50000
+1929,Madagascar,2008,50000
+1930,Madagascar,2007,49000
+1931,Madagascar,2006,49000
+1932,Madagascar,2005,48000
+1933,Madagascar,2004,48000
+1934,Madagascar,2003,47000
+1935,Madagascar,2002,47000
+1936,Madagascar,2001,47000
+1937,Madagascar,2000,46000
+1938,Malawi,2018,33000
+1939,Malawi,2017,33000
+1940,Malawi,2016,33000
+1941,Malawi,2015,34000
+1942,Malawi,2014,36000
+1943,Malawi,2013,37000
+1944,Malawi,2012,40000
+1945,Malawi,2011,42000
+1946,Malawi,2010,45000
+1947,Malawi,2009,47000
+1948,Malawi,2008,49000
+1949,Malawi,2007,50000
+1950,Malawi,2006,51000
+1951,Malawi,2005,50000
+1952,Malawi,2004,49000
+1953,Malawi,2003,48000
+1954,Malawi,2002,47000
+1955,Malawi,2001,45000
+1956,Malawi,2000,43000
+1957,Malaysia,2018,29000
+1958,Malaysia,2017,29000
+1959,Malaysia,2016,29000
+1960,Malaysia,2015,27000
+1961,Malaysia,2014,28000
+1962,Malaysia,2013,27000
+1963,Malaysia,2012,25000
+1964,Malaysia,2011,23000
+1965,Malaysia,2010,21000
+1966,Malaysia,2009,20000
+1967,Malaysia,2008,20000
+1968,Malaysia,2007,19000
+1969,Malaysia,2006,18000
+1970,Malaysia,2005,18000
+1971,Malaysia,2004,17000
+1972,Malaysia,2003,18000
+1973,Malaysia,2002,17000
+1974,Malaysia,2001,17000
+1975,Malaysia,2000,17000
+1976,Maldives,2018,170
+1977,Maldives,2017,170
+1978,Maldives,2016,210
+1979,Maldives,2015,190
+1980,Maldives,2014,160
+1981,Maldives,2013,140
+1982,Maldives,2012,140
+1983,Maldives,2011,110
+1984,Maldives,2010,120
+1985,Maldives,2009,130
+1986,Maldives,2008,150
+1987,Maldives,2007,160
+1988,Maldives,2006,120
+1989,Maldives,2005,150
+1990,Maldives,2004,150
+1991,Maldives,2003,170
+1992,Maldives,2002,160
+1993,Maldives,2001,170
+1994,Maldives,2000,170
+1995,Mali,2018,10000
+1996,Mali,2017,10000
+1997,Mali,2016,10000
+1998,Mali,2015,9900
+1999,Mali,2014,9700
+2000,Mali,2013,9800
+2001,Mali,2012,9700
+2002,Mali,2011,9600
+2003,Mali,2010,9400
+2004,Mali,2009,9300
+2005,Mali,2008,9200
+2006,Mali,2007,9100
+2007,Mali,2006,9000
+2008,Mali,2005,8900
+2009,Mali,2004,8800
+2010,Mali,2003,8700
+2011,Mali,2002,8600
+2012,Mali,2001,8500
+2013,Mali,2000,8400
+2014,Malta,2018,60
+2015,Malta,2017,48
+2016,Malta,2016,58
+2017,Malta,2015,37
+2018,Malta,2014,52
+2019,Malta,2013,58
+2020,Malta,2012,48
+2021,Malta,2011,34
+2022,Malta,2010,33
+2023,Malta,2009,48
+2024,Malta,2008,55
+2025,Malta,2007,44
+2026,Malta,2006,35
+2027,Malta,2005,25
+2028,Malta,2004,21
+2029,Malta,2003,8
+2030,Malta,2002,28
+2031,Malta,2001,18
+2032,Malta,2000,18
+2033,Marshall,2018,250
+2034,Marshall,2017,250
+2035,Marshall,2016,220
+2036,Marshall,2015,170
+2037,Marshall,2014,180
+2038,Marshall,2013,190
+2039,Marshall,2012,180
+2040,Marshall,2011,170
+2041,Marshall,2010,240
+2042,Marshall,2009,180
+2043,Marshall,2008,160
+2044,Marshall,2007,200
+2045,Marshall,2006,170
+2046,Marshall,2005,140
+2047,Marshall,2004,150
+2048,Marshall,2003,75
+2049,Marshall,2002,64
+2050,Marshall,2001,70
+2051,Marshall,2000,43
+2052,Mauritania,2018,4100
+2053,Mauritania,2017,4200
+2054,Mauritania,2016,4200
+2055,Mauritania,2015,4300
+2056,Mauritania,2014,4400
+2057,Mauritania,2013,4400
+2058,Mauritania,2012,4500
+2059,Mauritania,2011,4600
+2060,Mauritania,2010,4700
+2061,Mauritania,2009,4900
+2062,Mauritania,2008,5000
+2063,Mauritania,2007,5100
+2064,Mauritania,2006,5300
+2065,Mauritania,2005,5500
+2066,Mauritania,2004,5700
+2067,Mauritania,2003,5900
+2068,Mauritania,2002,6100
+2069,Mauritania,2001,6300
+2070,Mauritania,2000,6600
+2071,Mauritius,2018,160
+2072,Mauritius,2017,150
+2073,Mauritius,2016,150
+2074,Mauritius,2015,160
+2075,Mauritius,2014,160
+2076,Mauritius,2013,160
+2077,Mauritius,2012,160
+2078,Mauritius,2011,140
+2079,Mauritius,2010,150
+2080,Mauritius,2009,140
+2081,Mauritius,2008,130
+2082,Mauritius,2007,130
+2083,Mauritius,2006,140
+2084,Mauritius,2005,160
+2085,Mauritius,2004,170
+2086,Mauritius,2003,170
+2087,Mauritius,2002,170
+2088,Mauritius,2001,150
+2089,Mauritius,2000,200
+2090,Mexico,2018,29000
+2091,Mexico,2017,28000
+2092,Mexico,2016,28000
+2093,Mexico,2015,27000
+2094,Mexico,2014,26000
+2095,Mexico,2013,26000
+2096,Mexico,2012,26000
+2097,Mexico,2011,25000
+2098,Mexico,2010,25000
+2099,Mexico,2009,24000
+2100,Mexico,2008,24000
+2101,Mexico,2007,23000
+2102,Mexico,2006,22000
+2103,Mexico,2005,23000
+2104,Mexico,2004,19000
+2105,Mexico,2003,24000
+2106,Mexico,2002,22000
+2107,Mexico,2001,24000
+2108,Mexico,2000,23000
+2109,Micronesia,2018,120
+2110,Micronesia,2017,170
+2111,Micronesia,2016,190
+2112,Micronesia,2015,130
+2113,Micronesia,2014,230
+2114,Micronesia,2013,190
+2115,Micronesia,2012,180
+2116,Micronesia,2011,190
+2117,Micronesia,2010,200
+2118,Micronesia,2009,190
+2119,Micronesia,2008,200
+2120,Micronesia,2007,170
+2121,Micronesia,2006,130
+2122,Micronesia,2005,120
+2123,Micronesia,2004,150
+2124,Micronesia,2003,130
+2125,Micronesia,2002,160
+2126,Micronesia,2001,130
+2127,Micronesia,2000,110
+2128,Monaco,2018,0
+2129,Monaco,2017,0
+2130,Monaco,2016,0
+2131,Monaco,2015,0
+2132,Monaco,2014,0
+2133,Monaco,2013,0
+2134,Monaco,2012,1
+2135,Monaco,2011,1
+2136,Monaco,2010,1
+2137,Monaco,2009,1
+2138,Monaco,2008,1
+2139,Monaco,2007,1
+2140,Monaco,2006,1
+2141,Monaco,2005,1
+2142,Monaco,2004,0
+2143,Monaco,2003,0
+2144,Monaco,2002,0
+2145,Monaco,2001,0
+2146,Monaco,2000,0
+2147,Mongolia,2018,14000
+2148,Mongolia,2017,13000
+2149,Mongolia,2016,13000
+2150,Mongolia,2015,13000
+2151,Mongolia,2014,13000
+2152,Mongolia,2013,12000
+2153,Mongolia,2012,12000
+2154,Mongolia,2011,12000
+2155,Mongolia,2010,12000
+2156,Mongolia,2009,11000
+2157,Mongolia,2008,11000
+2158,Mongolia,2007,11000
+2159,Mongolia,2006,11000
+2160,Mongolia,2005,11000
+2161,Mongolia,2004,11000
+2162,Mongolia,2003,11000
+2163,Mongolia,2002,10000
+2164,Mongolia,2001,10000
+2165,Mongolia,2000,10000
+2166,Montenegro,2018,97
+2167,Montenegro,2017,86
+2168,Montenegro,2016,100
+2169,Montenegro,2015,92
+2170,Montenegro,2014,130
+2171,Montenegro,2013,140
+2172,Montenegro,2012,110
+2173,Montenegro,2011,130
+2174,Montenegro,2010,130
+2175,Montenegro,2009,130
+2176,Montenegro,2008,150
+2177,Montenegro,2007,170
+2178,Montenegro,2006,190
+2179,Montenegro,2005,180
+2180,Morocco,2018,36000
+2181,Morocco,2017,36000
+2182,Morocco,2016,36000
+2183,Morocco,2015,35000
+2184,Morocco,2014,34000
+2185,Morocco,2013,33000
+2186,Morocco,2012,33000
+2187,Morocco,2011,33000
+2188,Morocco,2010,33000
+2189,Morocco,2009,31000
+2190,Morocco,2008,31000
+2191,Morocco,2007,29000
+2192,Morocco,2006,30000
+2193,Morocco,2005,30000
+2194,Morocco,2004,30000
+2195,Morocco,2003,31000
+2196,Morocco,2002,34000
+2197,Morocco,2001,33000
+2198,Morocco,2000,33000
+2199,Mozambique,2018,162000
+2200,Mozambique,2017,158000
+2201,Mozambique,2016,153000
+2202,Mozambique,2015,149000
+2203,Mozambique,2014,145000
+2204,Mozambique,2013,141000
+2205,Mozambique,2012,137000
+2206,Mozambique,2011,133000
+2207,Mozambique,2010,128000
+2208,Mozambique,2009,124000
+2209,Mozambique,2008,119000
+2210,Mozambique,2007,115000
+2211,Mozambique,2006,111000
+2212,Mozambique,2005,107000
+2213,Mozambique,2004,104000
+2214,Mozambique,2003,100000
+2215,Mozambique,2002,97000
+2216,Mozambique,2001,94000
+2217,Mozambique,2000,91000
+2218,Myanmar,2018,181000
+2219,Myanmar,2017,189000
+2220,Myanmar,2016,198000
+2221,Myanmar,2015,206000
+2222,Myanmar,2014,215000
+2223,Myanmar,2013,224000
+2224,Myanmar,2012,233000
+2225,Myanmar,2011,243000
+2226,Myanmar,2010,253000
+2227,Myanmar,2009,264000
+2228,Myanmar,2008,265000
+2229,Myanmar,2007,265000
+2230,Myanmar,2006,266000
+2231,Myanmar,2005,267000
+2232,Myanmar,2004,266000
+2233,Myanmar,2003,266000
+2234,Myanmar,2002,264000
+2235,Myanmar,2001,262000
+2236,Myanmar,2000,260000
+2237,Namibia,2018,13000
+2238,Namibia,2017,14000
+2239,Namibia,2016,14000
+2240,Namibia,2015,15000
+2241,Namibia,2014,15000
+2242,Namibia,2013,16000
+2243,Namibia,2012,17000
+2244,Namibia,2011,18000
+2245,Namibia,2010,19000
+2246,Namibia,2009,20000
+2247,Namibia,2008,22000
+2248,Namibia,2007,23000
+2249,Namibia,2006,24000
+2250,Namibia,2005,24000
+2251,Namibia,2004,24000
+2252,Namibia,2003,23000
+2253,Namibia,2002,22000
+2254,Namibia,2001,20000
+2255,Namibia,2000,18000
+2256,Nauru,2018,6
+2257,Nauru,2017,10
+2258,Nauru,2016,12
+2259,Nauru,2015,12
+2260,Nauru,2014,9
+2261,Nauru,2013,8
+2262,Nauru,2012,7
+2263,Nauru,2011,6
+2264,Nauru,2010,3
+2265,Nauru,2009,5
+2266,Nauru,2008,6
+2267,Nauru,2007,3
+2268,Nauru,2006,14
+2269,Nauru,2005,13
+2270,Nauru,2004,8
+2271,Nauru,2003,3
+2272,Nauru,2002,6
+2273,Nauru,2001,3
+2274,Nauru,2000,5
+2275,Nepal,2018,42000
+2276,Nepal,2017,42000
+2277,Nepal,2016,42000
+2278,Nepal,2015,42000
+2279,Nepal,2014,42000
+2280,Nepal,2013,43000
+2281,Nepal,2012,43000
+2282,Nepal,2011,44000
+2283,Nepal,2010,44000
+2284,Nepal,2009,44000
+2285,Nepal,2008,44000
+2286,Nepal,2007,43000
+2287,Nepal,2006,43000
+2288,Nepal,2005,42000
+2289,Nepal,2004,41000
+2290,Nepal,2003,41000
+2291,Nepal,2002,40000
+2292,Nepal,2001,40000
+2293,Nepal,2000,39000
+2294,Netherlands,2018,910
+2295,Netherlands,2017,890
+2296,Netherlands,2016,1000
+2297,Netherlands,2015,980
+2298,Netherlands,2014,940
+2299,Netherlands,2013,960
+2300,Netherlands,2012,1100
+2301,Netherlands,2011,1100
+2302,Netherlands,2010,1200
+2303,Netherlands,2009,1300
+2304,Netherlands,2008,1100
+2305,Netherlands,2007,1100
+2306,Netherlands,2006,1200
+2307,Netherlands,2005,1300
+2308,Netherlands,2004,1500
+2309,Netherlands,2003,1500
+2310,Netherlands,2002,1600
+2311,Netherlands,2001,1600
+2312,Netherlands,2000,1400
+2313,New,2018,350
+2314,New,2017,350
+2315,New,2016,340
+2316,New,2015,340
+2317,New,2014,340
+2318,New,2013,310
+2319,New,2012,340
+2320,New,2011,350
+2321,New,2010,350
+2322,New,2009,340
+2323,New,2008,340
+2324,New,2007,320
+2325,New,2006,400
+2326,New,2005,380
+2327,New,2004,430
+2328,New,2003,490
+2329,New,2002,380
+2330,New,2001,430
+2331,New,2000,400
+2332,Nicaragua,2018,2600
+2333,Nicaragua,2017,2800
+2334,Nicaragua,2016,2900
+2335,Nicaragua,2015,3100
+2336,Nicaragua,2014,3300
+2337,Nicaragua,2013,3400
+2338,Nicaragua,2012,3500
+2339,Nicaragua,2011,3400
+2340,Nicaragua,2010,3100
+2341,Nicaragua,2009,2900
+2342,Nicaragua,2008,2900
+2343,Nicaragua,2007,2900
+2344,Nicaragua,2006,2500
+2345,Nicaragua,2005,2400
+2346,Nicaragua,2004,2800
+2347,Nicaragua,2003,2900
+2348,Nicaragua,2002,2600
+2349,Nicaragua,2001,3100
+2350,Nicaragua,2000,3000
+2351,Niger,2018,19000
+2352,Niger,2017,19000
+2353,Niger,2016,19000
+2354,Niger,2015,19000
+2355,Niger,2014,19000
+2356,Niger,2013,19000
+2357,Niger,2012,19000
+2358,Niger,2011,19000
+2359,Niger,2010,19000
+2360,Niger,2009,19000
+2361,Niger,2008,19000
+2362,Niger,2007,19000
+2363,Niger,2006,19000
+2364,Niger,2005,19000
+2365,Niger,2004,20000
+2366,Niger,2003,20000
+2367,Niger,2002,21000
+2368,Niger,2001,21000
+2369,Niger,2000,22000
+2370,Nigeria,2018,429000
+2371,Nigeria,2017,418000
+2372,Nigeria,2016,407000
+2373,Nigeria,2015,397000
+2374,Nigeria,2014,386000
+2375,Nigeria,2013,376000
+2376,Nigeria,2012,366000
+2377,Nigeria,2011,357000
+2378,Nigeria,2010,347000
+2379,Nigeria,2009,338000
+2380,Nigeria,2008,329000
+2381,Nigeria,2007,321000
+2382,Nigeria,2006,312000
+2383,Nigeria,2005,304000
+2384,Nigeria,2004,296000
+2385,Nigeria,2003,289000
+2386,Nigeria,2002,282000
+2387,Nigeria,2001,275000
+2388,Nigeria,2000,268000
+2389,Niue,2018,1
+2390,Niue,2017,0
+2391,Niue,2016,0
+2392,Niue,2015,0
+2393,Niue,2014,0
+2394,Niue,2013,0
+2395,Niue,2012,0
+2396,Niue,2011,1
+2397,Niue,2010,0
+2398,Niue,2009,0
+2399,Niue,2008,0
+2400,Niue,2007,0
+2401,Niue,2006,0
+2402,Niue,2005,0
+2403,Niue,2004,0
+2404,Niue,2003,0
+2405,Niue,2002,5
+2406,Niue,2001,0
+2407,Niue,2000,0
+2408,Norway,2018,220
+2409,Norway,2017,270
+2410,Norway,2016,320
+2411,Norway,2015,330
+2412,Norway,2014,350
+2413,Norway,2013,420
+2414,Norway,2012,390
+2415,Norway,2011,370
+2416,Norway,2010,340
+2417,Norway,2009,380
+2418,Norway,2008,340
+2419,Norway,2007,330
+2420,Norway,2006,320
+2421,Norway,2005,320
+2422,Norway,2004,330
+2423,Norway,2003,380
+2424,Norway,2002,280
+2425,Norway,2001,320
+2426,Norway,2000,250
+2427,Oman,2018,280
+2428,Oman,2017,310
+2429,Oman,2016,400
+2430,Oman,2015,380
+2431,Oman,2014,410
+2432,Oman,2013,380
+2433,Oman,2012,440
+2434,Oman,2011,390
+2435,Oman,2010,350
+2436,Oman,2009,380
+2437,Oman,2008,400
+2438,Oman,2007,380
+2439,Oman,2006,390
+2440,Oman,2005,300
+2441,Oman,2004,340
+2442,Oman,2003,290
+2443,Oman,2002,330
+2444,Oman,2001,340
+2445,Oman,2000,370
+2446,Pakistan,2018,562000
+2447,Pakistan,2017,554000
+2448,Pakistan,2016,546000
+2449,Pakistan,2015,539000
+2450,Pakistan,2014,527000
+2451,Pakistan,2013,526000
+2452,Pakistan,2012,516000
+2453,Pakistan,2011,505000
+2454,Pakistan,2010,495000
+2455,Pakistan,2009,484000
+2456,Pakistan,2008,473000
+2457,Pakistan,2007,462000
+2458,Pakistan,2006,452000
+2459,Pakistan,2005,442000
+2460,Pakistan,2004,432000
+2461,Pakistan,2003,422000
+2462,Pakistan,2002,412000
+2463,Pakistan,2001,402000
+2464,Pakistan,2000,392000
+2465,Palau,2018,20
+2466,Palau,2017,23
+2467,Palau,2016,26
+2468,Palau,2015,16
+2469,Palau,2014,16
+2470,Palau,2013,9
+2471,Palau,2012,5
+2472,Palau,2011,14
+2473,Palau,2010,22
+2474,Palau,2009,22
+2475,Palau,2008,17
+2476,Palau,2007,13
+2477,Palau,2006,14
+2478,Palau,2005,12
+2479,Palau,2004,6
+2480,Palau,2003,10
+2481,Palau,2002,13
+2482,Palau,2001,12
+2483,Palau,2000,12
+2484,Panama,2018,2200
+2485,Panama,2017,2300
+2486,Panama,2016,2300
+2487,Panama,2015,2100
+2488,Panama,2014,1800
+2489,Panama,2013,1800
+2490,Panama,2012,1900
+2491,Panama,2011,2000
+2492,Panama,2010,1900
+2493,Panama,2009,1900
+2494,Panama,2008,2000
+2495,Panama,2007,2000
+2496,Panama,2006,2000
+2497,Panama,2005,2000
+2498,Panama,2004,2100
+2499,Panama,2003,2000
+2500,Panama,2002,2000
+2501,Panama,2001,2100
+2502,Panama,2000,1500
+2503,Papua,2018,37000
+2504,Papua,2017,36000
+2505,Papua,2016,36000
+2506,Papua,2015,35000
+2507,Papua,2014,34000
+2508,Papua,2013,34000
+2509,Papua,2012,33000
+2510,Papua,2011,32000
+2511,Papua,2010,32000
+2512,Papua,2009,31000
+2513,Papua,2008,30000
+2514,Papua,2007,29000
+2515,Papua,2006,29000
+2516,Papua,2005,28000
+2517,Papua,2004,27000
+2518,Papua,2003,27000
+2519,Papua,2002,26000
+2520,Papua,2001,26000
+2521,Papua,2000,25000
+2522,Paraguay,2018,3000
+2523,Paraguay,2017,3000
+2524,Paraguay,2016,2800
+2525,Paraguay,2015,2700
+2526,Paraguay,2014,2600
+2527,Paraguay,2013,2600
+2528,Paraguay,2012,2800
+2529,Paraguay,2011,2700
+2530,Paraguay,2010,2600
+2531,Paraguay,2009,2700
+2532,Paraguay,2008,2600
+2533,Paraguay,2007,2600
+2534,Paraguay,2006,2800
+2535,Paraguay,2005,2500
+2536,Paraguay,2004,2700
+2537,Paraguay,2003,2600
+2538,Paraguay,2002,2400
+2539,Paraguay,2001,2400
+2540,Paraguay,2000,2200
+2541,Peru,2018,39000
+2542,Peru,2017,37000
+2543,Peru,2016,37000
+2544,Peru,2015,37000
+2545,Peru,2014,38000
+2546,Peru,2013,37000
+2547,Peru,2012,37000
+2548,Peru,2011,39000
+2549,Peru,2010,39000
+2550,Peru,2009,40000
+2551,Peru,2008,40000
+2552,Peru,2007,41000
+2553,Peru,2006,43000
+2554,Peru,2005,42000
+2555,Peru,2004,42000
+2556,Peru,2003,40000
+2557,Peru,2002,45000
+2558,Peru,2001,46000
+2559,Peru,2000,48000
+2560,Philippines,2018,591000
+2561,Philippines,2017,583000
+2562,Philippines,2016,574000
+2563,Philippines,2015,562000
+2564,Philippines,2014,549000
+2565,Philippines,2013,537000
+2566,Philippines,2012,524000
+2567,Philippines,2011,511000
+2568,Philippines,2010,499000
+2569,Philippines,2009,488000
+2570,Philippines,2008,476000
+2571,Philippines,2007,465000
+2572,Philippines,2006,466000
+2573,Philippines,2005,466000
+2574,Philippines,2004,465000
+2575,Philippines,2003,464000
+2576,Philippines,2002,463000
+2577,Philippines,2001,462000
+2578,Philippines,2000,460000
+2579,Poland,2018,6000
+2580,Poland,2017,6400
+2581,Poland,2016,7100
+2582,Poland,2015,7200
+2583,Poland,2014,7500
+2584,Poland,2013,8100
+2585,Poland,2012,8100
+2586,Poland,2011,9100
+2587,Poland,2010,8100
+2588,Poland,2009,8800
+2589,Poland,2008,8500
+2590,Poland,2007,9200
+2591,Poland,2006,9200
+2592,Poland,2005,9400
+2593,Poland,2004,10000
+2594,Poland,2003,12000
+2595,Poland,2002,12000
+2596,Poland,2001,12000
+2597,Poland,2000,13000
+2598,Portugal,2018,2400
+2599,Portugal,2017,2000
+2600,Portugal,2016,2100
+2601,Portugal,2015,2400
+2602,Portugal,2014,2500
+2603,Portugal,2013,2700
+2604,Portugal,2012,2900
+2605,Portugal,2011,2900
+2606,Portugal,2010,3000
+2607,Portugal,2009,3100
+2608,Portugal,2008,3200
+2609,Portugal,2007,3400
+2610,Portugal,2006,3700
+2611,Portugal,2005,3800
+2612,Portugal,2004,4200
+2613,Portugal,2003,4600
+2614,Portugal,2002,5000
+2615,Portugal,2001,5000
+2616,Portugal,2000,4900
+2617,Qatar,2018,860
+2618,Qatar,2017,690
+2619,Qatar,2016,580
+2620,Qatar,2015,610
+2621,Qatar,2014,530
+2622,Qatar,2013,690
+2623,Qatar,2012,840
+2624,Qatar,2011,640
+2625,Qatar,2010,670
+2626,Qatar,2009,710
+2627,Qatar,2008,650
+2628,Qatar,2007,460
+2629,Qatar,2006,390
+2630,Qatar,2005,370
+2631,Qatar,2004,310
+2632,Qatar,2003,320
+2633,Qatar,2002,320
+2634,Qatar,2001,330
+2635,Qatar,2000,320
+2636,Republic,2018,34000
+2637,Republic,2017,36000
+2638,Republic,2016,39000
+2639,Republic,2015,40000
+2640,Republic,2014,43000
+2641,Republic,2013,44000
+2642,Republic,2012,47000
+2643,Republic,2011,49000
+2644,Republic,2010,47000
+2645,Republic,2009,46000
+2646,Republic,2008,43000
+2647,Republic,2007,45000
+2648,Republic,2006,45000
+2649,Republic,2005,46000
+2650,Republic,2004,37000
+2651,Republic,2003,39000
+2652,Republic,2002,37000
+2653,Republic,2001,40000
+2654,Republic,2000,23000
+2655,Republic,2018,3500
+2656,Republic,2017,3900
+2657,Republic,2016,4100
+2658,Republic,2015,4100
+2659,Republic,2014,4700
+2660,Republic,2013,5200
+2661,Republic,2012,5100
+2662,Republic,2011,4900
+2663,Republic,2010,4800
+2664,Republic,2009,5100
+2665,Republic,2008,5100
+2666,Republic,2007,5600
+2667,Republic,2006,5700
+2668,Republic,2005,5900
+2669,Republic,2004,5500
+2670,Republic,2003,4900
+2671,Republic,2002,4300
+2672,Republic,2001,4100
+2673,Republic,2000,3400
+2674,Romania,2018,13000
+2675,Romania,2017,14000
+2676,Romania,2016,15000
+2677,Romania,2015,16000
+2678,Romania,2014,17000
+2679,Romania,2013,18000
+2680,Romania,2012,19000
+2681,Romania,2011,20000
+2682,Romania,2010,21000
+2683,Romania,2009,24000
+2684,Romania,2008,25000
+2685,Romania,2007,26000
+2686,Romania,2006,28000
+2687,Romania,2005,30000
+2688,Romania,2004,33000
+2689,Romania,2003,34000
+2690,Romania,2002,34000
+2691,Romania,2001,33000
+2692,Romania,2000,32000
+2693,Russian,2018,79000
+2694,Russian,2017,85000
+2695,Russian,2016,91000
+2696,Russian,2015,97000
+2697,Russian,2014,101000
+2698,Russian,2013,105000
+2699,Russian,2012,109000
+2700,Russian,2011,116000
+2701,Russian,2010,123000
+2702,Russian,2009,128000
+2703,Russian,2008,129000
+2704,Russian,2007,128000
+2705,Russian,2006,126000
+2706,Russian,2005,125000
+2707,Russian,2004,125000
+2708,Russian,2003,127000
+2709,Russian,2002,130000
+2710,Russian,2001,134000
+2711,Russian,2000,139000
+2712,Rwanda,2018,7300
+2713,Rwanda,2017,7000
+2714,Rwanda,2016,7200
+2715,Rwanda,2015,6900
+2716,Rwanda,2014,7200
+2717,Rwanda,2013,7100
+2718,Rwanda,2012,7600
+2719,Rwanda,2011,8300
+2720,Rwanda,2010,8400
+2721,Rwanda,2009,9300
+2722,Rwanda,2008,9600
+2723,Rwanda,2007,9800
+2724,Rwanda,2006,10000
+2725,Rwanda,2005,9000
+2726,Rwanda,2004,8100
+2727,Rwanda,2003,8500
+2728,Rwanda,2002,7500
+2729,Rwanda,2001,6800
+2730,Rwanda,2000,7600
+2731,Saint,2018,0
+2732,Saint,2017,1
+2733,Saint,2016,0
+2734,Saint,2015,2
+2735,Saint,2014,8
+2736,Saint,2013,0
+2737,Saint,2012,2
+2738,Saint,2011,1
+2739,Saint,2010,2
+2740,Saint,2009,5
+2741,Saint,2008,6
+2742,Saint,2007,5
+2743,Saint,2006,1
+2744,Saint,2005,0
+2745,Saint,2004,2
+2746,Saint,2003,1
+2747,Saint,2002,3
+2748,Saint,2001,2
+2749,Saint,2000,0
+2750,Saint,2018,6
+2751,Saint,2017,13
+2752,Saint,2016,3
+2753,Saint,2015,16
+2754,Saint,2014,7
+2755,Saint,2013,10
+2756,Saint,2012,13
+2757,Saint,2011,8
+2758,Saint,2010,10
+2759,Saint,2009,12
+2760,Saint,2008,24
+2761,Saint,2007,22
+2762,Saint,2006,17
+2763,Saint,2005,16
+2764,Saint,2004,17
+2765,Saint,2003,17
+2766,Saint,2002,20
+2767,Saint,2001,17
+2768,Saint,2000,10
+2769,Saint,2018,7
+2770,Saint,2017,2
+2771,Saint,2016,7
+2772,Saint,2015,8
+2773,Saint,2014,6
+2774,Saint,2013,3
+2775,Saint,2012,34
+2776,Saint,2011,20
+2777,Saint,2010,17
+2778,Saint,2009,10
+2779,Saint,2008,14
+2780,Saint,2007,14
+2781,Saint,2006,15
+2782,Saint,2005,8
+2783,Saint,2004,9
+2784,Saint,2003,16
+2785,Saint,2002,12
+2786,Saint,2001,12
+2787,Saint,2000,18
+2788,Samoa,2018,13
+2789,Samoa,2017,35
+2790,Samoa,2016,15
+2791,Samoa,2015,22
+2792,Samoa,2014,26
+2793,Samoa,2013,25
+2794,Samoa,2012,25
+2795,Samoa,2011,23
+2796,Samoa,2010,16
+2797,Samoa,2009,18
+2798,Samoa,2008,14
+2799,Samoa,2007,24
+2800,Samoa,2006,29
+2801,Samoa,2005,28
+2802,Samoa,2004,39
+2803,Samoa,2003,31
+2804,Samoa,2002,36
+2805,Samoa,2001,25
+2806,Samoa,2000,49
+2807,San,2018,0
+2808,San,2017,0
+2809,San,2016,0
+2810,San,2015,0
+2811,San,2014,0
+2812,San,2013,0
+2813,San,2012,0
+2814,San,2011,0
+2815,San,2010,0
+2816,San,2009,0
+2817,San,2008,0
+2818,San,2007,0
+2819,San,2006,0
+2820,San,2005,0
+2821,San,2004,0
+2822,San,2003,1
+2823,San,2002,1
+2824,San,2001,0
+2825,San,2000,1
+2826,Sao,2018,260
+2827,Sao,2017,240
+2828,Sao,2016,330
+2829,Sao,2015,310
+2830,Sao,2014,280
+2831,Sao,2013,260
+2832,Sao,2012,200
+2833,Sao,2011,240
+2834,Sao,2010,210
+2835,Sao,2009,140
+2836,Sao,2008,120
+2837,Sao,2007,160
+2838,Sao,2006,270
+2839,Sao,2005,240
+2840,Sao,2004,210
+2841,Sao,2003,190
+2842,Sao,2002,160
+2843,Sao,2001,170
+2844,Sao,2000,170
+2845,Saudi,2018,3400
+2846,Saudi,2017,3300
+2847,Saudi,2016,3300
+2848,Saudi,2015,3800
+2849,Saudi,2014,3700
+2850,Saudi,2013,4000
+2851,Saudi,2012,4200
+2852,Saudi,2011,4500
+2853,Saudi,2010,5100
+2854,Saudi,2009,4600
+2855,Saudi,2008,4600
+2856,Saudi,2007,4500
+2857,Saudi,2006,4300
+2858,Saudi,2005,4100
+2859,Saudi,2004,3800
+2860,Saudi,2003,3800
+2861,Saudi,2002,3900
+2862,Saudi,2001,3800
+2863,Saudi,2000,4000
+2864,Senegal,2018,19000
+2865,Senegal,2017,18000
+2866,Senegal,2016,18000
+2867,Senegal,2015,18000
+2868,Senegal,2014,18000
+2869,Senegal,2013,17000
+2870,Senegal,2012,17000
+2871,Senegal,2011,17000
+2872,Senegal,2010,17000
+2873,Senegal,2009,17000
+2874,Senegal,2008,16000
+2875,Senegal,2007,16000
+2876,Senegal,2006,16000
+2877,Senegal,2005,16000
+2878,Senegal,2004,16000
+2879,Senegal,2003,15000
+2880,Senegal,2002,15000
+2881,Senegal,2001,15000
+2882,Senegal,2000,15000
+2883,Serbia,2018,1500
+2884,Serbia,2017,1700
+2885,Serbia,2016,1700
+2886,Serbia,2015,1900
+2887,Serbia,2014,2100
+2888,Serbia,2013,2400
+2889,Serbia,2012,2200
+2890,Serbia,2011,2500
+2891,Serbia,2010,2700
+2892,Serbia,2009,2900
+2893,Serbia,2008,3100
+2894,Serbia,2007,3300
+2895,Serbia,2006,3600
+2896,Serbia,2005,3700
+2897,Seychelles,2018,17
+2898,Seychelles,2017,18
+2899,Seychelles,2016,14
+2900,Seychelles,2015,9
+2901,Seychelles,2014,15
+2902,Seychelles,2013,28
+2903,Seychelles,2012,23
+2904,Seychelles,2011,24
+2905,Seychelles,2010,20
+2906,Seychelles,2009,17
+2907,Seychelles,2008,7
+2908,Seychelles,2007,20
+2909,Seychelles,2006,21
+2910,Seychelles,2005,16
+2911,Seychelles,2004,21
+2912,Seychelles,2003,12
+2913,Seychelles,2002,33
+2914,Seychelles,2001,22
+2915,Seychelles,2000,23
+2916,Sierra,2018,23000
+2917,Sierra,2017,23000
+2918,Sierra,2016,22000
+2919,Sierra,2015,22000
+2920,Sierra,2014,22000
+2921,Sierra,2013,21000
+2922,Sierra,2012,21000
+2923,Sierra,2011,21000
+2924,Sierra,2010,20000
+2925,Sierra,2009,20000
+2926,Sierra,2008,20000
+2927,Sierra,2007,19000
+2928,Sierra,2006,18000
+2929,Sierra,2005,18000
+2930,Sierra,2004,17000
+2931,Sierra,2003,16000
+2932,Sierra,2002,15000
+2933,Sierra,2001,15000
+2934,Sierra,2000,14000
+2935,Singapore,2018,2700
+2936,Singapore,2017,2700
+2937,Singapore,2016,2800
+2938,Singapore,2015,2500
+2939,Singapore,2014,2500
+2940,Singapore,2013,2500
+2941,Singapore,2012,2600
+2942,Singapore,2011,1900
+2943,Singapore,2010,1800
+2944,Singapore,2009,1800
+2945,Singapore,2008,1800
+2946,Singapore,2007,1600
+2947,Singapore,2006,1500
+2948,Singapore,2005,1600
+2949,Singapore,2004,1600
+2950,Singapore,2003,1800
+2951,Singapore,2002,1700
+2952,Singapore,2001,1800
+2953,Singapore,2000,2000
+2954,Slovakia,2018,310
+2955,Slovakia,2017,260
+2956,Slovakia,2016,320
+2957,Slovakia,2015,350
+2958,Slovakia,2014,370
+2959,Slovakia,2013,460
+2960,Slovakia,2012,370
+2961,Slovakia,2011,430
+2962,Slovakia,2010,470
+2963,Slovakia,2009,520
+2964,Slovakia,2008,670
+2965,Slovakia,2007,720
+2966,Slovakia,2006,770
+2967,Slovakia,2005,820
+2968,Slovakia,2004,760
+2969,Slovakia,2003,1100
+2970,Slovakia,2002,1100
+2971,Slovakia,2001,1100
+2972,Slovakia,2000,1200
+2973,Slovenia,2018,110
+2974,Slovenia,2017,130
+2975,Slovenia,2016,140
+2976,Slovenia,2015,150
+2977,Slovenia,2014,160
+2978,Slovenia,2013,160
+2979,Slovenia,2012,150
+2980,Slovenia,2011,210
+2981,Slovenia,2010,190
+2982,Slovenia,2009,210
+2983,Slovenia,2008,240
+2984,Slovenia,2007,250
+2985,Slovenia,2006,240
+2986,Slovenia,2005,310
+2987,Slovenia,2004,290
+2988,Slovenia,2003,330
+2989,Slovenia,2002,390
+2990,Slovenia,2001,410
+2991,Slovenia,2000,420
+2992,Solomon,2018,480
+2993,Solomon,2017,470
+2994,Solomon,2016,500
+2995,Solomon,2015,520
+2996,Solomon,2014,430
+2997,Solomon,2013,450
+2998,Solomon,2012,450
+2999,Solomon,2011,500
+3000,Solomon,2010,420
+3001,Solomon,2009,460
+3002,Solomon,2008,480
+3003,Solomon,2007,500
+3004,Solomon,2006,460
+3005,Solomon,2005,500
+3006,Solomon,2004,430
+3007,Solomon,2003,370
+3008,Solomon,2002,320
+3009,Solomon,2001,370
+3010,Solomon,2000,380
+3011,Somalia,2018,39000
+3012,Somalia,2017,39000
+3013,Somalia,2016,38000
+3014,Somalia,2015,38000
+3015,Somalia,2014,37000
+3016,Somalia,2013,37000
+3017,Somalia,2012,36000
+3018,Somalia,2011,35000
+3019,Somalia,2010,34000
+3020,Somalia,2009,33000
+3021,Somalia,2008,33000
+3022,Somalia,2007,32000
+3023,Somalia,2006,31000
+3024,Somalia,2005,30000
+3025,Somalia,2004,29000
+3026,Somalia,2003,28000
+3027,Somalia,2002,27000
+3028,Somalia,2001,26000
+3029,Somalia,2000,25000
+3030,South,2018,301000
+3031,South,2017,323000
+3032,South,2016,347000
+3033,South,2015,420000
+3034,South,2014,447000
+3035,South,2013,456000
+3036,South,2012,471000
+3037,South,2011,479000
+3038,South,2010,485000
+3039,South,2009,488000
+3040,South,2008,486000
+3041,South,2007,480000
+3042,South,2006,467000
+3043,South,2005,446000
+3044,South,2004,418000
+3045,South,2003,383000
+3046,South,2002,344000
+3047,South,2001,303000
+3048,South,2000,263000
+3049,South,2018,16000
+3050,South,2017,16000
+3051,South,2016,16000
+3052,South,2015,16000
+3053,South,2014,15000
+3054,South,2013,15000
+3055,South,2012,15000
+3056,South,2011,14000
+3057,Spain,2018,4400
+3058,Spain,2017,5000
+3059,Spain,2016,5400
+3060,Spain,2015,4600
+3061,Spain,2014,5500
+3062,Spain,2013,6000
+3063,Spain,2012,6500
+3064,Spain,2011,7400
+3065,Spain,2010,7900
+3066,Spain,2009,8300
+3067,Spain,2008,8900
+3068,Spain,2007,8400
+3069,Spain,2006,9000
+3070,Spain,2005,8400
+3071,Spain,2004,6900
+3072,Spain,2003,11000
+3073,Spain,2002,8400
+3074,Spain,2001,7900
+3075,Spain,2000,9200
+3076,Sri,2018,14000
+3077,Sri,2017,14000
+3078,Sri,2016,14000
+3079,Sri,2015,14000
+3080,Sri,2014,14000
+3081,Sri,2013,14000
+3082,Sri,2012,14000
+3083,Sri,2011,14000
+3084,Sri,2010,13000
+3085,Sri,2009,13000
+3086,Sri,2008,13000
+3087,Sri,2007,13000
+3088,Sri,2006,13000
+3089,Sri,2005,13000
+3090,Sri,2004,13000
+3091,Sri,2003,13000
+3092,Sri,2002,13000
+3093,Sri,2001,13000
+3094,Sri,2000,12000
+3095,Sudan,2018,30000
+3096,Sudan,2017,31000
+3097,Sudan,2016,33000
+3098,Sudan,2015,34000
+3099,Sudan,2014,36000
+3100,Sudan,2013,37000
+3101,Sudan,2012,37000
+3102,Sudan,2011,37000
+3103,Suriname,2018,220
+3104,Suriname,2017,160
+3105,Suriname,2016,140
+3106,Suriname,2015,180
+3107,Suriname,2014,180
+3108,Suriname,2013,180
+3109,Suriname,2012,160
+3110,Suriname,2011,160
+3111,Suriname,2010,240
+3112,Suriname,2009,220
+3113,Suriname,2008,140
+3114,Suriname,2007,160
+3115,Suriname,2006,160
+3116,Suriname,2005,150
+3117,Suriname,2004,120
+3118,Suriname,2003,130
+3119,Suriname,2002,120
+3120,Suriname,2001,94
+3121,Suriname,2000,110
+3122,Sweden,2018,550
+3123,Sweden,2017,560
+3124,Sweden,2016,810
+3125,Sweden,2015,900
+3126,Sweden,2014,730
+3127,Sweden,2013,700
+3128,Sweden,2012,680
+3129,Sweden,2011,620
+3130,Sweden,2010,710
+3131,Sweden,2009,660
+3132,Sweden,2008,590
+3133,Sweden,2007,530
+3134,Sweden,2006,560
+3135,Sweden,2005,620
+3136,Sweden,2004,490
+3137,Sweden,2003,460
+3138,Sweden,2002,430
+3139,Sweden,2001,450
+3140,Sweden,2000,480
+3141,Switzerland,2018,540
+3142,Switzerland,2017,610
+3143,Switzerland,2016,660
+3144,Switzerland,2015,610
+3145,Switzerland,2014,490
+3146,Switzerland,2013,540
+3147,Switzerland,2012,480
+3148,Switzerland,2011,600
+3149,Switzerland,2010,580
+3150,Switzerland,2009,580
+3151,Switzerland,2008,530
+3152,Switzerland,2007,480
+3153,Switzerland,2006,540
+3154,Switzerland,2005,590
+3155,Switzerland,2004,630
+3156,Switzerland,2003,660
+3157,Switzerland,2002,680
+3158,Switzerland,2001,630
+3159,Switzerland,2000,660
+3160,Syrian,2018,3300
+3161,Syrian,2017,3400
+3162,Syrian,2016,3800
+3163,Syrian,2015,3600
+3164,Syrian,2014,4400
+3165,Syrian,2013,3400
+3166,Syrian,2012,3800
+3167,Syrian,2011,4500
+3168,Syrian,2010,4600
+3169,Syrian,2009,5100
+3170,Syrian,2008,4700
+3171,Syrian,2007,5300
+3172,Syrian,2006,4900
+3173,Syrian,2005,5400
+3174,Syrian,2004,5700
+3175,Syrian,2003,6000
+3176,Syrian,2002,6000
+3177,Syrian,2001,6200
+3178,Syrian,2000,6400
+3179,Tajikistan,2018,7600
+3180,Tajikistan,2017,7500
+3181,Tajikistan,2016,7400
+3182,Tajikistan,2015,7300
+3183,Tajikistan,2014,7500
+3184,Tajikistan,2013,8000
+3185,Tajikistan,2012,8500
+3186,Tajikistan,2011,9000
+3187,Tajikistan,2010,9600
+3188,Tajikistan,2009,10000
+3189,Tajikistan,2008,11000
+3190,Tajikistan,2007,12000
+3191,Tajikistan,2006,13000
+3192,Tajikistan,2005,13000
+3193,Tajikistan,2004,14000
+3194,Tajikistan,2003,14000
+3195,Tajikistan,2002,14000
+3196,Tajikistan,2001,14000
+3197,Tajikistan,2000,14000
+3198,Thailand,2018,106000
+3199,Thailand,2017,108000
+3200,Thailand,2016,110000
+3201,Thailand,2015,112000
+3202,Thailand,2014,114000
+3203,Thailand,2013,116000
+3204,Thailand,2012,117000
+3205,Thailand,2011,119000
+3206,Thailand,2010,122000
+3207,Thailand,2009,126000
+3208,Thailand,2008,131000
+3209,Thailand,2007,136000
+3210,Thailand,2006,141000
+3211,Thailand,2005,146000
+3212,Thailand,2004,151000
+3213,Thailand,2003,155000
+3214,Thailand,2002,156000
+3215,Thailand,2001,156000
+3216,Thailand,2000,152000
+3217,Republic,2018,270
+3218,Republic,2017,270
+3219,Republic,2016,330
+3220,Republic,2015,350
+3221,Republic,2014,350
+3222,Republic,2013,400
+3223,Republic,2012,430
+3224,Republic,2011,420
+3225,Republic,2010,480
+3226,Republic,2009,560
+3227,Republic,2008,560
+3228,Republic,2007,660
+3229,Republic,2006,700
+3230,Republic,2005,750
+3231,Republic,2004,810
+3232,Republic,2003,870
+3233,Republic,2002,860
+3234,Republic,2001,810
+3235,Republic,2000,800
+3236,Timor-Leste,2018,6300
+3237,Timor-Leste,2017,6200
+3238,Timor-Leste,2016,6100
+3239,Timor-Leste,2015,6000
+3240,Timor-Leste,2014,5900
+3241,Timor-Leste,2013,5700
+3242,Timor-Leste,2012,5600
+3243,Timor-Leste,2011,5500
+3244,Timor-Leste,2010,5400
+3245,Timor-Leste,2009,5400
+3246,Timor-Leste,2008,5300
+3247,Timor-Leste,2007,5200
+3248,Timor-Leste,2006,5100
+3249,Timor-Leste,2005,5000
+3250,Timor-Leste,2004,4800
+3251,Timor-Leste,2003,4700
+3252,Timor-Leste,2002,4600
+3253,Togo,2018,2800
+3254,Togo,2017,3100
+3255,Togo,2016,3500
+3256,Togo,2015,3800
+3257,Togo,2014,4200
+3258,Togo,2013,4500
+3259,Togo,2012,4700
+3260,Togo,2011,4800
+3261,Togo,2010,4900
+3262,Togo,2009,4800
+3263,Togo,2008,4700
+3264,Togo,2007,4500
+3265,Togo,2006,4300
+3266,Togo,2005,4000
+3267,Togo,2004,3600
+3268,Togo,2003,3200
+3269,Togo,2002,2900
+3270,Togo,2001,2700
+3271,Togo,2000,2500
+3272,Tonga,2018,10
+3273,Tonga,2017,13
+3274,Tonga,2016,9
+3275,Tonga,2015,16
+3276,Tonga,2014,15
+3277,Tonga,2013,12
+3278,Tonga,2012,13
+3279,Tonga,2011,10
+3280,Tonga,2010,13
+3281,Tonga,2009,9
+3282,Tonga,2008,15
+3283,Tonga,2007,26
+3284,Tonga,2006,21
+3285,Tonga,2005,21
+3286,Tonga,2004,14
+3287,Tonga,2003,18
+3288,Tonga,2002,33
+3289,Tonga,2001,14
+3290,Tonga,2000,28
+3291,Trinidad,2018,290
+3292,Trinidad,2017,230
+3293,Trinidad,2016,250
+3294,Trinidad,2015,230
+3295,Trinidad,2014,290
+3296,Trinidad,2013,290
+3297,Trinidad,2012,320
+3298,Trinidad,2011,260
+3299,Trinidad,2010,250
+3300,Trinidad,2009,310
+3301,Trinidad,2008,320
+3302,Trinidad,2007,250
+3303,Trinidad,2006,270
+3304,Trinidad,2005,190
+3305,Trinidad,2004,200
+3306,Trinidad,2003,170
+3307,Trinidad,2002,150
+3308,Trinidad,2001,240
+3309,Trinidad,2000,230
+3310,Tunisia,2018,4000
+3311,Tunisia,2017,3900
+3312,Tunisia,2016,4300
+3313,Tunisia,2015,4300
+3314,Tunisia,2014,3900
+3315,Tunisia,2013,3800
+3316,Tunisia,2012,4000
+3317,Tunisia,2011,3800
+3318,Tunisia,2010,3000
+3319,Tunisia,2009,2700
+3320,Tunisia,2008,2800
+3321,Tunisia,2007,2900
+3322,Tunisia,2006,2700
+3323,Tunisia,2005,2600
+3324,Tunisia,2004,2500
+3325,Tunisia,2003,2500
+3326,Tunisia,2002,2400
+3327,Tunisia,2001,2400
+3328,Tunisia,2000,2500
+3329,Turkey,2018,13000
+3330,Turkey,2017,14000
+3331,Turkey,2016,14000
+3332,Turkey,2015,14000
+3333,Turkey,2014,15000
+3334,Turkey,2013,15000
+3335,Turkey,2012,16000
+3336,Turkey,2011,17000
+3337,Turkey,2010,18000
+3338,Turkey,2009,19000
+3339,Turkey,2008,20000
+3340,Turkey,2007,22000
+3341,Turkey,2006,23000
+3342,Turkey,2005,23000
+3343,Turkey,2004,20000
+3344,Turkey,2003,21000
+3345,Turkey,2002,21000
+3346,Turkey,2001,20000
+3347,Turkey,2000,21000
+3348,Turkmenistan,2018,2700
+3349,Turkmenistan,2017,2500
+3350,Turkmenistan,2016,2600
+3351,Turkmenistan,2015,2700
+3352,Turkmenistan,2014,3200
+3353,Turkmenistan,2013,3800
+3354,Turkmenistan,2012,3700
+3355,Turkmenistan,2011,3400
+3356,Turkmenistan,2010,4000
+3357,Turkmenistan,2009,3900
+3358,Turkmenistan,2008,4700
+3359,Turkmenistan,2007,4300
+3360,Turkmenistan,2006,4000
+3361,Turkmenistan,2005,4000
+3362,Turkmenistan,2004,4200
+3363,Turkmenistan,2003,5400
+3364,Turkmenistan,2002,4600
+3365,Turkmenistan,2001,4900
+3366,Turkmenistan,2000,5000
+3367,Tuvalu,2018,31
+3368,Tuvalu,2017,26
+3369,Tuvalu,2016,23
+3370,Tuvalu,2015,23
+3371,Tuvalu,2014,17
+3372,Tuvalu,2013,21
+3373,Tuvalu,2012,22
+3374,Tuvalu,2011,14
+3375,Tuvalu,2010,16
+3376,Tuvalu,2009,21
+3377,Tuvalu,2008,20
+3378,Tuvalu,2007,21
+3379,Tuvalu,2006,10
+3380,Tuvalu,2005,14
+3381,Tuvalu,2004,19
+3382,Tuvalu,2003,36
+3383,Tuvalu,2002,15
+3384,Tuvalu,2001,18
+3385,Tuvalu,2000,18
+3386,Uganda,2018,86000
+3387,Uganda,2017,83000
+3388,Uganda,2016,80000
+3389,Uganda,2015,77000
+3390,Uganda,2014,75000
+3391,Uganda,2013,73000
+3392,Uganda,2012,71000
+3393,Uganda,2011,69000
+3394,Uganda,2010,68000
+3395,Uganda,2009,67000
+3396,Uganda,2008,66000
+3397,Uganda,2007,65000
+3398,Uganda,2006,65000
+3399,Uganda,2005,65000
+3400,Uganda,2004,64000
+3401,Uganda,2003,64000
+3402,Uganda,2002,64000
+3403,Uganda,2001,65000
+3404,Uganda,2000,65000
+3405,Ukraine,2018,36000
+3406,Ukraine,2017,37000
+3407,Ukraine,2016,39000
+3408,Ukraine,2015,41000
+3409,Ukraine,2014,43000
+3410,Ukraine,2013,44000
+3411,Ukraine,2012,46000
+3412,Ukraine,2011,48000
+3413,Ukraine,2010,50000
+3414,Ukraine,2009,53000
+3415,Ukraine,2008,55000
+3416,Ukraine,2007,57000
+3417,Ukraine,2006,58000
+3418,Ukraine,2005,60000
+3419,Ukraine,2004,60000
+3420,Ukraine,2003,60000
+3421,Ukraine,2002,59000
+3422,Ukraine,2001,58000
+3423,Ukraine,2000,56000
+3424,United,2018,99
+3425,United,2017,76
+3426,United,2016,74
+3427,United,2015,72
+3428,United,2014,69
+3429,United,2013,94
+3430,United,2012,91
+3431,United,2011,120
+3432,United,2010,150
+3433,United,2009,130
+3434,United,2008,110
+3435,United,2007,110
+3436,United,2006,100
+3437,United,2005,120
+3438,United,2004,110
+3439,United,2003,130
+3440,United,2002,100
+3441,United,2001,85
+3442,United,2000,130
+3443,United,2018,5400
+3444,United,2017,5900
+3445,United,2016,6500
+3446,United,2015,6600
+3447,United,2014,7400
+3448,United,2013,8300
+3449,United,2012,9300
+3450,United,2011,9500
+3451,United,2010,8800
+3452,United,2009,9100
+3453,United,2008,9300
+3454,United,2007,9000
+3455,United,2006,9300
+3456,United,2005,9200
+3457,United,2004,7900
+3458,United,2003,8000
+3459,United,2002,7800
+3460,United,2001,6800
+3461,United,2000,7000
+3462,United,2018,142000
+3463,United,2017,147000
+3464,United,2016,152000
+3465,United,2015,158000
+3466,United,2014,163000
+3467,United,2013,163000
+3468,United,2012,178000
+3469,United,2011,183000
+3470,United,2010,189000
+3471,United,2009,195000
+3472,United,2008,199000
+3473,United,2007,200000
+3474,United,2006,199000
+3475,United,2005,196000
+3476,United,2004,191000
+3477,United,2003,185000
+3478,United,2002,180000
+3479,United,2001,174000
+3480,United,2000,168000
+3481,United,2018,9800
+3482,United,2017,10000
+3483,United,2016,10000
+3484,United,2015,10000
+3485,United,2014,10000
+3486,United,2013,10000
+3487,United,2012,11000
+3488,United,2011,12000
+3489,United,2010,13000
+3490,United,2009,13000
+3491,United,2008,15000
+3492,United,2007,15000
+3493,United,2006,16000
+3494,United,2005,16000
+3495,United,2004,17000
+3496,United,2003,17000
+3497,United,2002,17000
+3498,United,2001,18000
+3499,United,2000,19000
+3500,Uruguay,2018,1200
+3501,Uruguay,2017,1100
+3502,Uruguay,2016,1000
+3503,Uruguay,2015,1000
+3504,Uruguay,2014,990
+3505,Uruguay,2013,1000
+3506,Uruguay,2012,930
+3507,Uruguay,2011,940
+3508,Uruguay,2010,800
+3509,Uruguay,2009,810
+3510,Uruguay,2008,790
+3511,Uruguay,2007,700
+3512,Uruguay,2006,640
+3513,Uruguay,2005,720
+3514,Uruguay,2004,840
+3515,Uruguay,2003,740
+3516,Uruguay,2002,620
+3517,Uruguay,2001,790
+3518,Uruguay,2000,740
+3519,Uzbekistan,2018,23000
+3520,Uzbekistan,2017,23000
+3521,Uzbekistan,2016,24000
+3522,Uzbekistan,2015,25000
+3523,Uzbekistan,2014,25000
+3524,Uzbekistan,2013,26000
+3525,Uzbekistan,2012,26000
+3526,Uzbekistan,2011,27000
+3527,Uzbekistan,2010,28000
+3528,Uzbekistan,2009,28000
+3529,Uzbekistan,2008,29000
+3530,Uzbekistan,2007,30000
+3531,Uzbekistan,2006,31000
+3532,Uzbekistan,2005,32000
+3533,Uzbekistan,2004,31000
+3534,Uzbekistan,2003,30000
+3535,Uzbekistan,2002,29000
+3536,Uzbekistan,2001,27000
+3537,Uzbekistan,2000,24000
+3538,Vanuatu,2018,130
+3539,Vanuatu,2017,150
+3540,Vanuatu,2016,160
+3541,Vanuatu,2015,170
+3542,Vanuatu,2014,160
+3543,Vanuatu,2013,160
+3544,Vanuatu,2012,160
+3545,Vanuatu,2011,160
+3546,Vanuatu,2010,160
+3547,Vanuatu,2009,170
+3548,Vanuatu,2008,170
+3549,Vanuatu,2007,170
+3550,Vanuatu,2006,170
+3551,Vanuatu,2005,170
+3552,Vanuatu,2004,170
+3553,Vanuatu,2003,140
+3554,Vanuatu,2002,130
+3555,Vanuatu,2001,230
+3556,Vanuatu,2000,200
+3557,Venezuela,2018,14000
+3558,Venezuela,2017,13000
+3559,Venezuela,2016,10000
+3560,Venezuela,2015,8900
+3561,Venezuela,2014,8000
+3562,Venezuela,2013,8200
+3563,Venezuela,2012,8100
+3564,Venezuela,2011,7900
+3565,Venezuela,2010,8100
+3566,Venezuela,2009,8100
+3567,Venezuela,2008,8000
+3568,Venezuela,2007,8100
+3569,Venezuela,2006,8400
+3570,Venezuela,2005,8600
+3571,Venezuela,2004,8500
+3572,Venezuela,2003,8400
+3573,Venezuela,2002,7800
+3574,Venezuela,2001,7800
+3575,Venezuela,2000,8100
+3576,Viet,2018,174000
+3577,Viet,2017,178000
+3578,Viet,2016,181000
+3579,Viet,2015,185000
+3580,Viet,2014,188000
+3581,Viet,2013,192000
+3582,Viet,2012,196000
+3583,Viet,2011,200000
+3584,Viet,2010,204000
+3585,Viet,2009,208000
+3586,Viet,2008,212000
+3587,Viet,2007,216000
+3588,Viet,2006,220000
+3589,Viet,2005,223000
+3590,Viet,2004,226000
+3591,Viet,2003,229000
+3592,Viet,2002,232000
+3593,Viet,2001,234000
+3594,Viet,2000,237000
+3595,Yemen,2018,14000
+3596,Yemen,2017,13000
+3597,Yemen,2016,13000
+3598,Yemen,2015,13000
+3599,Yemen,2014,12000
+3600,Yemen,2013,12000
+3601,Yemen,2012,12000
+3602,Yemen,2011,12000
+3603,Yemen,2010,12000
+3604,Yemen,2009,12000
+3605,Yemen,2008,13000
+3606,Yemen,2007,14000
+3607,Yemen,2006,15000
+3608,Yemen,2005,16000
+3609,Yemen,2004,17000
+3610,Yemen,2003,18000
+3611,Yemen,2002,19000
+3612,Yemen,2001,20000
+3613,Yemen,2000,20000
+3614,Zambia,2018,60000
+3615,Zambia,2017,61000
+3616,Zambia,2016,61000
+3617,Zambia,2015,62000
+3618,Zambia,2014,63000
+3619,Zambia,2013,65000
+3620,Zambia,2012,66000
+3621,Zambia,2011,67000
+3622,Zambia,2010,67000
+3623,Zambia,2009,68000
+3624,Zambia,2008,69000
+3625,Zambia,2007,69000
+3626,Zambia,2006,70000
+3627,Zambia,2005,71000
+3628,Zambia,2004,73000
+3629,Zambia,2003,75000
+3630,Zambia,2002,76000
+3631,Zambia,2001,78000
+3632,Zambia,2000,79000
+3633,Zimbabwe,2018,30000
+3634,Zimbabwe,2017,31000
+3635,Zimbabwe,2016,33000
+3636,Zimbabwe,2015,33000
+3637,Zimbabwe,2014,38000
+3638,Zimbabwe,2013,41000
+3639,Zimbabwe,2012,47000
+3640,Zimbabwe,2011,50000
+3641,Zimbabwe,2010,53000
+3642,Zimbabwe,2009,56000
+3643,Zimbabwe,2008,60000
+3644,Zimbabwe,2007,65000
+3645,Zimbabwe,2006,68000
+3646,Zimbabwe,2005,71000
+3647,Zimbabwe,2004,73000
+3648,Zimbabwe,2003,74000
+3649,Zimbabwe,2002,74000
+3650,Zimbabwe,2001,74000
+3651,Zimbabwe,2000,72000
