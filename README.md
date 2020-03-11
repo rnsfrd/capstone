@@ -63,11 +63,11 @@ Additionally I aimed to find relations between inputs that provide insight into 
 
 Because I wanted to see how the inputs of infrastructure might affect the spread of disease it was critical to choose a country whose infrastructure had significant change over time as well as had diseases that were random in magnitude year to year. The problem addressed here concerns itself primarily with developing countries that are politically unstable which leads to infrastructure instability. To measure this we took the Coeffecient of Variation (COV) for infrastructure data and compared countries to see which ones were most volatile. As shown in the chart below most of these countries were developing countries that might not have stable governments. L
 
-<img src="./Images/infrastructure_cov.png"  width="600" height="600">
+<img src="./Images/infrastructure_cov.png"  width="600" height="400">
 
 Next, we wanted to take countries that had a high number of cases with a large Coeffecient of Variation for that disease. The image below showing the relation between COV and # of measles cases shows that while most countries have around the same 20 year totals the variation year over year is very different, which means some countries have contained it, while others still have spikes and outbreaks. This was consistent for all diseases.
 
-<img src="../Images/measles_cov.png"  width="600" height="600">
+<img src="./Images/measles_cov.png"  width="600" height="600">
 
 The country I selected for modelling was **Mexico** because of the following disease and infrastructure metrics:
 
@@ -87,7 +87,7 @@ Given the time series data and presence of exogenous variables, I fit an Arimax 
 
 ### Predictions
 
-<img src="../Images/preds.png"  width="600" height="600">
+<img src="./Images/preds.png"  width="600" height="600">
 
 **Baseline**: 10145 (Mean of Total Cases)<br>
 **Predictions RMSE**: 23867
@@ -119,19 +119,19 @@ For every unit change in the feature the number of cases goes up or down the ass
 
 Although it was expected that we wouldn't be able to test our model to a significant extent, we did observe some relationships that will help direct further projects and models. Some noteworth relationships are shown below
 
-<img src="../Images/healthcare_cov.png"  width="600" height="600">
+<img src="./Images/healthcare_cov.png"  width="600" height="600">
 
 The first interesting relationship is that while developing and third world countries typically have the highest non-healthcare infrastructure variation, many 1st world countries have high variation for healthcare. This is likely because one of the things that makes a country 'developed' is having a robust medical system. These countries likely devote and reinvest a significant portion of their money every year into improving healthcare whereas many developing countries do not have the means to therefore their healthcare budgets stay roughly the same year to year.
 
-<img src="../Images/hosp.png"  width="600" height="600">
+<img src="./Images/hosp.png"  width="600" height="600">
 
 Diving into relationships observed within Mexico, interestingly as the number of hospitals increases the number of cases increases. This observation has led me to rethink how I tackle public health policies moving forward. I cannot assume causal relationships because the collection of data is something to take into consideration. With more hospitals the more cases will be reported which is one aspect I did not consider. Also, it is possible that in developing countries, infrastructure is more reactionary than preparatory. Meaning, because of limited resources they do not increase spending on healthcare unless they have to. So as disease increases so does the number of hospitals, doctors, medical tech, etc which was something also observed by looking at the coeffecients above. 
 
-<img src="../Images/internet.png"  width="600" height="600">
+<img src="./Images/internet.png"  width="600" height="600">
 
 Another interesting observation was that as the number of people on the internet increased so did the number of cases. While I thought better access to information might limit the spread of disease because people could be better informed, have more knowledge on prevention and how to treat things, the opposite proved true. While this relationship might just be coincidental, it does raise an interesting question that I could examine further, how by having a more 'social' society can affect the spread of disease compared to rural settings.
 
-<img src="../Images/san_tran.png"  width="600" height="600">
+<img src="./Images/san_tran.png"  width="600" height="600">
 
 The last thing that was very interesting was that the more money spent on sanitation and transportation the more disease there was. Transportation might be obvious because as more people commute the easier a disease spreads compared to areas with no rail lines, buses, or available walkways. Sanitation however offers an unusual relationship as one would expect there to be an inverse relationship. Again, this might offer insight as to how developing countries operate; they do not increase funding for prevention, but as a reaction to something bad happening. So it could be in fact that spending in sanitation increases after the nubmer of diseases spikes.
 
